@@ -19,7 +19,8 @@ before_script:
 build:
   stage: build
   script:
-    - git remote add pushable https://fein:$PUSH_ACCESS_TOKEN@git.fim.uni-passau.de/fein/artemis-changelog.git
+    - REPO_URL=https://fein:$PUSH_ACCESS_TOKEN@git.fim.uni-passau.de/fein/artemis-changelog.git
+    - git remote add pushable $REPO_URL | git remote update pushable $REPO_URL
     - poetry run python ./artemis_changelog/main.py --output-dir=changelog
     - git add changelog
     - git push -o ci.skip pushable main
