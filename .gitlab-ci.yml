@@ -27,6 +27,6 @@ build:
     - git config --global user.name "Benedikt Fein"
     - git add changelog
     - git commit -m "scheduled update"
-    - git push -o ci.skip pushable $CI_DEFAULT_BRANCH
+    - git push -o ci.skip pushable changelog
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
