@@ -1,0 +1,7 @@
+= Changes between 2.8.0 and 2.8.1
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/5533734a7408688cb883fa56aba4db42208f1bd2[change TutorParticipation <—> ExampleSubmission from OneToMany to ManyToMany]
+
+

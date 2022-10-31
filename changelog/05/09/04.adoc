@@ -1,0 +1,7 @@
+= Changes between 5.9.3 and 5.9.4
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/4fab2296817dd808596d41c7e344e636b8ed5de3[Programming exercises: Fix PMD version in Java Maven template (#5468)]
+
+

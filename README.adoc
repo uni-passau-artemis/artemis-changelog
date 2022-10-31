@@ -1,1 +1,9 @@
-include::changelog/README.adoc[]
+= Readme
+:toc: left
+
+Run `poetry run python ./artemis_changelog/main.py --output-dir=changelog`.
+The index only contains the 20 newest releases.
+
+:leveloffset: +1
+
+include::changelog/index.adoc[]

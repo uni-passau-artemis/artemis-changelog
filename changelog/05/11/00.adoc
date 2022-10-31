@@ -1,0 +1,24 @@
+= Changes between 5.10.2 and 5.11.0
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/01dbb157f8cb1333f80cfccf915859176f4bcc30[Development: Persist logs for 90 instead of 7 days. (#5631)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/ea761373b792a3eb6f860e5ae00a3a902386f7a7[Lectures: Allow instructors to define relations between learning goals (#5311)]
+* link:https://www.github.com/ls1intum/Artemis/commit/14df0c0ad1e15448dd01f0d9d39e04912cce4b43[Assessment: Map bonus to exam grades (#5222)]
+* link:https://www.github.com/ls1intum/Artemis/commit/be91820c4fd7d21ed20f4498ec4af4fe87ce2d8f[Tutorial groups: Allow instructors to create tutorial groups  (#5533)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8792acae91e28b1217af3a4c274a81745d5535d3[Development: Fix an issue with the database datatype of verdict_by_id]
+* link:https://www.github.com/ls1intum/Artemis/commit/503bb6ea44eb1939f5e37dfcd0a219317049c3fb[Development: Refactor the relation between learning goals and exercises (#5642)]
+* link:https://www.github.com/ls1intum/Artemis/commit/593283a9b50a476824af052f7e3aae139262c297[Programming exercises: Add build log analytics (#5337)]
+* link:https://www.github.com/ls1intum/Artemis/commit/96e94e61cb7c2a914514ecb7250e4217b61a8efc[Assessment: Fix issues in the calculation of participant scores (#5665)]
+* link:https://www.github.com/ls1intum/Artemis/commit/27cd9644e0d6a36945605408119be2012af26a82[Communication: Add private messages between course participants (#4825)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/593283a9b50a476824af052f7e3aae139262c297[Programming exercises: Add build log analytics (#5337)]
+
+

@@ -1,0 +1,17 @@
+= Changes between 4.7.0 and 4.7.1
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/e604dea140eed99dd577b2c5a164cc91c3f3de68[Feature/guided tour/automatic assignment of tutorial groups (#2245)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/d9e65d4c359fcfd5aa216e887a6dd626c76fd47b[Increase registration message maximum length (#2311)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/26644823d66f61af81156969d81ba825985f6f58[Programming Template UML Visibilities (#2313)]
+
+

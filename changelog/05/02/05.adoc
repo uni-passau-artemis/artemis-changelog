@@ -1,0 +1,7 @@
+= Changes between 5.2.4 and 5.2.5
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/f661f31435fa625f4105eb25663ecaaafa45124b[Text & Modeling Exercises: Introduce Assessment Knowledge (#3615)]
+
+

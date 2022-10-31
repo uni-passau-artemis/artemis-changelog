@@ -1,0 +1,7 @@
+= Changes between 4.2.12 and 4.3.0
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/aa45a5c163f9d676f7117d634e07e519da1c288b[Added publishResultsDate, examStudentReviewStart, examStudentReviewEnd fields to Exam (#1830)]
+
+

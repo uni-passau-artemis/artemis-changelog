@@ -1,0 +1,17 @@
+= Changes between 5.2.2 and 5.2.3
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/f1dd8d85f197690c602e7ee7606588b0472b5fbd[Notifications: Add notifications settings 🔔 in the new user settings menu ⚙ (#3922)]
+* link:https://www.github.com/ls1intum/Artemis/commit/4a0b22a0ba060b299200128c604cbfc4d4e85e1b[General: Unify rounding of scores, allow rounding customizations in courses and enable more grade step configurations (#4071)]
+* link:https://www.github.com/ls1intum/Artemis/commit/3609418cb5f92e043b1ac79dba55bed3d2f638b7[Development: Drop unused column for automatic assessment (#4099)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2c8d89df4468be4aa7166f3aed468f02f4daad85[Discussion: Remove unused column in migration and fix minor UI bug (#4153)]
+* link:https://www.github.com/ls1intum/Artemis/commit/1800df3a1dec9b757c99f19dcf00fed8dcf17940[Text Exercises: Visualize Athene Text Clusters (#3910)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/bf001c673d4a1cbf65d2ff8d84162baa4a281d21[Programming exercises: Update Java template to JDK17 (#4102)]
+* link:https://www.github.com/ls1intum/Artemis/commit/5300eb0b9ed1d49c84a9409f5fb96fb2dfb5a4db[Programming exercises: Upgrade ocaml template (#4068)]
+
+

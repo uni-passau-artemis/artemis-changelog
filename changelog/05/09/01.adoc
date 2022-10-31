@@ -1,0 +1,20 @@
+= Changes between 5.9.0 and 5.9.1
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/c2706bfd51c64de0cbb68bcf4e070c402a1235c7[Programming exercises: Re-enable Haskell exercises in Jenkins setups (#5305)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/58dd7a6bb687ca64e03bca784a528d9ef2e81a6d[Development: Drop result_string column (#5350)]
+* link:https://www.github.com/ls1intum/Artemis/commit/36212598eae2c0bafb8805a935b8c48334a35ea5[Programming exercises: Make hint display threshold editable (#5261)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/c2706bfd51c64de0cbb68bcf4e070c402a1235c7[Programming exercises: Re-enable Haskell exercises in Jenkins setups (#5305)]
+* link:https://www.github.com/ls1intum/Artemis/commit/653039ad7e027f4227efd2cc4f3fbc055c7b8eef[Programming exercises: Add option to ignore elements in the Java test oracle generator (#4713)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ed6e8ceb0b1ca2a95e70d6cf0ef22d65d747113c[Programming exercises: Add the option to record the test-wise coverage for Java/Kotlin programming exercises with Maven (#5220)]
+
+

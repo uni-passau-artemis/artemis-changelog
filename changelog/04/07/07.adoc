@@ -1,0 +1,7 @@
+= Changes between 4.7.6 and 4.7.7
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/9c0a609f17c484a7748e3d94bc18f90b05d705a7[change background color for classes to white in plant uml]
+
+

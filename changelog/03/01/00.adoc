@@ -1,0 +1,7 @@
+= Changes between 3.0.3 and 3.1.0
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/4bdea0672ebb8d6180af9511dced9ad2abcfceb3[fix code formatting with spotless and prettier]
+
+

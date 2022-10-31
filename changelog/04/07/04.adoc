@@ -1,0 +1,13 @@
+= Changes between 4.7.3 and 4.7.4
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/3d22b97a66441abf01d7539d4dff9c76471eb141[Allow instructors to show test names to students in programming exercises (#2381)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/9064344c0f3ae037ecda319805de5f102927bae2[Simplify Java programming exercise templates based on new artemis-java-test-sandbox version (#2382)]
+* link:https://www.github.com/ls1intum/Artemis/commit/469b19ed70544856ae944b55e8d6093a66947df8[update AJTS to 1.3.4]
+
+

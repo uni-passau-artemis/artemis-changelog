@@ -1,0 +1,20 @@
+= Changes between 3.6.0 and 3.7.0
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/0521ddbce8ce764674e8a7c7febf3457aad0def9[update to jhipster 6.3.1]
+* link:https://www.github.com/ls1intum/Artemis/commit/15c9820fbd487b21d50577fe426aeff46c68d5c2[update client and server dependencies, update to jhipster 6.3.0]
+* link:https://www.github.com/ls1intum/Artemis/commit/5d26185267dd599835b88730cce0d528fc805fa5[fix path to max file size in comment]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/a148920e688d8bac6df7f1b72439c1f2e13a5328[Feature/Add new automatic submission run property to programming exercises (#798)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/fd5f256a0e662d97691923ff92c43dcdba335bbc[Bugfix/Fix python programming exercise template issues (#800)]
+* link:https://www.github.com/ls1intum/Artemis/commit/15c9820fbd487b21d50577fe426aeff46c68d5c2[update client and server dependencies, update to jhipster 6.3.0]
+
+

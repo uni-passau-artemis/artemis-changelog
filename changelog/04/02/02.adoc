@@ -1,0 +1,8 @@
+= Changes between 4.2.1 and 4.2.2
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/995e0b6405c02a58e517dc59f37e14566004944e[feature/SSH clone (#1593)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f28a40e3077be07e6ff6a083d2303d1cfc3499de[Disable registry by default. (#1666)]
+
+

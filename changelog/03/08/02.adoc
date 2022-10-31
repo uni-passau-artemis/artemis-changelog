@@ -1,0 +1,7 @@
+= Changes between 3.8.1 and 3.8.2
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/294e6b82b787a49487f580cff1602613e9f41974[Added file upload exercise to views (#919)]
+
+

@@ -1,0 +1,7 @@
+= Changes between 1.4.1 and 1.4.2
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/306397a2e114a69a2dddde568634529de5538c50[Feature/single endpoint for course page (#67)]
+
+

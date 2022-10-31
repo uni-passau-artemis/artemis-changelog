@@ -1,0 +1,7 @@
+= Changes between 3.1.6 and 3.1.7
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/a67e301aed0a7fa60beda9f343ac40e837b71a8f[small improvement in Java template for programming exercises: ClassTest]
+
+

@@ -1,0 +1,12 @@
+= Changes between 4.3.2 and 4.3.3
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/ff7468f05e72a838383e5b509938ffad222cc8f9[Feature/tutor assessment tracking (#1719)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/123fabb9944593913d04d302106f30bdfcdfa45e[Submit StudentExam after Exam ended (#1867)]
+
+

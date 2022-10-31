@@ -1,0 +1,7 @@
+= Changes between 3.8.0 and 3.8.1
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/fbfc710240e0deb4aa265431f53e07093ea372b9[Bugfix: Presentation score (#886)]
+
+

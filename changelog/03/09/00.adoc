@@ -1,0 +1,7 @@
+= Changes between 3.8.9 and 3.9.0
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/d08597574cb61922319995ea27e1bc8209a180d7[Feature/Programming Exercise/Activate tutor dashboards (#956)]
+
+

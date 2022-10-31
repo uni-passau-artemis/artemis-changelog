@@ -1,0 +1,7 @@
+= Changes between 5.5.4 and 5.5.5
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/46873215ce448d2d0530b1b9016fea445ee0833e[Programming exercises: Update Java and Kolin templates to use Ares 1.8.0 (#4693)]
+
+

@@ -1,0 +1,8 @@
+= Changes between 5.8.0 and 5.8.1
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/16ead8bec198d7cb67faebcbcceb49dc4637859c[Development: Fix a significant performance issue in a database migration script]
+* link:https://www.github.com/ls1intum/Artemis/commit/3c85d7afe50423562acf6a91365e3ba4f3c5db43[Plagiarism checks: Rework plagiarism management and student notifications (#4933)]
+
+

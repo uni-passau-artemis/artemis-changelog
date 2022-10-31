@@ -1,0 +1,14 @@
+= Changes between 5.5.0 and 5.5.1
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/11cef20c9b80489e570dc9954c7d1b05ab5a390c[General: Improve the retrieval of user data when authenticating over external service providers based on SAML2 (#4589)]
+* link:https://www.github.com/ls1intum/Artemis/commit/0c8d44d149beff273a6c3bd68a17bb9a8081cd9c[Development: Move build image definition into different yml file]
+* link:https://www.github.com/ls1intum/Artemis/commit/f82efae8f6fa9bded4a13e5a158d6da523c7a90a[Programming exercises: Allow administrators to configure the used docker build images for programming languages (#4455)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/15475dce6d43718cb37490246f8ead148a04844b[Development: Update dependencies]
+
+

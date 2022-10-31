@@ -1,0 +1,7 @@
+= Changes between 1.1.3 and 1.1.4
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/57a8b73144b23de644f813bf4f5abbf0d5fa21e1[Add allowOnlineEditor to Exercise entity]
+
+

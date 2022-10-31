@@ -1,0 +1,7 @@
+= Changes between 3.8.3 and 3.8.4
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/28c1ffab63b22501af9ae7f7c76cc7db45ce413c[try to catch an issue when students start programming exercises right after they have]
+
+

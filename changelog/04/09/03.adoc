@@ -1,0 +1,9 @@
+= Changes between 4.9.2 and 4.9.3
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/fef8e41208b355cac16c6b98e6148a157a3b9aca[Allow to categorize exercises into included into score, as bonus exercises or as optional exercises (#2651)]
+* link:https://www.github.com/ls1intum/Artemis/commit/1932bb7fe086ad071fb283f5a0eaa4cf7832e454[Fix issues in the exam mode test runs (#2738)]
+* link:https://www.github.com/ls1intum/Artemis/commit/38dbb8946a52890933ffbace4d64b722d3d992d1[Allow to enable / disable second correction for exam exercises  (#2768)]
+
+

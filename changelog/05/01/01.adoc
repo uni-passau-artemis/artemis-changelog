@@ -1,0 +1,8 @@
+= Changes between 5.1.0 and 5.1.1
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/2b7d89eef52c2c8232c01eacaef8a6417bf46d73[Remove no longer used database column after_due_date (#3822)]
+* link:https://www.github.com/ls1intum/Artemis/commit/be774cc57fa94b1b07e99adb5ca649caa36451c2[Add new complaint assessment type for programming exercises (#3794)]
+
+

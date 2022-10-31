@@ -1,0 +1,7 @@
+= Changes between 5.4.0 and 5.4.1
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/795b3c8ab09fa144d47eaf654e9c7a05ffcdf58a[Development: Update dependencies]
+
+

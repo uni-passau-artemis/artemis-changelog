@@ -1,0 +1,21 @@
+= Changes between 5.7.1 and 5.7.2
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/97313e2b7dc2eb9bed4c79a2f0f545e7dffd7f70[Programming exercises: Upgrade docker image for Java programming exercises to java17-5 (#4887)]
+* link:https://www.github.com/ls1intum/Artemis/commit/fec6bba08ecb736d79ef5e037cca06d009569b74[Exam mode: Make browser fingerprints configurable for administrators (#4914)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/fe9f7aeafa35a2dc8bc2b210a0fb64ad8bfac39a[General: Allow instructors to configure variable complaint text limits per course (#4810)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ce289f5583388a649f7d6e566ea80e678cdd51b2[Exam mode: Add basic structure for test exams and refactor exam creation dialog (#4892)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/2ad711fa155f5421309ed8a7ebd709019453c228[Programming exercises: Upgrade static code analysis dependencies (#4912)]
+* link:https://www.github.com/ls1intum/Artemis/commit/0a5be99461ec7f30524a59792aea407f15ad42c5[Programming exercises: Fix gradle project test source set for package names starting with "test" (#4900)]
+* link:https://www.github.com/ls1intum/Artemis/commit/7a8fbe1b5ef4300a4ccd5930172889ad453cbfbc[Programming exercises: Upgrade to Ares 1.9.2 (#4857)]
+
+

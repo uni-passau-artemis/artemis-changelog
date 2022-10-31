@@ -1,0 +1,18 @@
+= Changes between 5.5.2 and 5.5.3
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/6a8902995a1b627cd50059ef2c695e5d85f66d60[Programming exercises: Add FACT as additional template for C (#4036)]
+* link:https://www.github.com/ls1intum/Artemis/commit/d8fbdd773b89faec96c5c2179c1646c821234314[General: Change the way how external users are registered on Artemis with LTI (#4508)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/d8fbdd773b89faec96c5c2179c1646c821234314[General: Change the way how external users are registered on Artemis with LTI (#4508)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/6a8902995a1b627cd50059ef2c695e5d85f66d60[Programming exercises: Add FACT as additional template for C (#4036)]
+
+

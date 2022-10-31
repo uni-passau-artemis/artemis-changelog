@@ -1,0 +1,7 @@
+= Changes between 5.2.6 and 5.2.7
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/13869dcbdcd87123d96b10fe07a5c699848cdc5a[Programming exercises: Improve the Xcode Swift template (#4123)]
+
+

@@ -1,0 +1,7 @@
+= Changes between 5.7.0 and 5.7.1
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/1e59ef8859d4931d13d3cb7c4a4bc0ab4fad3c7a[Programming exercises: Add git-diff generation between template and solution repositories (#4732)]
+
+

@@ -1,0 +1,7 @@
+= Changes between 4.12.3 and 4.12.4
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/eab2cd8b49b787ab1a30c257f6c8f4d50f50e574[Fix C Jenkinsfile: replace escape code with valid one (#3491)]
+
+

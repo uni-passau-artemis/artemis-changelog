@@ -1,0 +1,7 @@
+= Changes between 5.0.1 and 5.0.2
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/d912ec2e5a71edcb9456bd7dab767a7fbf7dd599[Update the Metis data model: introduce post tags, course-wide context and reactions (#3527)]
+
+

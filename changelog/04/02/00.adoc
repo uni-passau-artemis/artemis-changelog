@@ -1,0 +1,7 @@
+= Changes between 4.1.3 and 4.2.0
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/d04f8f82e1d039d68e698853080bd7b1e4a567ad[[Exam\] Variants: Data model (#1581)]
+
+

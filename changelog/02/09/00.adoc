@@ -1,0 +1,8 @@
+= Changes between 2.8.1 and 2.9.0
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/183a35157460fb243b6bb423e305d43b0639c6e4[Add Sentry (#294)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c619fa64644aac6d0831e7de0c0f9280a0b53a03[Feature/lectures (#295)]
+
+

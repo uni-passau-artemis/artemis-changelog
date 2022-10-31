@@ -1,0 +1,7 @@
+= Changes between 3.9.6 and 3.9.7
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/942019bd8ff378678a20cbe1a88f3b6b923db05b[make 100% sure that tutor participations are unique]
+
+

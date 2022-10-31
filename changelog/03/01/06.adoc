@@ -1,0 +1,7 @@
+= Changes between 3.1.5 and 3.1.6
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/555ba2fe95b76cd107249eea60c40b6dc760b80d[improve Java programming exercise template]
+
+

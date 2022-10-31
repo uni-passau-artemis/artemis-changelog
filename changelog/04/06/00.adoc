@@ -1,0 +1,19 @@
+= Changes between 4.5.2 and 4.6.0
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/ef1fe176cff9f8808f1a680861ee5a759b1bcbf8[Update server and client dependencies (TypeScript 4) (#2135)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8e5a382d8cb39463b7770007083b641fe17ed815[Enable account registration (#2143)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/65ee88d2d945ee5fc40d937635c01e67b27176e8[Store static code analysis configuration (#2086)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/ef1fe176cff9f8808f1a680861ee5a759b1bcbf8[Update server and client dependencies (TypeScript 4) (#2135)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8e5a382d8cb39463b7770007083b641fe17ed815[Enable account registration (#2143)]
+
+

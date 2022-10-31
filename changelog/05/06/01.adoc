@@ -1,0 +1,7 @@
+= Changes between 5.6.0 and 5.6.1
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/7a4acf337c9c01848860368809fccdb4651c23aa[Development: Reduce the length of the commit_hash column in the submission table to 60 (#4773)]
+
+

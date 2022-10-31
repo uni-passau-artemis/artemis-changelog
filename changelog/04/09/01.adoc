@@ -1,0 +1,20 @@
+= Changes between 4.9.0 and 4.9.1
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/c41174b09961f97774fa36ee1b6e6888d61c1596[fix issue with outdated spring.profiles.active variable]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/0df07fbe2fa9d964f1c4305e558ae26a9501f548[Allow different matching percentages for short answer question submissions (#2704)]
+* link:https://www.github.com/ls1intum/Artemis/commit/04a3194e88aa127ff8c7cc14e29bc5253f29dc5b[increase quiz question text column to allow larger quiz texts]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/052a0145e09e4f61f9d5e54e989b8c628003c856[Enable c programming exercise template again on Jenkins setup (#2697)]
+* link:https://www.github.com/ls1intum/Artemis/commit/867b181009aeb3289114ea5ebc725684bf1f3310[Update artemis-java-test-sandbox version in Java programming exercises]
+* link:https://www.github.com/ls1intum/Artemis/commit/fd9ec34e076b13640dd89a554794f22f2d6b66d1[Update artemis-java-test-sandbox to version 1.4.6 (#2721)]
+
+

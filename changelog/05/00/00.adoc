@@ -1,0 +1,24 @@
+= Changes between 4.12.9 and 5.0.0
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/2176e2d2baf21354a96c3692437b315a9dee252b[Allow to configure the default branch directly in Artemis (#2844)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/5bacbd6c17896cedf9e5600f0b291aef5ba3b744[Allow instructors to define absolute points for grade keys (#3564)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f7d4291d3934ce04aa12049e64be25175f0b1505[Auxiliary Repositories for Programming Exercises (#3457)]
+* link:https://www.github.com/ls1intum/Artemis/commit/fa90f52fcdfd159faffb42a9abd7b7f82b571561[Re-activate Compass with a modeling cluster process without Hazelcast caches (#3515)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/6403d37c3a217ce29f5c30335bb162bb5f753a49[Add guidelines for inclusive, diversity-sensitive language (#3605)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2176e2d2baf21354a96c3692437b315a9dee252b[Allow to configure the default branch directly in Artemis (#2844)]
+* link:https://www.github.com/ls1intum/Artemis/commit/bd9703a3c5e645c13e512c3b8aa11acd37f01730[Remove sudo from C Jenkinsfile (#3611)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f8473ba895f4c54ad893fcb38e86b6943e843937[Add new Artemis logo  (#3626)]
+* link:https://www.github.com/ls1intum/Artemis/commit/45df7845d6eb986235980de2f57a8d9be36232f6[Update artemis-java-test-sandbox to version 1.5.5 (#3555)]
+* link:https://www.github.com/ls1intum/Artemis/commit/425f826477b4a225d3863fabcd49a5cc51f80625[Modernize programming exercise template JUnit 5 and Ares tests (#3557)]
+
+

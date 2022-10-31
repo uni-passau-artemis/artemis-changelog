@@ -145,7 +145,7 @@ def create_changelogs(
 def create_index(
     output_dir: Path, tags: Iterable[tuple[semver.VersionInfo, git.Tag]]
 ) -> None:
-    output_path = output_dir / "README.adoc"
+    output_path = output_dir / "index.adoc"
 
     with open(output_path, "w") as f:
         f.write("= Artemis Changelog\n")

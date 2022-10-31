@@ -1,0 +1,13 @@
+= Changes between 2.4.0 and 2.5.0
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/69d091e04c1c979dfaece029574b91173bc88f5a[migrate programming exercise repo url and build plan id to participations (#181)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/ee8c34c3a54bf5c299990777ad8ddd2c195448a5[Feature/python programming exercise template (#183)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f9caa5db4ce5c147784f5d4198d964b89c87b699[Improve test cases for programming exercises (#184)]
+
+

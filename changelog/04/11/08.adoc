@@ -1,0 +1,7 @@
+= Changes between 4.11.7 and 4.11.8
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/aafbdeceb25f4a867ed38c63e857be60a6f8465d[Improve automatic cleanup service, add configuration options batch size and waiting time for external requests (#3298)]
+
+

@@ -1,0 +1,13 @@
+= Changes between 5.2.7 and 5.3.0
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/0666c64e500ef2b00d505842f6766a73892d388f[Development: Fix an issue in the configuration of a default username regex pattern]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/ab1368d7fceef5dfb4dbc28f13274a69a84d62b7[Programming exercises: Add submission policies for programming exercises (#4073)]
+* link:https://www.github.com/ls1intum/Artemis/commit/e8bc5159dd69c8849170a1f04282d0798d089daf[`Development`: Integrate assessment knowledge to text blocks and model elements (#3964)]
+
+

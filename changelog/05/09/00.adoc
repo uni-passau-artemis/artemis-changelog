@@ -1,0 +1,18 @@
+= Changes between 5.8.7 and 5.9.0
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/0f5ff4276c560800e73a2ea4621cff1829f52520[General: Allow admins to hide the password-based login form (#5291)]
+* link:https://www.github.com/ls1intum/Artemis/commit/13149b440006186c949c132a307dd9c2d3332ff6[Development: Reduce client main bundle size and introduce caching (#5322)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/144df9a11ca8e3f9dc0db46984393d7b01cd9574[Development: Refactor result string generation (#5175)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/4cc5012562b67471b265d84785001f904603a6f1[Programming exercises: Ignore complete assignment directory in test repositories (#5338)]
+
+

@@ -1,0 +1,7 @@
+= Changes between 3.7.1 and 3.7.2
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/1e6597af9b0bd5bfc59399d4a97b8853ddfee43f[update Java test framework for programming exercises]
+
+

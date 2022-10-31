@@ -1,0 +1,12 @@
+= Changes between 4.2.9 and 4.2.10
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/3377a8e2f767c89a25c66c2c703256b594de6cde[Fix non working authentication over LTI (#1814)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/c40e84b67799320848506fcc09857f9503e80aa5[IP Logging for Exam Sessions (#1808)]
+
+

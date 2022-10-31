@@ -1,0 +1,16 @@
+= Changes between 5.6.1 and 5.7.0
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/befd4046db049c540de32030839b2a8ee232bf91[General: Change password handling for internal users (#4768)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2b76b75450231ae63a029ccb414fa70a3d41b08f[Development: Add bcrypt-salt-rounds to make sure the deployment works correctly]
+* link:https://www.github.com/ls1intum/Artemis/commit/6ee62b7a7cd7540e862c6f53d14b34bf137a550b[Programming exercises: Change default branch from master to main (#4833)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/dc6bdbf043b3b252954aeacf8e09bd7d57b9cd3b[Notifications: Add basic weekly summary emails (#4512)]
+* link:https://www.github.com/ls1intum/Artemis/commit/d0bcdd1d11c5b5bd198cb623c96075e21f9eba08[Programming exercises: Add Gradle as project type for Java exercises on Atlassian setup (#4781)]
+* link:https://www.github.com/ls1intum/Artemis/commit/6ee62b7a7cd7540e862c6f53d14b34bf137a550b[Programming exercises: Change default branch from master to main (#4833)]
+
+

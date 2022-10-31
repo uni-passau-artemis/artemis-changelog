@@ -1,0 +1,7 @@
+= Changes between 3.0.1 and 3.0.2
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/a972376af1c00d7732c9e980a65b9a32e98d0330[small improvements in junit structure test cases]
+
+

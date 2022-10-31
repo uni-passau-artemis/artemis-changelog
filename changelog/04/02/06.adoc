@@ -1,0 +1,17 @@
+= Changes between 4.2.5 and 4.2.6
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/388e3b4aecb6116bab823d48328af1129062d2fd[Make uploads directory configurable (#1731)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/dbc1a610c2dfb7374448f5457b61e69c18b5ecfe[Add working time to student exam (#1716)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/43c4bde11667543fd174dacd68b626ef4f35c4fa[update jhipster to 6.10.0]
+
+

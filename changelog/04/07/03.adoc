@@ -1,0 +1,8 @@
+= Changes between 4.7.2 and 4.7.3
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/d8027bf77bb83ee2ca1275af81b291616f18f1c0[Add template for Swift programming exercises (#2326)]
+* link:https://www.github.com/ls1intum/Artemis/commit/80edddb1244053d1230acdc0290999e9d49778da[Move Jenkins build process to pipelines & make templates configurable. (#2306)]
+
+

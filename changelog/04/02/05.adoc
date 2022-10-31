@@ -1,0 +1,17 @@
+= Changes between 4.2.4 and 4.2.5
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/84b7fd315cc4f91f0a77c8c250fdda7e17adb1fd[Add hazelcast configuration options. (#1681)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/f984da57c052f85d9994cb634d739fa3ae3d4163[Exam participation mode (#1682)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/ad19eb292788e1871c420bcfa84a30cb0f745fec[improve Haskell template based on suggestions by kappelmann]
+
+

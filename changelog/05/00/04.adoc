@@ -1,0 +1,7 @@
+= Changes between 5.0.3 and 5.0.4
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/6a7b15dc49cda4477cee17cfe622f2ec352f786a[Integrate a minimal Xcode (SwiftUI) template to Artemis (#3618)]
+
+

@@ -1,0 +1,12 @@
+= Changes between 4.9.5 and 4.9.6
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/d20e93b929bb5181b2457029b19a9751a8a2c660[Add options to archive and cleanup a course (#2813)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/d20e93b929bb5181b2457029b19a9751a8a2c660[Add options to archive and cleanup a course (#2813)]
+
+

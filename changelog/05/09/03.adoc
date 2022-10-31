@@ -1,0 +1,7 @@
+= Changes between 5.9.2 and 5.9.3
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/6f1402ab2165a6d182f2eb8b938f95de869aa79b[Exam mode: Make storing exam sessions configurable for administrators (#5297)]
+
+

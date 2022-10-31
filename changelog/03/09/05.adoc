@@ -1,0 +1,7 @@
+= Changes between 3.9.4 and 3.9.5
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/494f01bed53d2d03405738722cd2885e78c0af42[Add TextSegmentationService. Integrate into TextClusteringService (#901)]
+
+

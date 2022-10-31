@@ -1,0 +1,7 @@
+= Changes between 4.8.1 and 4.8.2
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/0298e85fea039db66a53317c8291314a1d07c2aa[Remove unique constraint between submission and result (#2548)]
+
+

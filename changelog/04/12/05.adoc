@@ -1,0 +1,18 @@
+= Changes between 4.12.4 and 4.12.5
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/8d697281118e326142e187a7c8eb30eca0c5d73f[[Enchancement\] Improve Account Registration (#3478)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/2d0fc6013fac9001f2bc2d4aebd1fb789dcf8896[[Refactoring\] Q&A to Metis Refactoring (#3490)]
+* link:https://www.github.com/ls1intum/Artemis/commit/7235801dcd675f907207bacf42907f06e29dc9fc[fix data type issues in liquibase migration to avoid issues]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/d19b274081d5e3bb609a5863fa2c2a5ccac1351f[[Feature\] Empty Programming Exercises (#3506)]
+
+

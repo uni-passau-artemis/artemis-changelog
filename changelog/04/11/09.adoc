@@ -1,0 +1,7 @@
+= Changes between 4.11.8 and 4.11.9
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/13d2d77403de15270a7c6ffbd6210ed2c169551d[Add a new editor role between instructor and tutor (#3256)]
+
+

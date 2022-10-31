@@ -1,0 +1,7 @@
+= Changes between 3.10.1 and 3.10.2
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/343b72d1c2c0b352d64f0fbc21633ce2a8d17730[Remove deprecated build artifact column from Result (#1213)]
+
+
