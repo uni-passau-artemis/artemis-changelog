@@ -1,0 +1,25 @@
+stages:
+  - build
+
+cache:
+  paths:
+    - .venv/
+    - .cache/pip
+    - .cache/pypoetry
+    - artemis
+
+image: python:3.10
+
+before_script:
+  - python --version
+  - pip install poetry
+  - poetry config virtualenvs.in-project true
+  - poetry install
+
+build:
+  stage: build
+  script:
+    - git remote add pushable https://fein:$PUSH_ACCESS_TOKEN@git.fim.uni-passau.de/fein/artemis-changelog.git
+    - poetry run python ./artemis_changelog/main.py --output-dir=changelog
+    - git add changelog
+    - git push -o ci.skip pushable main
