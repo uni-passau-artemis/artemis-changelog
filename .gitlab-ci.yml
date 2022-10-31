@@ -27,4 +27,4 @@ build:
     - git commit -m "scheduled update"
     - git push -o ci.skip pushable $CI_DEFAULT_BRANCH
   rules:
-    - if: ($CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
