@@ -22,11 +22,12 @@ build:
     - REPO_URL=https://fein:$PUSH_ACCESS_TOKEN@git.fim.uni-passau.de/fein/artemis-changelog.git
     - git remote add pushable $REPO_URL || git remote set-url pushable $REPO_URL
     - git checkout $CI_DEFAULT_BRANCH
+    - git pull
     - poetry run python ./artemis_changelog/main.py --output-dir=changelog
     - git config --global user.email "fein@fim.uni-passau.de"
     - git config --global user.name "Benedikt Fein"
     - git add changelog
     - git commit -m "scheduled update"
-    - git push -o ci.skip pushable changelog
+    - git push -o ci.skip pushable $CI_DEFAULT_BRANCH
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
