@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "artemis-changelog"
+version = "0.1.0"
+description = ""
+authors = ["Benedikt Fein <benedikt.fein@gmail.com>"]
+readme = "README.adoc"
+packages = [{include = "artemis_changelog"}]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<4.0"
+gitpython = "^3.1.29"
+semver = "^2.13.0"
+more-itertools = "^9.0.0"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^22.10.0"
+flake8 = "^5.0.4"
+pylint = "^2.15.5"
+mypy = "^0.982"
+isort = "^5.10.1"
+reuse = "^1.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
