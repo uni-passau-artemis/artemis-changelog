@@ -21,8 +21,8 @@ build:
   script:
     - REPO_URL=https://fein:$PUSH_ACCESS_TOKEN@git.fim.uni-passau.de/fein/artemis-changelog.git
     - git remote add pushable $REPO_URL || git remote set-url pushable $REPO_URL
-    - poetry run python ./artemis_changelog/main.py --output-dir=changelog
     - git checkout $CI_DEFAULT_BRANCH
+    - poetry run python ./artemis_changelog/main.py --output-dir=changelog
     - git config --global user.email "fein@fim.uni-passau.de"
     - git config --global user.name "Benedikt Fein"
     - git add changelog
