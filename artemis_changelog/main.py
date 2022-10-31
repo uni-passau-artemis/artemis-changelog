@@ -44,7 +44,7 @@ def get_release_tags(repo: git.Repo) -> list[tuple[semver.VersionInfo, git.Tag]]
 
 
 def commits_between(a: git.Tag, b: git.Tag) -> set[str]:
-    git_cmd = git.cmd.Git("tmp/artemis")
+    git_cmd = git.cmd.Git("artemis")
     output = str(git_cmd.execute(["git", "log", "--oneline", f"{a.name}..{b.name}"]))
     return set(line.split()[0] for line in output.splitlines())
 
