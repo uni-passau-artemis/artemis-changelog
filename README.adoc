@@ -1,8 +1,22 @@
 = Readme
 :toc: left
 
-Run `poetry run python ./artemis_changelog/main.py --output-dir=changelog`.
+[abstract]
+--
+Searches for all commits between Artemis releases that make changes to the configuration files, contain database migrations, or change template files.
 The index only contains the 20 newest releases.
+The `changelog/` directory contains information about previous releases as well.
+--
+
+
+== Generating the Changelog
+
+[source,bash]
+....
+poetry install # only when running for the first time
+poetry run python ./artemis_changelog/main.py --output-dir=changelog
+....
+
 
 :leveloffset: +1
 
