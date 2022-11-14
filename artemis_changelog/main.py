@@ -28,7 +28,7 @@ class Sections(Enum):
 def fetch_repo(url: str, target_path: Path) -> git.Repo:
     if os.path.exists(target_path):
         repo = git.Repo(target_path)
-        repo.remote().fetch()
+        repo.remote().pull()
         return repo
     else:
         repo = git.Repo.clone_from(url, target_path)
