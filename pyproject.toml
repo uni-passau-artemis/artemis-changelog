@@ -16,8 +16,8 @@ more-itertools = "^9.0.0"
 [tool.poetry.group.dev.dependencies]
 black = "^22.10.0"
 flake8 = "^5.0.4"
-pylint = "^2.15.5"
-mypy = "^0.990"
+pylint = "^2.15.6"
+mypy = "^0.991"
 isort = "^5.10.1"
 reuse = "^1.0.0"
 
