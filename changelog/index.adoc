@@ -3,6 +3,8 @@
 
 :leveloffset: +1
 
+include::05/12/04.adoc[]
+
 include::05/12/03.adoc[]
 
 include::05/12/02.adoc[]
@@ -38,6 +40,4 @@ include::05/09/05.adoc[]
 include::05/09/04.adoc[]
 
 include::05/09/03.adoc[]
-
-include::05/09/02.adoc[]
 
