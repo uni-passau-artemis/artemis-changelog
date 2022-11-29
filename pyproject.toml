@@ -14,12 +14,12 @@ more-itertools = "^9.0.0"
 
 
 [tool.poetry.group.dev.dependencies]
-black = "^22.10.0"
-flake8 = "^5.0.4"
-pylint = "^2.15.6"
+black = "^22.10"
+flake8 = "^6.0"
+pylint = "^2.15"
 mypy = "^0.991"
-isort = "^5.10.1"
-reuse = "^1.0.0"
+isort = "^5.10"
+reuse = "^1.0"
 
 [build-system]
 requires = ["poetry-core"]
