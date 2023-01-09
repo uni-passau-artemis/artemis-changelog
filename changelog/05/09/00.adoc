@@ -1,5 +1,7 @@
 = 5.8.7 -- 5.9.0
 
+link:https://github.com/ls1intum/Artemis/releases/tag/5.9.0[Full Release Notes]
+
 == Config
 
 * link:https://www.github.com/ls1intum/Artemis/commit/0f5ff4276c560800e73a2ea4621cff1829f52520[General: Allow admins to hide the password-based login form (#5291)]

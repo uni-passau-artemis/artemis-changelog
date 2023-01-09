@@ -1,5 +1,7 @@
 = 3.5.0 -- 3.6.0
 
+link:https://github.com/ls1intum/Artemis/releases/tag/3.6.0[Full Release Notes]
+
 == Config
 
 * link:https://www.github.com/ls1intum/Artemis/commit/42abefca08a951ac7d16d03312d7fb9847c1bba6[simplify Bamboo build plan repo update settings]

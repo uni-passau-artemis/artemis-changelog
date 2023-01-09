@@ -1,3 +1,5 @@
 = 4.8.3 -- 4.8.4
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.8.4[Full Release Notes]
+
 No relevant changes.

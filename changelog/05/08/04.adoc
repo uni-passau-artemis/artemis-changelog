@@ -1,5 +1,7 @@
 = 5.8.3 -- 5.8.4
 
+link:https://github.com/ls1intum/Artemis/releases/tag/5.8.4[Full Release Notes]
+
 == Config
 
 * link:https://www.github.com/ls1intum/Artemis/commit/1a0a647ffb7d70ade81bc4f2330e54a0163d904c[Development: Fix typos in code comments (#5007)]

@@ -1,5 +1,7 @@
 = 3.2.3 -- 3.3.0
 
+link:https://github.com/ls1intum/Artemis/releases/tag/3.3.0[Full Release Notes]
+
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/3a75a1dbe70264961c19a32e76a524650353cd70[Feature/Programming Exercise/Sequential test runs (#495)]

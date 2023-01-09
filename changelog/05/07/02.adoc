@@ -1,15 +1,17 @@
 = 5.7.1 -- 5.7.2
 
+link:https://github.com/ls1intum/Artemis/releases/tag/5.7.2[Full Release Notes]
+
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/97313e2b7dc2eb9bed4c79a2f0f545e7dffd7f70[Programming exercises: Upgrade docker image for Java programming exercises to java17-5 (#4887)]
 * link:https://www.github.com/ls1intum/Artemis/commit/fec6bba08ecb736d79ef5e037cca06d009569b74[Exam mode: Make browser fingerprints configurable for administrators (#4914)]
+* link:https://www.github.com/ls1intum/Artemis/commit/97313e2b7dc2eb9bed4c79a2f0f545e7dffd7f70[Programming exercises: Upgrade docker image for Java programming exercises to java17-5 (#4887)]
 
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/ce289f5583388a649f7d6e566ea80e678cdd51b2[Exam mode: Add basic structure for test exams and refactor exam creation dialog (#4892)]
 * link:https://www.github.com/ls1intum/Artemis/commit/fe9f7aeafa35a2dc8bc2b210a0fb64ad8bfac39a[General: Allow instructors to configure variable complaint text limits per course (#4810)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ce289f5583388a649f7d6e566ea80e678cdd51b2[Exam mode: Add basic structure for test exams and refactor exam creation dialog (#4892)]
 
 
 == Template

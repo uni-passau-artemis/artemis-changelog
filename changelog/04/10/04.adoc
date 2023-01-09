@@ -1,5 +1,7 @@
 = 4.10.3 -- 4.10.4
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.10.4[Full Release Notes]
+
 == Config
 
 * link:https://www.github.com/ls1intum/Artemis/commit/7f1cf80c97cdf50be4176ae6ae5d987e9d0abca0[simplify mapping of sentry test server configurations]

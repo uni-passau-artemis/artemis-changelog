@@ -1,9 +1,11 @@
 = 5.10.1 -- 5.10.2
 
+link:https://github.com/ls1intum/Artemis/releases/tag/5.10.2[Full Release Notes]
+
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/2ff13d11af641e844a681630028690e73b82a7da[Programming exercises: Update template dependencies for Java exercises (#5652)]
 * link:https://www.github.com/ls1intum/Artemis/commit/747ca69246410807986151ac6fd96c3fc09fd68c[Development: Refactor configuration of CI Docker images (#5596)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2ff13d11af641e844a681630028690e73b82a7da[Programming exercises: Update template dependencies for Java exercises (#5652)]
 
 
 == Database
@@ -14,7 +16,7 @@
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/2ff13d11af641e844a681630028690e73b82a7da[Programming exercises: Update template dependencies for Java exercises (#5652)]
 * link:https://www.github.com/ls1intum/Artemis/commit/d16f253951f808d9adbb5ba84f48c768b5c9994d[Programming exercises: Limit Jenkins builds to default branches (#5637)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2ff13d11af641e844a681630028690e73b82a7da[Programming exercises: Update template dependencies for Java exercises (#5652)]
 
 

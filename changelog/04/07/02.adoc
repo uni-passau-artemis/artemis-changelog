@@ -1,8 +1,10 @@
 = 4.7.1 -- 4.7.2
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.7.2[Full Release Notes]
+
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/07f908c138467189727b476009e52a247517307a[Support for static code analysis copy and paste detection using PMD (#2292)]
 * link:https://www.github.com/ls1intum/Artemis/commit/fd8decbae8714ab5e4d8818458882560844c3bfd[Improve Java template and static code analysis configuration (#2280)]
+* link:https://www.github.com/ls1intum/Artemis/commit/07f908c138467189727b476009e52a247517307a[Support for static code analysis copy and paste detection using PMD (#2292)]
 
 

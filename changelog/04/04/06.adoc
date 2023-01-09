@@ -1,5 +1,7 @@
 = 4.4.5 -- 4.4.6
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.4.6[Full Release Notes]
+
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/199c6804fe9477892615fc2e8391fe754bb21eb5[Fix an issue with the Jenkins config when importing programming exercises (#2076)]

@@ -1,5 +1,7 @@
 = 4.2.6 -- 4.2.7
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.2.7[Full Release Notes]
+
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/fd61fd56cd97c9ee0c8ec900af006ea27c859b58[drop old column in exercise]

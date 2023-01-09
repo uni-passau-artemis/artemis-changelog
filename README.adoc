@@ -1,7 +1,6 @@
 = Readme
 :icons: font
 :toc: left
-:toclevels: 3
 
 // links
 :url-github-pages: https://uni-passau-artemis.github.io/artemis-changelog/

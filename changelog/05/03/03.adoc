@@ -1,5 +1,7 @@
 = 5.3.2 -- 5.3.3
 
+link:https://github.com/ls1intum/Artemis/releases/tag/5.3.3[Full Release Notes]
+
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/77e8435d715100cfe44aba585ba2cb13160bd955[Assessment: Visualize generic and manual feedback separately to improve feedback suggestions on semi-automatic modeling and text assessments (#4104)]

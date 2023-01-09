@@ -1,5 +1,7 @@
 = 4.4.6 -- 4.5.0
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.5.0[Full Release Notes]
+
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/8302299e414d228c927055461fe699263128fd4d[Add Test Run Functionality to exams (#2096)]

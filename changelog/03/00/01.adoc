@@ -1,5 +1,7 @@
 = 3.0.0 -- 3.0.1
 
+link:https://github.com/ls1intum/Artemis/releases/tag/3.0.1[Full Release Notes]
+
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/c36cd0aa80ed32f24819e6ee3e9458052d0dcb50[fix problem in ConstructorTest]

@@ -1,3 +1,5 @@
 = 4.10.4 -- 4.10.5
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.10.5[Full Release Notes]
+
 No relevant changes.

@@ -1,5 +1,7 @@
 = 3.9.3 -- 3.9.4
 
+link:https://github.com/ls1intum/Artemis/releases/tag/3.9.4[Full Release Notes]
+
 == Config
 
 * link:https://www.github.com/ls1intum/Artemis/commit/95d73d666b0dd53e0300bf80039692d0f8b7c820[Feature Guided Tour: add configuration in application.yml (#967)]

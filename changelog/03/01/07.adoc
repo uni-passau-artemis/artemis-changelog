@@ -1,5 +1,7 @@
 = 3.1.6 -- 3.1.7
 
+link:https://github.com/ls1intum/Artemis/releases/tag/3.1.7[Full Release Notes]
+
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/a67e301aed0a7fa60beda9f343ac40e837b71a8f[small improvement in Java template for programming exercises: ClassTest]

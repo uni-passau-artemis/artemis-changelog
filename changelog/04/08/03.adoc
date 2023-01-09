@@ -1,5 +1,7 @@
 = 4.8.2 -- 4.8.3
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.8.3[Full Release Notes]
+
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/01d7131dc39060d8cf7ad7be7fd12a5acc69cb8a[Fixed checkout path replacement placeholder for C programming exercises in Jenkins (#2565)]

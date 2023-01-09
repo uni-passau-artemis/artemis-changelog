@@ -1,5 +1,7 @@
 = 4.2.4 -- 4.2.5
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.2.5[Full Release Notes]
+
 == Config
 
 * link:https://www.github.com/ls1intum/Artemis/commit/84b7fd315cc4f91f0a77c8c250fdda7e17adb1fd[Add hazelcast configuration options. (#1681)]

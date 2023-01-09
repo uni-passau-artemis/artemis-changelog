@@ -1,5 +1,7 @@
 = 4.12.0 -- 4.12.1
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.12.1[Full Release Notes]
+
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/5881fe82eeec656db3eadc76f7c123188126c843[Fix issues with plagiarism detection on programming exercises (#3364)]

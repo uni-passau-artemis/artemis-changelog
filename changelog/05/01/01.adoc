@@ -1,5 +1,7 @@
 = 5.1.0 -- 5.1.1
 
+link:https://github.com/ls1intum/Artemis/releases/tag/5.1.1[Full Release Notes]
+
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/2b7d89eef52c2c8232c01eacaef8a6417bf46d73[Remove no longer used database column after_due_date (#3822)]

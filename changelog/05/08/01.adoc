@@ -1,5 +1,7 @@
 = 5.8.0 -- 5.8.1
 
+link:https://github.com/ls1intum/Artemis/releases/tag/5.8.1[Full Release Notes]
+
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/3c85d7afe50423562acf6a91365e3ba4f3c5db43[Plagiarism checks: Rework plagiarism management and student notifications (#4933)]

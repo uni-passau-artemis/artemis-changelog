@@ -1,5 +1,7 @@
 = 4.7.7 -- 4.8.0
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.8.0[Full Release Notes]
+
 == Config
 
 * link:https://www.github.com/ls1intum/Artemis/commit/6c58567a7a56b043166d2204c0ebbc3e87b3d632[move yml entry into the correct section]

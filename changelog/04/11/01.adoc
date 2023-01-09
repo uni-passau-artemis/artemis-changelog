@@ -1,5 +1,7 @@
 = 4.11.0 -- 4.11.1
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.11.1[Full Release Notes]
+
 == Config
 
 * link:https://www.github.com/ls1intum/Artemis/commit/ae67ae56f9398085033a8e7911c2baa35d1c1895[add new entry for apollon conversion service]
@@ -16,8 +18,8 @@
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/70628bde8ed3caaeae66147da4e4c7e68a4ca4e7[Optimize swift programming exercise template (#3025)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a7c123955e64e322f1b67c938d68979d73c01f1d[Update artemis-java-test-sandbox to version 1.5.0 (#3055)]
 * link:https://www.github.com/ls1intum/Artemis/commit/69fc6b7d7dec1722c2e511dcb7a8df6abb9fe9d5[Update artemis-java-test-sandbox to version 1.5.2 (#3073)]
 * link:https://www.github.com/ls1intum/Artemis/commit/ec81ec4fc1e271ae28ad29b90b6359dd217c7df4[Add OCaml template for programming exercises (#3045)]
-* link:https://www.github.com/ls1intum/Artemis/commit/a7c123955e64e322f1b67c938d68979d73c01f1d[Update artemis-java-test-sandbox to version 1.5.0 (#3055)]
 
 

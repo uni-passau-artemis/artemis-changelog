@@ -1,5 +1,7 @@
 = 4.9.2 -- 4.9.3
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.9.3[Full Release Notes]
+
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/fef8e41208b355cac16c6b98e6148a157a3b9aca[Allow to categorize exercises into included into score, as bonus exercises or as optional exercises (#2651)]

@@ -1,5 +1,7 @@
 = 2.8.1 -- 2.9.0
 
+link:https://github.com/ls1intum/Artemis/releases/tag/2.9.0[Full Release Notes]
+
 == Config
 
 * link:https://www.github.com/ls1intum/Artemis/commit/183a35157460fb243b6bb423e305d43b0639c6e4[Add Sentry (#294)]

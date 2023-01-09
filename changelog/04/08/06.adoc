@@ -1,10 +1,12 @@
 = 4.8.5 -- 4.8.6
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.8.6[Full Release Notes]
+
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/48a3ac7f5d52d4c4c51ca2527047a465bb9add49[Update server dependencies and add open api specification (#2604)]
 * link:https://www.github.com/ls1intum/Artemis/commit/ea82a98043983350e61c4d7c0d9de55951111f93[small formatting and consistency improvements]
 * link:https://www.github.com/ls1intum/Artemis/commit/cffe80054889b44b27c44682a9ae47d2e4eee69f[Add personal access token and ssh authentication against git repositories to the Artemis server (GitService: clone, pull, push, ...) (#2620)]
+* link:https://www.github.com/ls1intum/Artemis/commit/48a3ac7f5d52d4c4c51ca2527047a465bb9add49[Update server dependencies and add open api specification (#2604)]
 
 
 == Database
@@ -14,8 +16,8 @@
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/6c2d6aff44178c83c0d02bedea077ab9c1c5ecd1[Allow instructors to generate Swift programming exercises (with and without static code analysis) on the Jenkins setup (#2635)]
 * link:https://www.github.com/ls1intum/Artemis/commit/991cbd3dc82d8caf79e0ca7a5beb44c54a97c26a[Add static code analysis to Swift programming exercises (#2512)]
 * link:https://www.github.com/ls1intum/Artemis/commit/52b2e474578445483ea81128a9bd12e89cfd8c45[Fix random issue with saving build logs in the database for Bamboo and Jenkins (#2644)]
+* link:https://www.github.com/ls1intum/Artemis/commit/6c2d6aff44178c83c0d02bedea077ab9c1c5ecd1[Allow instructors to generate Swift programming exercises (with and without static code analysis) on the Jenkins setup (#2635)]
 
 

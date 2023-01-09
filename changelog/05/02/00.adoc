@@ -1,5 +1,7 @@
 = 5.1.6 -- 5.2.0
 
+link:https://github.com/ls1intum/Artemis/releases/tag/5.2.0[Full Release Notes]
+
 == Config
 
 * link:https://www.github.com/ls1intum/Artemis/commit/952d9e17dcd79f773cc58614e6ff57724eb51c00[Update dependencies, update to jhipster 7.2.0, simplify build and test configuration (#4022)]

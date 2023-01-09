@@ -1,5 +1,7 @@
 = 2.4.0 -- 2.5.0
 
+link:https://github.com/ls1intum/Artemis/releases/tag/2.5.0[Full Release Notes]
+
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/69d091e04c1c979dfaece029574b91173bc88f5a[migrate programming exercise repo url and build plan id to participations (#181)]

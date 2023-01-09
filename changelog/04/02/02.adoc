@@ -1,5 +1,7 @@
 = 4.2.1 -- 4.2.2
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.2.2[Full Release Notes]
+
 == Config
 
 * link:https://www.github.com/ls1intum/Artemis/commit/f28a40e3077be07e6ff6a083d2303d1cfc3499de[Disable registry by default. (#1666)]

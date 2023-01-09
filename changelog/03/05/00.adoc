@@ -1,10 +1,12 @@
 = 3.4.1 -- 3.5.0
 
+link:https://github.com/ls1intum/Artemis/releases/tag/3.5.0[Full Release Notes]
+
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/e530cd0d1a3926e7c58601d59d7130ea06b72781[Prepare for MySQL 8: (#734)]
-* link:https://www.github.com/ls1intum/Artemis/commit/6a02e261742ea55b380af766c41c5b213229b47a[Feature/ldap (#716)]
 * link:https://www.github.com/ls1intum/Artemis/commit/271317a07c6de9e6bece7438841b8a547f00f40d[Provide Assessment proposals to tutors for text exercises (#660)]
+* link:https://www.github.com/ls1intum/Artemis/commit/6a02e261742ea55b380af766c41c5b213229b47a[Feature/ldap (#716)]
+* link:https://www.github.com/ls1intum/Artemis/commit/e530cd0d1a3926e7c58601d59d7130ea06b72781[Prepare for MySQL 8: (#734)]
 * link:https://www.github.com/ls1intum/Artemis/commit/328c8ee7190cec20964832b9de7a3ce46da8b8ed[refactor ArTEMiS to Artemis on client side]
 
 
@@ -12,12 +14,12 @@
 
 * link:https://www.github.com/ls1intum/Artemis/commit/0d56f54e53b66e1a7df0f7b36749f4e044d47351[Feature/Programming-Exercises/Run test cases after due date (#664)]
 * link:https://www.github.com/ls1intum/Artemis/commit/271317a07c6de9e6bece7438841b8a547f00f40d[Provide Assessment proposals to tutors for text exercises (#660)]
-* link:https://www.github.com/ls1intum/Artemis/commit/e37939cd1f3b326b8d27c6341544c3333f77298b[Feature/programming exercise/hints (#646)]
+* link:https://www.github.com/ls1intum/Artemis/commit/42b4a1af39b46120a977c6a8de09ca8e4bd4dec6[Feature/remodel participations (#623)]
 * link:https://www.github.com/ls1intum/Artemis/commit/693394edc512d3a40e49fa46570afc5c31ee34de[fix sql migration of participations]
 * link:https://www.github.com/ls1intum/Artemis/commit/e530cd0d1a3926e7c58601d59d7130ea06b72781[Prepare for MySQL 8: (#734)]
-* link:https://www.github.com/ls1intum/Artemis/commit/6a02e261742ea55b380af766c41c5b213229b47a[Feature/ldap (#716)]
-* link:https://www.github.com/ls1intum/Artemis/commit/42b4a1af39b46120a977c6a8de09ca8e4bd4dec6[Feature/remodel participations (#623)]
 * link:https://www.github.com/ls1intum/Artemis/commit/6669eb04909a1f0ea2b19e280a8f10b17609af04[More Feedback Request (#591)]
+* link:https://www.github.com/ls1intum/Artemis/commit/6a02e261742ea55b380af766c41c5b213229b47a[Feature/ldap (#716)]
+* link:https://www.github.com/ls1intum/Artemis/commit/e37939cd1f3b326b8d27c6341544c3333f77298b[Feature/programming exercise/hints (#646)]
 
 
 == Template

@@ -1,5 +1,7 @@
 = 4.7.0 -- 4.7.1
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.7.1[Full Release Notes]
+
 == Config
 
 * link:https://www.github.com/ls1intum/Artemis/commit/e604dea140eed99dd577b2c5a164cc91c3f3de68[Feature/guided tour/automatic assignment of tutorial groups (#2245)]

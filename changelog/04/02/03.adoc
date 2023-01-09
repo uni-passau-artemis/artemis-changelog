@@ -1,5 +1,7 @@
 = 4.2.2 -- 4.2.3
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.2.3[Full Release Notes]
+
 == Config
 
 * link:https://www.github.com/ls1intum/Artemis/commit/13b19dc5c9fcbc3880eb8a4a51112f8324fd57d7[Add broker for websocket messages (#1638)]

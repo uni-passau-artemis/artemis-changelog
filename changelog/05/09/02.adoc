@@ -1,5 +1,7 @@
 = 5.9.1 -- 5.9.2
 
+link:https://github.com/ls1intum/Artemis/releases/tag/5.9.2[Full Release Notes]
+
 == Config
 
 * link:https://www.github.com/ls1intum/Artemis/commit/f7eb47c06d57699d9f845b685d9ececa863f297e[Development: Add Sentry performance monitoring (#5401)]

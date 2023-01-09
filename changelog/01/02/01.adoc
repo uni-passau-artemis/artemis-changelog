@@ -1,5 +1,7 @@
 = 1.2.0 -- 1.2.1
 
+link:https://github.com/ls1intum/Artemis/releases/tag/1.2.1[Full Release Notes]
+
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/f302d6f598f29fd59c04b6ea0091ecf4ca2b7413[Add buildArtifact to data model of Result #3]

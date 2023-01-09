@@ -1,5 +1,7 @@
 = 3.11.0 -- 3.11.1
 
+link:https://github.com/ls1intum/Artemis/releases/tag/3.11.1[Full Release Notes]
+
 == Config
 
 * link:https://www.github.com/ls1intum/Artemis/commit/27f18f9be1598e505300b854395df3806278dda9[Update Gitlab + Jenkins documentation.  (#1273)]

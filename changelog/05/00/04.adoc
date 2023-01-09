@@ -1,5 +1,7 @@
 = 5.0.3 -- 5.0.4
 
+link:https://github.com/ls1intum/Artemis/releases/tag/5.0.4[Full Release Notes]
+
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/6a7b15dc49cda4477cee17cfe622f2ec352f786a[Integrate a minimal Xcode (SwiftUI) template to Artemis (#3618)]

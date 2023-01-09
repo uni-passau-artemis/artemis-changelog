@@ -1,5 +1,7 @@
 = 4.12.4 -- 4.12.5
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.12.5[Full Release Notes]
+
 == Config
 
 * link:https://www.github.com/ls1intum/Artemis/commit/8d697281118e326142e187a7c8eb30eca0c5d73f[[Enchancement\] Improve Account Registration (#3478)]

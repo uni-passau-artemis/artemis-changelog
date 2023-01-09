@@ -1,9 +1,11 @@
 = 4.6.1 -- 4.6.2
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.6.2[Full Release Notes]
+
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/f6cf7da8bd34692850406eecc87e8e0c199a3110[Improve course registration and add more customization options (#2174)]
 * link:https://www.github.com/ls1intum/Artemis/commit/31fec8f56fcea75844a0ab0718781e91f5d62aca[Document Bamboo token usage (#2182)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f6cf7da8bd34692850406eecc87e8e0c199a3110[Improve course registration and add more customization options (#2174)]
 * link:https://www.github.com/ls1intum/Artemis/commit/0949e556fc83e6b4d93d6ad1503bc9cd94a2c285[Improvements to BambooService (#2199)]
 
 
@@ -14,7 +16,7 @@
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/453f1a81c37d40f0ab964956697f9e8648d28064[Bump versions of dependencies in Java programming exercises pom.xml  (#2190)]
 * link:https://www.github.com/ls1intum/Artemis/commit/607dfd7d2e706925963bc1fbb499faa5cbf8e424[Bump junit in /src/main/resources/templates/java/test/projectTemplate (#2196)]
+* link:https://www.github.com/ls1intum/Artemis/commit/453f1a81c37d40f0ab964956697f9e8648d28064[Bump versions of dependencies in Java programming exercises pom.xml  (#2190)]
 
 

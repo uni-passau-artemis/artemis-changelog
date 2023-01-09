@@ -1,5 +1,7 @@
 = 4.1.0 -- 4.1.1
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.1.1[Full Release Notes]
+
 == Config
 
 * link:https://www.github.com/ls1intum/Artemis/commit/4e8908c766f9fb8b1fbd5dfc081829bfd2e92f99[update dependencies, activate new health endpoints]

@@ -1,11 +1,13 @@
 = 4.1.1 -- 4.1.2
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.1.2[Full Release Notes]
+
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/7368ea8d859b4efde30070938a09f0e95b74a97d[fix wrong setting for hibernate]
-* link:https://www.github.com/ls1intum/Artemis/commit/3da0c053bdc3fb69f9c3a76fe54a2993d6910353[Feature/update embedding requests (#1482)]
 * link:https://www.github.com/ls1intum/Artemis/commit/65336ee0970e8f5ddd9306f71c71f5edefbab252[update to jhipster 6.9.0, update dependencies]
+* link:https://www.github.com/ls1intum/Artemis/commit/7368ea8d859b4efde30070938a09f0e95b74a97d[fix wrong setting for hibernate]
 * link:https://www.github.com/ls1intum/Artemis/commit/ba58b8de9910be2c06a73c8229f44fd0339a7688[make sure test properties are the same as production properties]
+* link:https://www.github.com/ls1intum/Artemis/commit/3da0c053bdc3fb69f9c3a76fe54a2993d6910353[Feature/update embedding requests (#1482)]
 
 
 == Database

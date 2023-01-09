@@ -1,5 +1,7 @@
 = 5.4.2 -- 5.4.3
 
+link:https://github.com/ls1intum/Artemis/releases/tag/5.4.3[Full Release Notes]
+
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/eb17bd04d3ff53367d71f87b556f6360bbded448[Development: Add a Java migration tool (#4469)]

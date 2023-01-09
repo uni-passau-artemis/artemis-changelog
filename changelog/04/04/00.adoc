@@ -1,5 +1,7 @@
 = 4.3.10 -- 4.4.0
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.4.0[Full Release Notes]
+
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/522bddbb8998f9d6e6e0d103a8701aa32519e956[Remove outdated modeling conflict code + update dependencies (#1996)]

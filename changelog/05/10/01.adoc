@@ -1,5 +1,7 @@
 = 5.10.0 -- 5.10.1
 
+link:https://github.com/ls1intum/Artemis/releases/tag/5.10.1[Full Release Notes]
+
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/b52fc00467b81505184bb2e5f40f85d503fe2134[Plagiarism: Send email notifications for posts in plagiarism cases (#5565)]

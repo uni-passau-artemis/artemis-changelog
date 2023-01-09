@@ -1,5 +1,7 @@
 = 4.3.2 -- 4.3.3
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.3.3[Full Release Notes]
+
 == Config
 
 * link:https://www.github.com/ls1intum/Artemis/commit/ff7468f05e72a838383e5b509938ffad222cc8f9[Feature/tutor assessment tracking (#1719)]

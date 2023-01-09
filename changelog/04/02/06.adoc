@@ -1,5 +1,7 @@
 = 4.2.5 -- 4.2.6
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.2.6[Full Release Notes]
+
 == Config
 
 * link:https://www.github.com/ls1intum/Artemis/commit/388e3b4aecb6116bab823d48328af1129062d2fd[Make uploads directory configurable (#1731)]

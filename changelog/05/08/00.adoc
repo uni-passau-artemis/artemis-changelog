@@ -1,15 +1,17 @@
 = 5.7.5 -- 5.8.0
 
+link:https://github.com/ls1intum/Artemis/releases/tag/5.8.0[Full Release Notes]
+
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/fb7df228e00f0b1e0e74d5d651d02f6e93186a7a[Quiz exercises: Add single choice mode for multiple choice questions (#4822)]
-* link:https://www.github.com/ls1intum/Artemis/commit/ca4cde922bb3f6afa7db24197bd5053a2f8d4fd8[General: Add dark mode ☾ ✨ (#4974)]
 * link:https://www.github.com/ls1intum/Artemis/commit/67ecbeecd4c2e658323efe665075d906fa817508[Quiz exercises: Add non-synchronized quiz modes (#4936)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ca4cde922bb3f6afa7db24197bd5053a2f8d4fd8[General: Add dark mode ☾ ✨ (#4974)]
 
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/ca4cde922bb3f6afa7db24197bd5053a2f8d4fd8[General: Add dark mode ☾ ✨ (#4974)]
 * link:https://www.github.com/ls1intum/Artemis/commit/6497260540db8b358c5297731d463b04952240bd[`Programming exercises`: Update C template to v1.36 (#4998)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ca4cde922bb3f6afa7db24197bd5053a2f8d4fd8[General: Add dark mode ☾ ✨ (#4974)]
 
 

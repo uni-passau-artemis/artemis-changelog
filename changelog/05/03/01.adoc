@@ -1,5 +1,7 @@
 = 5.3.0 -- 5.3.1
 
+link:https://github.com/ls1intum/Artemis/releases/tag/5.3.1[Full Release Notes]
+
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/869322ef527d8c267d265a1ffefeb49a1153b84b[Quiz exercises: Increase explanation length and provide warning if length is exceeded for quiz explanations or hints (#3959)]

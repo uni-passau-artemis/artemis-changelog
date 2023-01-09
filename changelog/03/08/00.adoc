@@ -1,16 +1,18 @@
 = 3.7.2 -- 3.8.0
 
+link:https://github.com/ls1intum/Artemis/releases/tag/3.8.0[Full Release Notes]
+
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/7dae4df504898e15c780f285b99450832ab0ff0d[Update URLs]
 * link:https://www.github.com/ls1intum/Artemis/commit/2cee5ad7745c748d35944c5930c440a705d038d6[Extend download repository functionality, Fixes #811 (#834)]
+* link:https://www.github.com/ls1intum/Artemis/commit/7dae4df504898e15c780f285b99450832ab0ff0d[Update URLs]
 
 
 == Database
 
+* link:https://www.github.com/ls1intum/Artemis/commit/e7fb5dca5fb4d5783155745737a9df0f73d0f2e5[Feature: Improve Presentation Score (#877)]
 * link:https://www.github.com/ls1intum/Artemis/commit/1f2d60517d270cdaaa544c7830deab3ce95ef966[Feature/programming exercise/test case dirty flag (#850)]
 * link:https://www.github.com/ls1intum/Artemis/commit/00cd90a3244d0bb2b89e2892995c145e9e04676a[Bugfix/programming exercise/delete exercise (#866)]
-* link:https://www.github.com/ls1intum/Artemis/commit/e7fb5dca5fb4d5783155745737a9df0f73d0f2e5[Feature: Improve Presentation Score (#877)]
 
 
 == Template

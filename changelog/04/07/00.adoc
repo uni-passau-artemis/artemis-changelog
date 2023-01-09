@@ -1,5 +1,7 @@
 = 4.6.4 -- 4.7.0
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.7.0[Full Release Notes]
+
 == Config
 
 * link:https://www.github.com/ls1intum/Artemis/commit/bec5fb2eff514c1cf5fd55a5d9d06a13890c239c[Migrate to new Athene 2.0 (#2157)]
@@ -7,17 +9,17 @@
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/618309b7d16f9d765dfbf2d8767bcfb230b3b53b[Add new attributes to the courses management dashboard (#2215)]
 * link:https://www.github.com/ls1intum/Artemis/commit/4a8b1f9387c747a186e96fa74bada843295c1713[Allow instructors to choose between Maven and Eclipse template for the Java programming language (#2278)]
 * link:https://www.github.com/ls1intum/Artemis/commit/4e497c5e5ecc986f0491d77dc2ef2588c54c06c1[Add Lecture Modularization, Exercise Units and Attachment Units (#2218)]
+* link:https://www.github.com/ls1intum/Artemis/commit/618309b7d16f9d765dfbf2d8767bcfb230b3b53b[Add new attributes to the courses management dashboard (#2215)]
 
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/4a8b1f9387c747a186e96fa74bada843295c1713[Allow instructors to choose between Maven and Eclipse template for the Java programming language (#2278)]
-* link:https://www.github.com/ls1intum/Artemis/commit/9a51d164bf955b194ba3fecaf9ed24dd59c67ee2[add build script in test repository for Haskell programming exercises, update setup script (#2264)]
-* link:https://www.github.com/ls1intum/Artemis/commit/229353ca94cf783c0d4fa059617198b5af3e06f1[Fix C template random test and update the C-tester to 1.27 (#2297)]
 * link:https://www.github.com/ls1intum/Artemis/commit/609b155aa674b1d36dc14868d9754e603f8914a0[Fix programming exercise c template rotx (#2274)]
 * link:https://www.github.com/ls1intum/Artemis/commit/7fedc21f84e2934e7b78ef837cb2fd02561f83f7[Use JUnit 5 for the Java Programming Exercises Template (#2281)]
+* link:https://www.github.com/ls1intum/Artemis/commit/9a51d164bf955b194ba3fecaf9ed24dd59c67ee2[add build script in test repository for Haskell programming exercises, update setup script (#2264)]
+* link:https://www.github.com/ls1intum/Artemis/commit/4a8b1f9387c747a186e96fa74bada843295c1713[Allow instructors to choose between Maven and Eclipse template for the Java programming language (#2278)]
+* link:https://www.github.com/ls1intum/Artemis/commit/229353ca94cf783c0d4fa059617198b5af3e06f1[Fix C template random test and update the C-tester to 1.27 (#2297)]
 
 

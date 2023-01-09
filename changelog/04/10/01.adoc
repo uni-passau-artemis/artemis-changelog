@@ -1,5 +1,7 @@
 = 4.10.0 -- 4.10.1
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.10.1[Full Release Notes]
+
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/a6269f4993034dded34219630e0c6767f2f27c63[Fix a type in the problem statement of the Haskell programming exercise template (#2897)]

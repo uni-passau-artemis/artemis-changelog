@@ -1,5 +1,7 @@
 = 4.11.4 -- 4.11.5
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.11.5[Full Release Notes]
+
 == Config
 
 * link:https://www.github.com/ls1intum/Artemis/commit/db4ea6ec9dccfb9e15e81511080d6f8494b9ba67[Fix Jenkins use in development environment with localhost in pipeline (#3088)]

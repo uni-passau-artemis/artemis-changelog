@@ -1,5 +1,7 @@
 = 4.2.12 -- 4.3.0
 
+link:https://github.com/ls1intum/Artemis/releases/tag/4.3.0[Full Release Notes]
+
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/aa45a5c163f9d676f7117d634e07e519da1c288b[Added publishResultsDate, examStudentReviewStart, examStudentReviewEnd fields to Exam (#1830)]

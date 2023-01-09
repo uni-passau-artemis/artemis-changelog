@@ -1,5 +1,7 @@
 = 1.1.9 -- 1.2.0
 
+link:https://github.com/ls1intum/Artemis/releases/tag/1.2.0[Full Release Notes]
+
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/38e88925f68155648e0eaf29fe0fd33df49e310f[Add score to Result data model]

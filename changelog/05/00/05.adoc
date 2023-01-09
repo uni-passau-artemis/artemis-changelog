@@ -1,3 +1,5 @@
 = 5.0.4 -- 5.0.5
 
+link:https://github.com/ls1intum/Artemis/releases/tag/5.0.5[Full Release Notes]
+
 No relevant changes.

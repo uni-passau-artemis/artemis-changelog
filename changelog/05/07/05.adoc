@@ -1,5 +1,7 @@
 = 5.7.4 -- 5.7.5
 
+link:https://github.com/ls1intum/Artemis/releases/tag/5.7.5[Full Release Notes]
+
 == Config
 
 * link:https://www.github.com/ls1intum/Artemis/commit/add0ba106f2815966e462261340a7870e305ce06[Development: Document Gitlab user access token configuration option (#4992)]

@@ -105,6 +105,8 @@ def format_result(
         f"= {previous_release.name} -- {latest_release.name}\n\n"
     )
 
+    formatted += f"link:https://github.com/ls1intum/Artemis/releases/tag/{latest_release.name}[Full Release Notes]\n\n"
+
     for section, commits in result.items():
         if len(commits) == 0:
             continue

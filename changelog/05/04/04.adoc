@@ -1,8 +1,10 @@
 = 5.4.3 -- 5.4.4
 
+link:https://github.com/ls1intum/Artemis/releases/tag/5.4.4[Full Release Notes]
+
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/416eb954ac8795629bfeebd7b150278ec783a5f8[Programming exercises: Update Ares version]
 * link:https://www.github.com/ls1intum/Artemis/commit/65e703ff9e71447913387a423691b20f160575d4[Notifications: Send an email when Artemis detects duplicated test cases during the creation of programming exercises (#4398)]
+* link:https://www.github.com/ls1intum/Artemis/commit/416eb954ac8795629bfeebd7b150278ec783a5f8[Programming exercises: Update Ares version]
 
 

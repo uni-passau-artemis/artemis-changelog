@@ -1,5 +1,7 @@
 = 5.12.2 -- 5.12.3
 
+link:https://github.com/ls1intum/Artemis/releases/tag/5.12.3[Full Release Notes]
+
 == Config
 
 * link:https://www.github.com/ls1intum/Artemis/commit/bf1d2178d2c7fbacfb7d5b469ba6d56ce29f219f[Programming exercises: Update Ares to 1.11.0 (#5838)]
@@ -7,7 +9,7 @@
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/bf1d2178d2c7fbacfb7d5b469ba6d56ce29f219f[Programming exercises: Update Ares to 1.11.0 (#5838)]
 * link:https://www.github.com/ls1intum/Artemis/commit/a251f9a1b32bb34670bb760b4932c83083156674[Programming exercises: Improve gradle testing template (#5823)]
+* link:https://www.github.com/ls1intum/Artemis/commit/bf1d2178d2c7fbacfb7d5b469ba6d56ce29f219f[Programming exercises: Update Ares to 1.11.0 (#5838)]
 
 
