@@ -36,9 +36,7 @@ jobs:
           ruby-version: '3'
           bundler-cache: true
       - name: Convert to HTML
-        run: |
-          bundle exec asciidoctor changelog/index.adoc
-          mv changelog/index.html .
+        run: bundle exec asciidoctor changelog/index.adoc -o index.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
