@@ -165,7 +165,7 @@ def main(output_dir: Path) -> None:
     tags = get_release_tags(repo)
     tags.sort(key=lambda t: t[0], reverse=True)
 
-    tags = tags[:20]
+    tags = tags[:10]
 
     create_changelogs(output_dir, tags)
     create_index(output_dir, tags)
