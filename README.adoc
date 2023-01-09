@@ -5,10 +5,13 @@
 
 // links
 :url-github-pages: https://uni-passau-artemis.github.io/artemis-changelog/
+:url-upstream-changelog: https://github.com/ls1intum/Artemis/releases
 
 [abstract]
 --
 Searches for all commits between Artemis releases that make changes to the configuration files, contain database migrations, or change template files.
+This helps administrators to see at a glance if manual changes not mentioned explicitly in the release notes might be necessary before upgrading Artemis.
+
 The index only contains the 20 newest releases.
 The `changelog/` directory contains information about previous releases as well.
 --
@@ -28,9 +31,14 @@ poetry run python ./artemis_changelog/main.py --output-dir=changelog
 --
 
 
-:leveloffset: +1
+== Changelog
 
 GitHub does not render included AsciiDoc files.
 See the rendered version of the changelog link:{url-github-pages}[here].
+
+The full Artemis release notes are available link:{url-upstream-changelog}[here].
+
+
+:leveloffset: +1
 
 include::changelog/index.adoc[]
