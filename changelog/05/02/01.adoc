@@ -1,4 +1,4 @@
-= Changes between 5.2.0 and 5.2.1
+= 5.2.0 -- 5.2.1
 
 == Database
 

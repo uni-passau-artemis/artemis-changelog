@@ -1,4 +1,4 @@
-= Changes between 5.3.4 and 5.3.5
+= 5.3.4 -- 5.3.5
 
 == Template
 

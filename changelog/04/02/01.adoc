@@ -1,4 +1,4 @@
-= Changes between 4.2.0 and 4.2.1
+= 4.2.0 -- 4.2.1
 
 == Config
 

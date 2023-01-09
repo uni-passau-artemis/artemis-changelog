@@ -1,4 +1,4 @@
-= Changes between 3.9.6 and 3.9.7
+= 3.9.6 -- 3.9.7
 
 == Database
 

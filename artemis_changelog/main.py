@@ -102,7 +102,7 @@ def format_result(
 ) -> str:
     formatted = ""
     formatted += (
-        f"= Changes between {previous_release.name} and {latest_release.name}\n\n"
+        f"= {previous_release.name} -- {latest_release.name}\n\n"
     )
 
     for section, commits in result.items():

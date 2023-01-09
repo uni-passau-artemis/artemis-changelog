@@ -1,4 +1,4 @@
-= Changes between 5.7.2 and 5.7.3
+= 5.7.2 -- 5.7.3
 
 == Database
 
@@ -8,8 +8,8 @@
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/6adb32b598c0b3d15ee6475624352a338e272abf[Programming exercises: Add gradle as project type for Java exercises on GitLab/Jenkins setup (#4901)]
-* link:https://www.github.com/ls1intum/Artemis/commit/107da5b5b72388e8d8d3bca7a3e06c8cf3aa022b[Programming exercises: Improve gradle templates for Java programming exercises (#4927)]
 * link:https://www.github.com/ls1intum/Artemis/commit/7b16c27071cedefbff745c7e1b405deb6288fd3b[Programming exercises: Add the option to record the testwise coverage for Java gradle programming exercises (#4889)]
+* link:https://www.github.com/ls1intum/Artemis/commit/107da5b5b72388e8d8d3bca7a3e06c8cf3aa022b[Programming exercises: Improve gradle templates for Java programming exercises (#4927)]
+* link:https://www.github.com/ls1intum/Artemis/commit/6adb32b598c0b3d15ee6475624352a338e272abf[Programming exercises: Add gradle as project type for Java exercises on GitLab/Jenkins setup (#4901)]
 
 

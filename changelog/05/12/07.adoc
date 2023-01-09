@@ -1,4 +1,4 @@
-= Changes between 5.12.6 and 5.12.7
+= 5.12.6 -- 5.12.7
 
 == Config
 

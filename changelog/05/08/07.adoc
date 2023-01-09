@@ -1,8 +1,8 @@
-= Changes between 5.8.6 and 5.8.7
+= 5.8.6 -- 5.8.7
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/3739ee68b12f084643f310beb73721d5db7d99bb[Lectures: Allow students to complete lecture units (#5219)]
 * link:https://www.github.com/ls1intum/Artemis/commit/bffc3a53e980c03048589c0f722ba561806f7b5b[Development: Delete duplicated change set in master.xml (#5303)]
+* link:https://www.github.com/ls1intum/Artemis/commit/3739ee68b12f084643f310beb73721d5db7d99bb[Lectures: Allow students to complete lecture units (#5219)]
 
 

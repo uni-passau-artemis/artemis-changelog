@@ -1,8 +1,8 @@
-= Changes between 5.12.8 and 5.12.9
+= 5.12.8 -- 5.12.9
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/969b8d55306c6d23e5ae12f27b7f7a06b4936411[Development: Rename non unique indices to prepare compatibility with Postgres]
 * link:https://www.github.com/ls1intum/Artemis/commit/42e19123c6c331389b7d5b062a0e86857402cbfd[Development: add simple database changes needed for the next major version]
+* link:https://www.github.com/ls1intum/Artemis/commit/969b8d55306c6d23e5ae12f27b7f7a06b4936411[Development: Rename non unique indices to prepare compatibility with Postgres]
 
 

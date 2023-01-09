@@ -1,4 +1,4 @@
-= Changes between 4.8.5 and 4.8.6
+= 4.8.5 -- 4.8.6
 
 == Config
 
@@ -14,8 +14,8 @@
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/991cbd3dc82d8caf79e0ca7a5beb44c54a97c26a[Add static code analysis to Swift programming exercises (#2512)]
 * link:https://www.github.com/ls1intum/Artemis/commit/6c2d6aff44178c83c0d02bedea077ab9c1c5ecd1[Allow instructors to generate Swift programming exercises (with and without static code analysis) on the Jenkins setup (#2635)]
+* link:https://www.github.com/ls1intum/Artemis/commit/991cbd3dc82d8caf79e0ca7a5beb44c54a97c26a[Add static code analysis to Swift programming exercises (#2512)]
 * link:https://www.github.com/ls1intum/Artemis/commit/52b2e474578445483ea81128a9bd12e89cfd8c45[Fix random issue with saving build logs in the database for Bamboo and Jenkins (#2644)]
 
 

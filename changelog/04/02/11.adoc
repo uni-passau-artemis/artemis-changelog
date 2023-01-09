@@ -1,4 +1,4 @@
-= Changes between 4.2.10 and 4.2.11
+= 4.2.10 -- 4.2.11
 
 == Database
 

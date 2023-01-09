@@ -1,4 +1,4 @@
-= Changes between 5.3.3 and 5.3.4
+= 5.3.3 -- 5.3.4
 
 == Config
 
@@ -13,8 +13,8 @@
 
 == Template
 
+* link:https://www.github.com/ls1intum/Artemis/commit/85216401824cea2f2cc7bab70000f3109c0fcc46[Notifications: Add new notification, email, settings for successful file submissions (#4335)]
 * link:https://www.github.com/ls1intum/Artemis/commit/7909cae4451e285beb888b785926d4a9d667c66d[Discussion: Improve announcement post handling and formatting (#4303)]
 * link:https://www.github.com/ls1intum/Artemis/commit/61d0886dc00a21ba453ec52a11ff2f65740e784d[General: Improve favicon logo for light mode (#4344)]
-* link:https://www.github.com/ls1intum/Artemis/commit/85216401824cea2f2cc7bab70000f3109c0fcc46[Notifications: Add new notification, email, settings for successful file submissions (#4335)]
 
 

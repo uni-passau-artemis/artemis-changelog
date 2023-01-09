@@ -1,4 +1,4 @@
-= Changes between 3.2.0 and 3.2.1
+= 3.2.0 -- 3.2.1
 
 == Database
 
@@ -7,7 +7,7 @@
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/313f5917925c130fc1fc0bf7b33e1b56a862f615[improve template test case for programming exercises]
 * link:https://www.github.com/ls1intum/Artemis/commit/8d132dd106dcba6216aa2f0855fc0e89c7916082[improve template test suite for programming exercises]
+* link:https://www.github.com/ls1intum/Artemis/commit/313f5917925c130fc1fc0bf7b33e1b56a862f615[improve template test case for programming exercises]
 
 

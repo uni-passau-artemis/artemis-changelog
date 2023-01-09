@@ -1,9 +1,9 @@
-= Changes between 4.3.10 and 4.4.0
+= 4.3.10 -- 4.4.0
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/b9d21e615f94a6ac955dffee71e4184f40d02c7f[Add more customization options for test case weights in programming exercises (#2001)]
 * link:https://www.github.com/ls1intum/Artemis/commit/522bddbb8998f9d6e6e0d103a8701aa32519e956[Remove outdated modeling conflict code + update dependencies (#1996)]
+* link:https://www.github.com/ls1intum/Artemis/commit/b9d21e615f94a6ac955dffee71e4184f40d02c7f[Add more customization options for test case weights in programming exercises (#2001)]
 * link:https://www.github.com/ls1intum/Artemis/commit/a6186cca48f5cae2a92d3fec9cc10e2f302e0589[Add static code analysis option to Java programming exercises with (#1525)]
 
 

@@ -1,4 +1,4 @@
-= Changes between 5.8.5 and 5.8.6
+= 5.8.5 -- 5.8.6
 
 == Database
 

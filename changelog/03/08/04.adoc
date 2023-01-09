@@ -1,4 +1,4 @@
-= Changes between 3.8.3 and 3.8.4
+= 3.8.3 -- 3.8.4
 
 == Database
 

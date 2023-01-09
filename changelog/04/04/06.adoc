@@ -1,4 +1,4 @@
-= Changes between 4.4.5 and 4.4.6
+= 4.4.5 -- 4.4.6
 
 == Template
 

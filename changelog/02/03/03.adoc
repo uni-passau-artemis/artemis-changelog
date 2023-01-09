@@ -1,4 +1,4 @@
-= Changes between 2.3.1 and 2.3.3
+= 2.3.1 -- 2.3.3
 
 == Config
 
@@ -8,10 +8,10 @@
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/d711263725d8f961b13f0741f984be28628ef126[fix problem with newest database changelog]
-* link:https://www.github.com/ls1intum/Artemis/commit/ee387aaaad27ad5f13e22a365f53f0c83455ea38[add the missing assessment_due_date in Exercise]
 * link:https://www.github.com/ls1intum/Artemis/commit/76920f0a5613eb4b4e2cb5c1fc458b16a376f53e[Feature/schema changes for complaints (#139)]
 * link:https://www.github.com/ls1intum/Artemis/commit/4dc092d94c487a6fc2dabe55e175ace05a15815b[drop unique constraint between ShortAnswerSubmittedText and ShortAnswerSpot]
 * link:https://www.github.com/ls1intum/Artemis/commit/40a4865a6ca62915aedc6b95e0f53725781b7f3a[database adaptions, merge principal into account service]
+* link:https://www.github.com/ls1intum/Artemis/commit/ee387aaaad27ad5f13e22a365f53f0c83455ea38[add the missing assessment_due_date in Exercise]
+* link:https://www.github.com/ls1intum/Artemis/commit/d711263725d8f961b13f0741f984be28628ef126[fix problem with newest database changelog]
 
 

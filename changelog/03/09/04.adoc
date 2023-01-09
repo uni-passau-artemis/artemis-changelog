@@ -1,4 +1,4 @@
-= Changes between 3.9.3 and 3.9.4
+= 3.9.3 -- 3.9.4
 
 == Config
 

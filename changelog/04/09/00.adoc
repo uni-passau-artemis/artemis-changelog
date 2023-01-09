@@ -1,4 +1,4 @@
-= Changes between 4.8.6 and 4.9.0
+= 4.8.6 -- 4.9.0
 
 == Database
 
@@ -7,9 +7,9 @@
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/f782e9daecb97694441dc6113ea0f0fa1c13150f[Update the docker image to run as user for C programming exercises (#2624)]
+* link:https://www.github.com/ls1intum/Artemis/commit/608259d23c5253fda54235409cf122a965fa4a20[fix Haskell programming exercise options pragma regex (#2690)]
 * link:https://www.github.com/ls1intum/Artemis/commit/357a2ce3c686b5cbeb7d39448120f9ba30d6c30e[Fix showing buildlogs for Swift and Python on Bamboo and Jenkins (#2666)]
 * link:https://www.github.com/ls1intum/Artemis/commit/e7f26d11ba51124a67d6c6f26b73471d2f923865[disable unsafe features in student submissions for Haskell programming languages (#2674)]
-* link:https://www.github.com/ls1intum/Artemis/commit/608259d23c5253fda54235409cf122a965fa4a20[fix Haskell programming exercise options pragma regex (#2690)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f782e9daecb97694441dc6113ea0f0fa1c13150f[Update the docker image to run as user for C programming exercises (#2624)]
 
 

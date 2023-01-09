@@ -1,4 +1,4 @@
-= Changes between 5.7.0 and 5.7.1
+= 5.7.0 -- 5.7.1
 
 == Database
 

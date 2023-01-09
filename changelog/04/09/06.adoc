@@ -1,4 +1,4 @@
-= Changes between 4.9.5 and 4.9.6
+= 4.9.5 -- 4.9.6
 
 == Config
 

@@ -1,4 +1,4 @@
-= Changes between 5.9.2 and 5.9.3
+= 5.9.2 -- 5.9.3
 
 == Config
 

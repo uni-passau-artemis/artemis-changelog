@@ -1,4 +1,4 @@
-= Changes between 4.8.2 and 4.8.3
+= 4.8.2 -- 4.8.3
 
 == Template
 

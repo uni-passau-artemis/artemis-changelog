@@ -1,4 +1,4 @@
-= Changes between 1.4.1 and 1.4.2
+= 1.4.1 -- 1.4.2
 
 == Config
 
