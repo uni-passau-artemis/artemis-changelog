@@ -1,4 +1,5 @@
 import argparse
+import logging
 import os.path
 import re
 from enum import Enum
@@ -56,9 +57,8 @@ def get_commits(
 
     commits = commits_between(previous_release, latest_release)
 
-    for commit in latest_release.commit.iter_parents():
-        if commit.hexsha[:9] not in commits:
-            continue
+    for commit_hash in commits:
+        commit = latest_release.repo.commit(commit_hash)
         if commit == previous_release.commit:
             break
 
@@ -79,6 +79,8 @@ def collect_changed_paths(
         Sections.DATABASE: set(),
         Sections.TEMPLATE: set(),
     }
+
+    logging.info("Comparing versions %s and %s...", previous_release, latest_release)
 
     for commit in get_commits(latest_release, previous_release):
         for changed_path in get_changed_paths(commit):
@@ -176,5 +178,8 @@ def argparser() -> argparse.ArgumentParser:
 
 
 if __name__ == "__main__":
+    logging.basicConfig(
+        level=logging.INFO, format="%(asctime)s|%(name)s|%(levelname)s|%(message)s"
+    )
     args = argparser().parse_args()
     main(args.output_dir)

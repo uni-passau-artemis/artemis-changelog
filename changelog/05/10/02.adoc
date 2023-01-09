@@ -8,13 +8,13 @@
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/cafed1733afce5099b3c1167dec646be004a6f7a[Development: Fix issue in changelog for e2e tests (#5662)]
 * link:https://www.github.com/ls1intum/Artemis/commit/e34230465cb63e001bf9e04c4dbd2bdb96d3863d[Development: Add latest version to database for better migration management in the future (#5660)]
+* link:https://www.github.com/ls1intum/Artemis/commit/cafed1733afce5099b3c1167dec646be004a6f7a[Development: Fix issue in changelog for e2e tests (#5662)]
 
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/2ff13d11af641e844a681630028690e73b82a7da[Programming exercises: Update template dependencies for Java exercises (#5652)]
 * link:https://www.github.com/ls1intum/Artemis/commit/d16f253951f808d9adbb5ba84f48c768b5c9994d[Programming exercises: Limit Jenkins builds to default branches (#5637)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2ff13d11af641e844a681630028690e73b82a7da[Programming exercises: Update template dependencies for Java exercises (#5652)]
 
 

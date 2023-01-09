@@ -2,10 +2,10 @@
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/40a14a2086dfa29f4e389b4eab3ab97d33ff49dd[Enhancement/orion/stable interfaces (#1262)]
-* link:https://www.github.com/ls1intum/Artemis/commit/a00837c190d7dea7dcc6ce9a066e6d5d5d9c00a0[Improve user management, update dependencies, migrate from tslint to eslint]
 * link:https://www.github.com/ls1intum/Artemis/commit/421c20f1c2e32c7576b5ebba5adae1fe0a19c833[several small improvements]
+* link:https://www.github.com/ls1intum/Artemis/commit/a00837c190d7dea7dcc6ce9a066e6d5d5d9c00a0[Improve user management, update dependencies, migrate from tslint to eslint]
 * link:https://www.github.com/ls1intum/Artemis/commit/317826ef51eb475b2142886e6bdecd70d645e4a3[Feature Guided Tour: Tutor assessment tutorial (#1225)]
+* link:https://www.github.com/ls1intum/Artemis/commit/40a14a2086dfa29f4e389b4eab3ab97d33ff49dd[Enhancement/orion/stable interfaces (#1262)]
 
 
 == Database

@@ -2,8 +2,8 @@
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/add0ba106f2815966e462261340a7870e305ce06[Development: Document Gitlab user access token configuration option (#4992)]
 * link:https://www.github.com/ls1intum/Artemis/commit/6c798875fc3b89b1f6eae990d213fe876d6fb956[Programming exercises: Update to the latest artemis-maven-docker version java17-6 (#4994)]
+* link:https://www.github.com/ls1intum/Artemis/commit/add0ba106f2815966e462261340a7870e305ce06[Development: Document Gitlab user access token configuration option (#4992)]
 
 
 == Database

@@ -1,0 +1,12 @@
+= Changes between 5.12.7 and 5.12.8
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/dbcdf5fb18c367927c2ce68132f3df1b79452645[Programming exercises: Update Ares to 1.11.1 (#5955)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/dbcdf5fb18c367927c2ce68132f3df1b79452645[Programming exercises: Update Ares to 1.11.1 (#5955)]
+
+

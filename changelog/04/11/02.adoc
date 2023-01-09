@@ -7,14 +7,14 @@
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/a792f182702f4deacb85b6a8f9a0090860a93483[Add organizations (#2748)]
-* link:https://www.github.com/ls1intum/Artemis/commit/ac627c0d72cd6cca662806bb00b8490c1f5946d9[Allow more customization for the visibility of tests (#2815)]
 * link:https://www.github.com/ls1intum/Artemis/commit/d72e0f551bed01115c385e9ddd249b602bf62181[Persist plagiarism results (#2796)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ac627c0d72cd6cca662806bb00b8490c1f5946d9[Allow more customization for the visibility of tests (#2815)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a792f182702f4deacb85b6a8f9a0090860a93483[Add organizations (#2748)]
 
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/68057caf14ba5f17e190ef87027c09c07da9d8e3[Update artemis-java-test-sandbox to version 1.5.3 (#3116)]
 * link:https://www.github.com/ls1intum/Artemis/commit/03a628a0c512b77a5a8486b2952712503a85a5ac[Use JDK16 for Java programming exercises (#3092)]
+* link:https://www.github.com/ls1intum/Artemis/commit/68057caf14ba5f17e190ef87027c09c07da9d8e3[Update artemis-java-test-sandbox to version 1.5.3 (#3116)]
 
 

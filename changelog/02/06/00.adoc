@@ -2,12 +2,12 @@
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/b952f089a4292db5dab3e7e17f658ad366c980b6[fix problems with constraints by dropping and adding them during migration]
-* link:https://www.github.com/ls1intum/Artemis/commit/c61e5a4e73b696f370380a5a833beebbc06236c2[fix error in changelog and merge 2 changelogs into 1]
-* link:https://www.github.com/ls1intum/Artemis/commit/88d7ce8472eca135bd183741fd2a2704d6e9511d[Feature/integrate new models (#199)]
-* link:https://www.github.com/ls1intum/Artemis/commit/22eaae5aa5be2347e52764376199370018558df5[Use new Apollon Data Model (#216)]
+* link:https://www.github.com/ls1intum/Artemis/commit/171ec2ca87df35162c642689bbd00f32fcc135aa[Fix a typo in the liquibase changelog (#214)]
 * link:https://www.github.com/ls1intum/Artemis/commit/e5b00fd49159d6d2842628180689dbf2c0eeb319[delete old and deprecated columns of programming exercise after migration has taken place on production server]
 * link:https://www.github.com/ls1intum/Artemis/commit/d16a525756ce1c90a0ed2b5a560a055a092bc1ea[Feature/migrate modeling from filesystem to database (#194)]
-* link:https://www.github.com/ls1intum/Artemis/commit/171ec2ca87df35162c642689bbd00f32fcc135aa[Fix a typo in the liquibase changelog (#214)]
+* link:https://www.github.com/ls1intum/Artemis/commit/22eaae5aa5be2347e52764376199370018558df5[Use new Apollon Data Model (#216)]
+* link:https://www.github.com/ls1intum/Artemis/commit/b952f089a4292db5dab3e7e17f658ad366c980b6[fix problems with constraints by dropping and adding them during migration]
+* link:https://www.github.com/ls1intum/Artemis/commit/88d7ce8472eca135bd183741fd2a2704d6e9511d[Feature/integrate new models (#199)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c61e5a4e73b696f370380a5a833beebbc06236c2[fix error in changelog and merge 2 changelogs into 1]
 
 

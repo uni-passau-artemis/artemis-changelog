@@ -2,8 +2,8 @@
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/097e25fb18f1e49b5f1202b46a0c0489c2870672[remove outdated option in yml file]
 * link:https://www.github.com/ls1intum/Artemis/commit/510754c413eb8a5da77d98cc81ebc43e6bfa99e6[Update to jhipster 6 and angular 8 (#263)]
+* link:https://www.github.com/ls1intum/Artemis/commit/097e25fb18f1e49b5f1202b46a0c0489c2870672[remove outdated option in yml file]
 
 
 == Database
@@ -13,7 +13,7 @@
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/51fcce7453ba51686dfcd1a816a872dcc5cbbfba[improve behavior tests for java programming exercises]
 * link:https://www.github.com/ls1intum/Artemis/commit/f04e431f5cde76eedccef400677fc78d0d7134e4[small improvement in Java template for programming exercises: ClassTest]
+* link:https://www.github.com/ls1intum/Artemis/commit/51fcce7453ba51686dfcd1a816a872dcc5cbbfba[improve behavior tests for java programming exercises]
 
 

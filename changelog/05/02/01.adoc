@@ -3,8 +3,8 @@
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/67a2c5935976cbb0a9b2161c4e72ca48ea38b7c6[Resolve a post by marking answer post as correct/helpful (#4063)]
-* link:https://www.github.com/ls1intum/Artemis/commit/2f0e314cbb06f1af1cdbf89832105a056df48164[Programming exercises: Improve complaints on automated assessments (#3933)]
 * link:https://www.github.com/ls1intum/Artemis/commit/219484860a8e25eda7048794bbcb483be91da38a[fix an issue in the liquibase migration in 20210930113000_changelog.xml]
+* link:https://www.github.com/ls1intum/Artemis/commit/2f0e314cbb06f1af1cdbf89832105a056df48164[Programming exercises: Improve complaints on automated assessments (#3933)]
 
 
 == Template

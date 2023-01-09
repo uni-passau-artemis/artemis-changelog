@@ -1,3 +1,18 @@
 = Changes between 5.12.3 and 5.12.4
 
-No relevant changes.
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/baf93c6ab9a8cf8aba91f13e60d95db6bae903bc[Programming exercises: Use a fixed version for the Haskell test image (#5776)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/1e3699e57a53ec5862f5fd9392aa582e781a084d[Development: Remove sub-queries for filtering and ordering posts (#5825)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a189f54fca46e115f0444f7f94b5491d405bd5d4[Development: Remove missing migration entry]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/baf93c6ab9a8cf8aba91f13e60d95db6bae903bc[Programming exercises: Use a fixed version for the Haskell test image (#5776)]
+
+

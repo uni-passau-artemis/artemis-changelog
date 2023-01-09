@@ -2,8 +2,8 @@
 
 == Database
 
+* link:https://www.github.com/ls1intum/Artemis/commit/cb194072db4e36b4dad917b68fcb2834b846cb42[remove exam session orphans and add missing foreign key constraint]
 * link:https://www.github.com/ls1intum/Artemis/commit/a5fa225b897598fc63f1061abeded72781e22fb7[Track started exam and submission date (#1888)]
 * link:https://www.github.com/ls1intum/Artemis/commit/b36f235740e07c262c160e7d717874521308b4b5[Make exam grace period editable and display additional attributes on participation start cover (#1893)]
-* link:https://www.github.com/ls1intum/Artemis/commit/cb194072db4e36b4dad917b68fcb2834b846cb42[remove exam session orphans and add missing foreign key constraint]
 
 

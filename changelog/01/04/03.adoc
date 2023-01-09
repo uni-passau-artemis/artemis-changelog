@@ -2,9 +2,9 @@
 
 == Config
 
+* link:https://www.github.com/ls1intum/Artemis/commit/066839c49dc69abf11cb060828b5a7a0c29e46b7[refactor de.tum.in.www1.exerciseapp —> de.tum.in.www1.artemis]
 * link:https://www.github.com/ls1intum/Artemis/commit/0441c753f0c23ad96fc31d75653cc1afff4dbb26[Feature/improve performance (#70)]
 * link:https://www.github.com/ls1intum/Artemis/commit/b8e80f6d45602b9d491d94883980995e548034f4[update version to 1.4.3]
-* link:https://www.github.com/ls1intum/Artemis/commit/066839c49dc69abf11cb060828b5a7a0c29e46b7[refactor de.tum.in.www1.exerciseapp —> de.tum.in.www1.artemis]
 
 
 == Database

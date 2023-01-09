@@ -2,7 +2,7 @@
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/a81afa712372bbe58ee23a8f72507c6dd4a579f9[Plagiarism checks: Integrate course wide plagiarism handling with notifications (#4387)]
 * link:https://www.github.com/ls1intum/Artemis/commit/eb17bd04d3ff53367d71f87b556f6360bbded448[Development: Add a Java migration tool (#4469)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a81afa712372bbe58ee23a8f72507c6dd4a579f9[Plagiarism checks: Integrate course wide plagiarism handling with notifications (#4387)]
 
 
