@@ -3,8 +3,9 @@ name: Deploy changelog to GitHub pages
 on:
   push:
     branches: ["main"]
-  schedule:
-    - cron: '0 12 * * *'
+  # ToDo: automatically generate updated changelog on schedule
+  # schedule:
+  #   - cron: '0 12 * * *'
 
   workflow_dispatch:
 
