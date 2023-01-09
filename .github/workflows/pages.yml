@@ -35,12 +35,14 @@ jobs:
         with:
           ruby-version: '3'
           bundler-cache: true
+      - name: Create static HTML directory
+        run: mkdir -p _static/
       - name: Convert to HTML
-        run: bundle exec asciidoctor changelog/index.adoc -o index.html
+        run: bundle exec asciidoctor changelog/index.adoc -o _static/index.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: 'index.html'
+          path: '_static/'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
