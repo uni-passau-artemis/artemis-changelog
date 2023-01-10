@@ -1,7 +1,13 @@
+# SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+#
+# SPDX-License-Identifier: EUPL-1.2
+
 import argparse
+import datetime
 import logging
 import os.path
 import re
+import typing
 from enum import Enum
 from pathlib import Path
 from typing import Iterable
@@ -9,6 +15,9 @@ from typing import Iterable
 import git
 import more_itertools
 import semver
+
+if typing.TYPE_CHECKING:
+    from git.objects.commit import Commit
 
 
 class Sections(Enum):
@@ -50,9 +59,7 @@ def commits_between(a: git.Tag, b: git.Tag) -> set[str]:
     return set(line.split()[0] for line in output.splitlines())
 
 
-def get_commits(
-    latest_release: git.Tag, previous_release: git.Tag
-) -> Iterable[git.Commit]:
+def get_commits(latest_release: git.Tag, previous_release: git.Tag) -> Iterable[Commit]:
     yield latest_release.commit
 
     commits = commits_between(previous_release, latest_release)
@@ -65,7 +72,7 @@ def get_commits(
         yield commit
 
 
-def get_changed_paths(commit: git.Commit) -> Iterable[str]:
+def get_changed_paths(commit: Commit) -> Iterable[str]:
     for diff in commit.diff(commit.parents):
         yield diff.a_path
         yield diff.b_path
@@ -73,8 +80,8 @@ def get_changed_paths(commit: git.Commit) -> Iterable[str]:
 
 def collect_changed_paths(
     latest_release: git.Tag, previous_release: git.Tag
-) -> dict[Sections, set[git.Commit]]:
-    changed_paths: dict[Sections, set[git.Commit]] = {
+) -> dict[Sections, set[Commit]]:
+    changed_paths: dict[Sections, set[Commit]] = {
         Sections.CONFIG: set(),
         Sections.DATABASE: set(),
         Sections.TEMPLATE: set(),
@@ -91,19 +98,31 @@ def collect_changed_paths(
     return changed_paths
 
 
-def format_commit_message(commit: git.Commit) -> str:
-    return commit.message.splitlines()[0].strip().replace("]", "\\]")
+def format_commit_message(commit: Commit) -> str:
+    return str(commit.message).splitlines()[0].strip().replace("]", "\\]")
+
+
+def _licence_header() -> str:
+    # avoid reuse being overly eager to parse the strings as licence headers
+    prefix1 = "SPDX-FileCopyrightText"
+    prefix2 = "SPDX-License-Identifier"
+
+    year = datetime.date.today().year
+
+    return (
+        f"// {prefix1}: {year} Artemis Changelog Contributors\n"
+        "//\n"
+        f"// {prefix2}: CC-BY-SA-4.0"
+    )
 
 
 def format_result(
     latest_release: git.Tag,
     previous_release: git.Tag,
-    result: dict[Sections, set[git.Commit]],
+    result: dict[Sections, set[Commit]],
 ) -> str:
-    formatted = ""
-    formatted += (
-        f"= {previous_release.name} -- {latest_release.name}\n\n"
-    )
+    formatted = _licence_header()
+    formatted += f"\n\n= {previous_release.name} -- {latest_release.name}\n\n"
 
     formatted += f"link:https://github.com/ls1intum/Artemis/releases/tag/{latest_release.name}[Full Release Notes]\n\n"
 
@@ -136,7 +155,7 @@ def path_from_version(version: semver.VersionInfo) -> Path:
 def create_changelogs(
     output_dir: Path, tags: Iterable[tuple[semver.VersionInfo, git.Tag]]
 ) -> None:
-    for after, before in more_itertools.windowed(tags, 2):
+    for after, before in more_itertools.sliding_window(tags, 2):
         output_path = output_dir / path_from_version(after[0])
         if not os.path.exists(output_path):
             os.makedirs(output_path.parent, exist_ok=True)
@@ -147,12 +166,13 @@ def create_changelogs(
 
 
 def create_index(
-    output_dir: Path, tags: Iterable[tuple[semver.VersionInfo, git.Tag]]
+    output_dir: Path, tags: list[tuple[semver.VersionInfo, git.Tag]]
 ) -> None:
     output_path = output_dir / "index.adoc"
 
     with open(output_path, "w") as f:
-        f.write("= Artemis Changelog\n")
+        f.write(_licence_header())
+        f.write("\n\n= Artemis Changelog\n")
         f.write(":toc: left\n\n")
         f.write(":leveloffset: +1\n\n")
 

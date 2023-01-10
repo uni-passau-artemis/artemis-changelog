@@ -1,10 +1,16 @@
+# SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+#
+# SPDX-License-Identifier: EUPL-1.2
+
 [tool.poetry]
 name = "artemis-changelog"
 version = "0.1.0"
 description = ""
-authors = ["Benedikt Fein <benedikt.fein@gmail.com>"]
+license = "EUPL-1.2"
+authors = ["Benedikt Fein <fein@fim.uni-passau.de>"]
 readme = "README.adoc"
 packages = [{include = "artemis_changelog"}]
+
 
 [tool.poetry.dependencies]
 python = ">=3.10,<4.0"
@@ -20,6 +26,13 @@ pylint = "^2.15"
 mypy = "^0.991"
 isort = "^5.11"
 reuse = "^1.1"
+
+
+[tool.mypy]
+[[tool.mypy.overrides]]
+module = "semver"
+ignore_missing_imports = true
+
 
 [build-system]
 requires = ["poetry-core"]
