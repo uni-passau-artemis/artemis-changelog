@@ -13,12 +13,16 @@ format:
 mypy:
 	poetry run mypy $(PROJECT) tests
 
+.PHONY: ruff
+ruff:
+	poetry run ruff $(PROJECT) tests
+
 .PHONY: reuse
 reuse:
 	poetry run reuse lint
 
 .PHONY: check
-check: format mypy reuse
+check: format mypy ruff reuse
 
 .PHONY: tox
 tox:

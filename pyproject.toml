@@ -21,17 +21,36 @@ more-itertools = "^9.0.0"
 
 [tool.poetry.group.dev.dependencies]
 black = "^22.12"
-flake8 = "^6.0"
-pylint = "^2.15"
-mypy = "^0.991"
 isort = "^5.11"
+mypy = "^0.991"
+pylint = "^2.15"
 reuse = "^1.1"
+ruff = "^0.0.224"
 
 
 [tool.mypy]
 [[tool.mypy.overrides]]
 module = "semver"
 ignore_missing_imports = true
+
+
+[tool.ruff]
+line-length = 88
+select = ["B", "C", "E", "F", "W", "C4", "C90", "ISC", "PT", "RET", "SIM", "TID"]
+ignore = []
+show-source = true
+exclude = [
+    "docs",
+    ".venv",
+    "venv",
+    ".mypy_cache",
+    ".pytest_cache",
+]
+target-version = "py310"
+
+
+[tool.ruff.mccabe]
+max-complexity = 10
 
 
 [build-system]

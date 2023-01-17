@@ -7,7 +7,6 @@ import datetime
 import logging
 import os.path
 import re
-import typing
 from enum import Enum
 from pathlib import Path
 from typing import Iterable
@@ -15,9 +14,7 @@ from typing import Iterable
 import git
 import more_itertools
 import semver
-
-if typing.TYPE_CHECKING:
-    from git.objects.commit import Commit
+from git.objects.commit import Commit
 
 
 class Sections(Enum):
@@ -26,7 +23,7 @@ class Sections(Enum):
     TEMPLATE = "Template"
 
     def path_pattern(self) -> str:
-        match self:
+        match self:  # noqa: E999, the parser used by ruff cannot parse match
             case Sections.CONFIG:
                 return r"src/main/resources/config/.*\.yml$"
             case Sections.DATABASE:
@@ -124,7 +121,10 @@ def format_result(
     formatted = _licence_header()
     formatted += f"\n\n= {previous_release.name} -- {latest_release.name}\n\n"
 
-    formatted += f"link:https://github.com/ls1intum/Artemis/releases/tag/{latest_release.name}[Full Release Notes]\n\n"
+    formatted += (
+        "link:https://github.com/ls1intum/Artemis/releases/tag/"
+        f"{latest_release.name}[Full Release Notes]\n\n"
+    )
 
     for section, commits in result.items():
         if len(commits) == 0:
@@ -132,7 +132,10 @@ def format_result(
 
         formatted += f"== {section.value}\n\n"
         for commit in commits:
-            formatted += f"* link:https://www.github.com/ls1intum/Artemis/commit/{commit}[{format_commit_message(commit)}]\n"
+            formatted += (
+                "* link:https://www.github.com/ls1intum/Artemis/commit/"
+                f"{commit}[{format_commit_message(commit)}]\n"
+            )
         formatted += "\n\n"
 
     if sum(map(len, result.values())) == 0:
@@ -193,15 +196,15 @@ def main(output_dir: Path) -> None:
     create_index(output_dir, tags)
 
 
-def argparser() -> argparse.ArgumentParser:
-    argparser = argparse.ArgumentParser()
-    argparser.add_argument("--output-dir", type=Path, required=True)
-    return argparser
+def _arg_parser() -> argparse.ArgumentParser:
+    arg_parser = argparse.ArgumentParser()
+    arg_parser.add_argument("--output-dir", type=Path, required=True)
+    return arg_parser
 
 
 if __name__ == "__main__":
     logging.basicConfig(
         level=logging.INFO, format="%(asctime)s|%(name)s|%(levelname)s|%(message)s"
     )
-    args = argparser().parse_args()
+    args = _arg_parser().parse_args()
     main(args.output_dir)
