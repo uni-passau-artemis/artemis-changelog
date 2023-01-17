@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: CC-BY-SA-4.0
 
-= 3.5.0 -- 3.6.0
+= 3.6.0
 
 link:https://github.com/ls1intum/Artemis/releases/tag/3.6.0[Full Release Notes]
 
@@ -13,9 +13,9 @@ link:https://github.com/ls1intum/Artemis/releases/tag/3.6.0[Full Release Notes]
 
 == Database
 
+* link:https://www.github.com/ls1intum/Artemis/commit/ddfc0e4dbcc52bed181724ed4a8e475a56825a06[Performance improvements and bug fixes for critical REST calls (#757)]
 * link:https://www.github.com/ls1intum/Artemis/commit/35e76cc85dd42a70b41384b551975ad76dee64e9[Feature/tutorial overview page (#669)]
 * link:https://www.github.com/ls1intum/Artemis/commit/6e150097df4257c85e84249e14d478eb1b5c5e53[Assessment Queue for Automatic Text Assessment (#665)]
-* link:https://www.github.com/ls1intum/Artemis/commit/ddfc0e4dbcc52bed181724ed4a8e475a56825a06[Performance improvements and bug fixes for critical REST calls (#757)]
 
 
 == Template

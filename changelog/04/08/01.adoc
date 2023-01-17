@@ -2,15 +2,15 @@
 //
 // SPDX-License-Identifier: CC-BY-SA-4.0
 
-= 4.8.0 -- 4.8.1
+= 4.8.1
 
 link:https://github.com/ls1intum/Artemis/releases/tag/4.8.1[Full Release Notes]
 
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/2e8e8ad11c10ff9b3580b548c9a8cd8e4f91ebcf[also hide empty methods in plant uml in interactive problem statements of programming exercises]
-* link:https://www.github.com/ls1intum/Artemis/commit/11745fa97d0b78d4b35fcfa02b76c947b8d669d4[fix version number in pom.xml file for Java programming exercises]
-* link:https://www.github.com/ls1intum/Artemis/commit/7003ca773528290bd9b481e375f720e932ef275c[update to newest artemis-java-test-sandbox version in programming exercise templates]
 * link:https://www.github.com/ls1intum/Artemis/commit/947a61083774ffab9da4bb7eac672c38198e4baf[update versions of static code analysis dependencies]
+* link:https://www.github.com/ls1intum/Artemis/commit/7003ca773528290bd9b481e375f720e932ef275c[update to newest artemis-java-test-sandbox version in programming exercise templates]
+* link:https://www.github.com/ls1intum/Artemis/commit/11745fa97d0b78d4b35fcfa02b76c947b8d669d4[fix version number in pom.xml file for Java programming exercises]
 
 

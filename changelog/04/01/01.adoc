@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: CC-BY-SA-4.0
 
-= 4.1.0 -- 4.1.1
+= 4.1.1
 
 link:https://github.com/ls1intum/Artemis/releases/tag/4.1.1[Full Release Notes]
 
@@ -13,8 +13,8 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.1.1[Full Release Notes]
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/bf3b3564bea413643d97b4895102f2d9b9dc21fa[Store versions of submissions in database (#1495)]
 * link:https://www.github.com/ls1intum/Artemis/commit/6b96280998bb9a74aebfd2441a7c53259da41e66[Store Apollon Diagrams per course (#1320)]
+* link:https://www.github.com/ls1intum/Artemis/commit/bf3b3564bea413643d97b4895102f2d9b9dc21fa[Store versions of submissions in database (#1495)]
 
 
 == Template

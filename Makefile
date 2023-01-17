@@ -4,6 +4,10 @@
 
 PROJECT=artemis_changelog
 
+.PHONY: generate-changelog
+generate-changelog:
+	poetry run python ./artemis_changelog/main.py --output-dir=changelog
+
 .PHONY: format
 format:
 	poetry run isort .
@@ -23,7 +27,3 @@ reuse:
 
 .PHONY: check
 check: format mypy ruff reuse
-
-.PHONY: tox
-tox:
-	poetry run tox

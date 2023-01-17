@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: CC-BY-SA-4.0
 
-= 3.1.4 -- 3.1.5
+= 3.1.5
 
 link:https://github.com/ls1intum/Artemis/releases/tag/3.1.5[Full Release Notes]
 
@@ -13,10 +13,10 @@ link:https://github.com/ls1intum/Artemis/releases/tag/3.1.5[Full Release Notes]
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/e0acdb79e1ae570ddb5808c067c810339db070c8[Added confirmation dialog for submitting assessment (#455)]
+* link:https://www.github.com/ls1intum/Artemis/commit/908e4c3eb1d5e8286ef130f1f78a253b41e032fa[Update ClassTest.java]
 * link:https://www.github.com/ls1intum/Artemis/commit/58817c9f17edc975ad61f3c29f4da2ea6b86eb72[Update BehaviorTest.java]
 * link:https://www.github.com/ls1intum/Artemis/commit/4eb995c238f1c1d1acae139e20262c6f548ce36a[Update BehaviorTest.java]
-* link:https://www.github.com/ls1intum/Artemis/commit/908e4c3eb1d5e8286ef130f1f78a253b41e032fa[Update ClassTest.java]
+* link:https://www.github.com/ls1intum/Artemis/commit/e0acdb79e1ae570ddb5808c067c810339db070c8[Added confirmation dialog for submitting assessment (#455)]
 * link:https://www.github.com/ls1intum/Artemis/commit/15cb3d248a99da5ccd753c746f1d6b04591c26ea[Update ClassTest.java]
 
 

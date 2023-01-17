@@ -2,14 +2,14 @@
 //
 // SPDX-License-Identifier: CC-BY-SA-4.0
 
-= 3.9.7 -- 3.10.0
+= 3.10.0
 
 link:https://github.com/ls1intum/Artemis/releases/tag/3.10.0[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/aced280b8ece254745960442f83bd4a9339e2b01[Move too specific code from  AbstractVersionControlService to GitLab service  (#1165)]
 * link:https://www.github.com/ls1intum/Artemis/commit/257a6ad4c35a4acca54193eae31a2c598c0df55c[Integration of Jenkins as 2nd CI service and GitLab as 2nd VC service (#1110)]
+* link:https://www.github.com/ls1intum/Artemis/commit/aced280b8ece254745960442f83bd4a9339e2b01[Move too specific code from  AbstractVersionControlService to GitLab service  (#1165)]
 
 
 == Template

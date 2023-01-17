@@ -2,14 +2,14 @@
 //
 // SPDX-License-Identifier: CC-BY-SA-4.0
 
-= 3.1.7 -- 3.2.0
+= 3.2.0
 
 link:https://github.com/ls1intum/Artemis/releases/tag/3.2.0[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/510754c413eb8a5da77d98cc81ebc43e6bfa99e6[Update to jhipster 6 and angular 8 (#263)]
 * link:https://www.github.com/ls1intum/Artemis/commit/097e25fb18f1e49b5f1202b46a0c0489c2870672[remove outdated option in yml file]
+* link:https://www.github.com/ls1intum/Artemis/commit/510754c413eb8a5da77d98cc81ebc43e6bfa99e6[Update to jhipster 6 and angular 8 (#263)]
 
 
 == Database

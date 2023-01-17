@@ -2,14 +2,14 @@
 //
 // SPDX-License-Identifier: CC-BY-SA-4.0
 
-= 3.11.0 -- 3.11.1
+= 3.11.1
 
 link:https://github.com/ls1intum/Artemis/releases/tag/3.11.1[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/27f18f9be1598e505300b854395df3806278dda9[Update Gitlab + Jenkins documentation.  (#1273)]
 * link:https://www.github.com/ls1intum/Artemis/commit/5e77a9c59061e55f086f655d45bf7b5c7e6a4ca2[change default value for crumb flag in jenkins]
+* link:https://www.github.com/ls1intum/Artemis/commit/27f18f9be1598e505300b854395df3806278dda9[Update Gitlab + Jenkins documentation.  (#1273)]
 
 
 == Database

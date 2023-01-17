@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: CC-BY-SA-4.0
 
-= 5.11.2 -- 5.11.3
+= 5.11.3
 
 link:https://github.com/ls1intum/Artemis/releases/tag/5.11.3[Full Release Notes]
 

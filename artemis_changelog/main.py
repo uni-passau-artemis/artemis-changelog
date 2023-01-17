@@ -115,11 +115,10 @@ def _licence_header() -> str:
 
 def format_result(
     latest_release: git.Tag,
-    previous_release: git.Tag,
     result: dict[Sections, set[Commit]],
 ) -> str:
     formatted = _licence_header()
-    formatted += f"\n\n= {previous_release.name} -- {latest_release.name}\n\n"
+    formatted += f"\n\n= {latest_release.name}\n\n"
 
     formatted += (
         "link:https://github.com/ls1intum/Artemis/releases/tag/"
@@ -163,7 +162,7 @@ def create_changelogs(
         if not os.path.exists(output_path):
             os.makedirs(output_path.parent, exist_ok=True)
             changed_paths = collect_changed_paths(after[1], before[1])
-            result = format_result(after[1], before[1], changed_paths)
+            result = format_result(after[1], changed_paths)
             with open(output_path, "w") as f:
                 f.write(result)
 

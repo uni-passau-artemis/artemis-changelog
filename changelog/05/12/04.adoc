@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: CC-BY-SA-4.0
 
-= 5.12.3 -- 5.12.4
+= 5.12.4
 
 link:https://github.com/ls1intum/Artemis/releases/tag/5.12.4[Full Release Notes]
 
@@ -13,8 +13,8 @@ link:https://github.com/ls1intum/Artemis/releases/tag/5.12.4[Full Release Notes]
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/1e3699e57a53ec5862f5fd9392aa582e781a084d[Development: Remove sub-queries for filtering and ordering posts (#5825)]
 * link:https://www.github.com/ls1intum/Artemis/commit/a189f54fca46e115f0444f7f94b5491d405bd5d4[Development: Remove missing migration entry]
+* link:https://www.github.com/ls1intum/Artemis/commit/1e3699e57a53ec5862f5fd9392aa582e781a084d[Development: Remove sub-queries for filtering and ordering posts (#5825)]
 
 
 == Template

@@ -2,14 +2,14 @@
 //
 // SPDX-License-Identifier: CC-BY-SA-4.0
 
-= 4.2.3 -- 4.2.4
+= 4.2.4
 
 link:https://github.com/ls1intum/Artemis/releases/tag/4.2.4[Full Release Notes]
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/97860bb1c30b0a27b73c1d41c1d4b4bbc7e900cb[SGI feedback reference (#1595)]
 * link:https://www.github.com/ls1intum/Artemis/commit/9f62fc611b37d87e678fb6dbfec043273d080979[Allow instructors to enable-disable the offline IDE usage in programming exercises (#1680)]
+* link:https://www.github.com/ls1intum/Artemis/commit/97860bb1c30b0a27b73c1d41c1d4b4bbc7e900cb[SGI feedback reference (#1595)]
 
 
 == Template

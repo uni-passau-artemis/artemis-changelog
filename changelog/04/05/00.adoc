@@ -2,13 +2,13 @@
 //
 // SPDX-License-Identifier: CC-BY-SA-4.0
 
-= 4.4.6 -- 4.5.0
+= 4.5.0
 
 link:https://github.com/ls1intum/Artemis/releases/tag/4.5.0[Full Release Notes]
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/8302299e414d228c927055461fe699263128fd4d[Add Test Run Functionality to exams (#2096)]
 * link:https://www.github.com/ls1intum/Artemis/commit/255b674aa81b97f9f0f3bde3132a2c3e23c8eef9[Add build logs to database. (#2068)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8302299e414d228c927055461fe699263128fd4d[Add Test Run Functionality to exams (#2096)]
 
 

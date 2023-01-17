@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: CC-BY-SA-4.0
 
-= 4.9.3 -- 4.9.4
+= 4.9.4
 
 link:https://github.com/ls1intum/Artemis/releases/tag/4.9.4[Full Release Notes]
 
@@ -15,7 +15,7 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.9.4[Full Release Notes]
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/9caa774f8bcb709245fcbe152b327e7dc6cb38bf[Change score to the correct noun: points (#2797)]
 * link:https://www.github.com/ls1intum/Artemis/commit/8838384dcb92ad91867c2bd820924e3ed8e118e5[rename 'max_score' to 'max_points' for assessment views (#2807)]
+* link:https://www.github.com/ls1intum/Artemis/commit/9caa774f8bcb709245fcbe152b327e7dc6cb38bf[Change score to the correct noun: points (#2797)]
 
 

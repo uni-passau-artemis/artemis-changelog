@@ -2,19 +2,19 @@
 //
 // SPDX-License-Identifier: CC-BY-SA-4.0
 
-= 4.11.2 -- 4.11.3
+= 4.11.3
 
 link:https://github.com/ls1intum/Artemis/releases/tag/4.11.3[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/7ac5954e99c4a76688a8111d6ee87cbf4e3ea198[update max file size for attachments to 20 MB and for file upload submissions to 8 MB]
 * link:https://www.github.com/ls1intum/Artemis/commit/0d5ebd397b1e5381879b70e8f312e5a6ea1d1410[Allow to configure a new registration option via Shibboleth/SAML2 (#3002)]
+* link:https://www.github.com/ls1intum/Artemis/commit/7ac5954e99c4a76688a8111d6ee87cbf4e3ea198[update max file size for attachments to 20 MB and for file upload submissions to 8 MB]
 
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/0d5ebd397b1e5381879b70e8f312e5a6ea1d1410[Allow to configure a new registration option via Shibboleth/SAML2 (#3002)]
 * link:https://www.github.com/ls1intum/Artemis/commit/d1e461b63e567be7c0359d06a9e9ce3786291956[Update OCaml programming exercise template. (#3155)]
+* link:https://www.github.com/ls1intum/Artemis/commit/0d5ebd397b1e5381879b70e8f312e5a6ea1d1410[Allow to configure a new registration option via Shibboleth/SAML2 (#3002)]
 
 
