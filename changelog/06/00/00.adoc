@@ -1,0 +1,54 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.0.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.0.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/74bc0b732da2e41f56d9765c13707a0dce464dc9[Programming exercises: Update template gradle version to 7.6 (#5893)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ed4696bcb3c1d90712e55e3f032494f1cd74b537[Development: Add PostgreSQL and test container support and cleanup change logs with migration paths (#5661)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c201db4e08a59609fee64254eb1a0f2f8869c317[Programming Exercises: Experimental support for GitLab CI (#6044)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f3e487e87359f18c6ac00d85aaeda7f7da2abf91[Programming exercises: Use a fixed version for the Haskell test image (#5776)]
+* link:https://www.github.com/ls1intum/Artemis/commit/bbca750faf528e7e3b7be2cfaad90c5ea1fbd71e[Programming exercises: Update Ares to 1.11.1 (#5955)]
+* link:https://www.github.com/ls1intum/Artemis/commit/dda36bbc744ba2a6acee2fc697107f34118254fb[Development: Update URL for Haskell build image (#6033)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2f3ec53002bff25f751fed4fac5390208f72dc23[Programming exercises: Add possibility to configure docker run arguments on bamboo via spring properties  (#5971)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/83526545187ea88bf31ccfe71b0da953cae306c9[Development: Remove sub-queries for filtering and ordering posts (#5825)]
+* link:https://www.github.com/ls1intum/Artemis/commit/367af2f7b9dc4975f0943f7b648f1bf2475a8497[Development: Support storing milliseconds in MySQL databases (#6046)]
+* link:https://www.github.com/ls1intum/Artemis/commit/e06f8dc44cf1ce9038df53478a0dfd451b28f914[Development: Make tutorial groups compatible with Postgres and reduce number of new change logs (#6001)]
+* link:https://www.github.com/ls1intum/Artemis/commit/fa2f71d8d5da908f447f6064941d734279dae43b[Programming exercises: Allow students to download tests after due date (#5762)]
+* link:https://www.github.com/ls1intum/Artemis/commit/598249d89dc3b4c6ac0f76cf63c0c3ae9b285115[Exam mode: Allow instructors to publish example solutions for exam exercises (#5831)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2d8bcf1dc6b79efbb3a0ee89e1ea6c815d8a2f02[Communication: Show number of unread messages (#5858)]
+* link:https://www.github.com/ls1intum/Artemis/commit/0e2d18561dea8296bc014ca10ed04941b9f39bb7[General: Add support for external learning platforms connecting over LTI 1.3 to Artemis (#5693)]
+* link:https://www.github.com/ls1intum/Artemis/commit/e0f17702b8750af54b8a024f8f18f093d040d30d[Development: Remove table jhi_date_time_wrapper which is not part of Artemis]
+* link:https://www.github.com/ls1intum/Artemis/commit/98eae588fe1529dfecf6eb92db34603063ee6485[Assessment: Add special grades for plagiarism and no-participation cases (#5852)]
+* link:https://www.github.com/ls1intum/Artemis/commit/aff7159a522d24d1a8ea04a25dc3e678a4de17e6[Tutorial groups: Allow management of tutorial group sessions (#5666)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c201db4e08a59609fee64254eb1a0f2f8869c317[Programming Exercises: Experimental support for GitLab CI (#6044)]
+* link:https://www.github.com/ls1intum/Artemis/commit/30185fe01233bd621d976395ff5bde1f774d124f[Development: Improve build plan relationship (#6099)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ff680dd8a9ff5e8c6ba2d4a257822dd3c8100edd[Development: Fix an issue in the migration for conversations (#6040)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ed4696bcb3c1d90712e55e3f032494f1cd74b537[Development: Add PostgreSQL and test container support and cleanup change logs with migration paths (#5661)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a0eff86544ecd5a84347bec2305fbb6209af9cc1[General: Redesign learning goals and store progress (#6050)]
+* link:https://www.github.com/ls1intum/Artemis/commit/d79d634da1441ba8c63c2e66f270c5589d9e0880[General: Add an optional start date to exercises (#5816)]
+* link:https://www.github.com/ls1intum/Artemis/commit/694f572126391440dced1262b946b137bb16336a[Development: Drop unused column has_feedback (#5913)]
+* link:https://www.github.com/ls1intum/Artemis/commit/7bd90ea97d9f6727bb3c56a62617078e8896346b[Development: Move LTI custom parameters to online course configuration (#5836)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f089f06aad3c9d5997d4dcf5cdebe214540a5377[Development: Rename non unique indices to prepare compatibility with Postgres]
+* link:https://www.github.com/ls1intum/Artemis/commit/b6f6ae519f6f039bd5791a7efccd0382827e70c2[Communication: Allow users to communicate in group chats and channels (#5822)]
+* link:https://www.github.com/ls1intum/Artemis/commit/96fa7587de87b587196f2cab7dd1c957c59b002d[Development: Remove result before complaint (#6100)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/74bc0b732da2e41f56d9765c13707a0dce464dc9[Programming exercises: Update template gradle version to 7.6 (#5893)]
+* link:https://www.github.com/ls1intum/Artemis/commit/fa2f71d8d5da908f447f6064941d734279dae43b[Programming exercises: Allow students to download tests after due date (#5762)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c201db4e08a59609fee64254eb1a0f2f8869c317[Programming Exercises: Experimental support for GitLab CI (#6044)]
+* link:https://www.github.com/ls1intum/Artemis/commit/aa343a235a81f967c24e44c1c595ebaa4ab45430[Documentation: Move to new domain name docs.artemis.cit.tum.de]
+* link:https://www.github.com/ls1intum/Artemis/commit/f3e487e87359f18c6ac00d85aaeda7f7da2abf91[Programming exercises: Use a fixed version for the Haskell test image (#5776)]
+* link:https://www.github.com/ls1intum/Artemis/commit/bbca750faf528e7e3b7be2cfaad90c5ea1fbd71e[Programming exercises: Update Ares to 1.11.1 (#5955)]
+
+
