@@ -20,7 +20,7 @@ more-itertools = "^9.0.0"
 
 
 [tool.poetry.group.dev.dependencies]
-black = "^22.12"
+black = "^23.1"
 isort = "^5.11"
 mypy = "^0.991"
 pylint = "^2.15"
