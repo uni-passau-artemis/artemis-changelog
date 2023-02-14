@@ -23,9 +23,15 @@ more-itertools = "^9.0.0"
 black = "^23.1"
 isort = "^5.11"
 mypy = "^1.0"
+pre-commit = "^3.0"
 pylint = "^2.15"
+pyupgrade = "^3.3"
 reuse = "^1.1"
 ruff = "^0.0.246"
+
+
+[tool.isort]
+profile = "black"
 
 
 [tool.mypy]

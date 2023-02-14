@@ -7,9 +7,9 @@ import datetime
 import logging
 import os.path
 import re
+from collections.abc import Generator, Iterable
 from enum import Enum
 from pathlib import Path
-from typing import Iterable
 
 import git
 import more_itertools
@@ -53,10 +53,12 @@ def get_release_tags(repo: git.Repo) -> list[tuple[semver.VersionInfo, git.Tag]]
 def commits_between(a: git.Tag, b: git.Tag) -> set[str]:
     git_cmd = git.cmd.Git("artemis")
     output = str(git_cmd.execute(["git", "log", "--oneline", f"{a.name}..{b.name}"]))
-    return set(line.split()[0] for line in output.splitlines())
+    return {line.split()[0] for line in output.splitlines()}
 
 
-def get_commits(latest_release: git.Tag, previous_release: git.Tag) -> Iterable[Commit]:
+def get_commits(
+    latest_release: git.Tag, previous_release: git.Tag
+) -> Generator[Commit, None, None]:
     yield latest_release.commit
 
     commits = commits_between(previous_release, latest_release)
@@ -69,7 +71,7 @@ def get_commits(latest_release: git.Tag, previous_release: git.Tag) -> Iterable[
         yield commit
 
 
-def get_changed_paths(commit: Commit) -> Iterable[str]:
+def get_changed_paths(commit: Commit) -> Generator[str, None, None]:
     for diff in commit.diff(commit.parents):
         yield diff.a_path
         yield diff.b_path
