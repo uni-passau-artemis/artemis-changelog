@@ -167,6 +167,25 @@ def create_changelogs(
                 f.write(result)
 
 
+def _index_header_notes(tag_count: int) -> str:
+    repo_url = "https://github.com/uni-passau-artemis/artemis-changelog"
+    changelog_url = (
+        "https://github.com/uni-passau-artemis/artemis-changelog/tree/main/changelog"
+    )
+
+    result = (
+        "This page is automatically generated from the scripts you "
+        f"can find link:{repo_url}[here].\n\n"
+        "[NOTE]\n"
+        "--\n"
+        f"Only the changes from the last {tag_count} updates are shown here.\n"
+        "You can find details about older releases in the "
+        f"link:{changelog_url}[GitHub repository].\n"
+        "--\n"
+    )
+    return result
+
+
 def create_index(
     output_dir: Path, tags: list[tuple[semver.VersionInfo, git.Tag]]
 ) -> None:
@@ -175,8 +194,12 @@ def create_index(
     with open(output_path, "w") as f:
         f.write(_licence_header())
         f.write("\n\n= Artemis Changelog\n")
+        f.write(":icons: font\n")
         f.write(":toc: left\n\n")
-        f.write(":leveloffset: +1\n\n")
+
+        f.write(_index_header_notes(len(tags)))
+
+        f.write("\n:leveloffset: +1\n\n")
 
         for version, _ in tags[:-1]:
             version_path = path_from_version(version)

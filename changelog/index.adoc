@@ -3,7 +3,16 @@
 // SPDX-License-Identifier: CC-BY-SA-4.0
 
 = Artemis Changelog
+:icons: font
 :toc: left
+
+This page is automatically generated from the scripts you can find link:https://github.com/uni-passau-artemis/artemis-changelog[here].
+
+[NOTE]
+--
+Only the changes from the last 20 updates are shown here.
+You can find details about older releases in the link:https://github.com/uni-passau-artemis/artemis-changelog/tree/main/changelog[GitHub repository].
+--
 
 :leveloffset: +1
 
