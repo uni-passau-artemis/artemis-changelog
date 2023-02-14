@@ -1,0 +1,13 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.0.4
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.0.4[Full Release Notes]
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/d147b4a834f1fb5822768ddd06f2b3a6faba1510[Exam mode: Add possibility to conduct exam attendance checks (#6137)]
+
+
