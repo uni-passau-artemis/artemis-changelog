@@ -14,5 +14,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.3.3[Full Release Notes]
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/123fabb9944593913d04d302106f30bdfcdfa45e[Submit StudentExam after Exam ended (#1867)]
-
-

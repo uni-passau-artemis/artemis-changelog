@@ -8,14 +8,12 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.9.4[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/20633bd616f67e03951ceb38a938f696b63aec77[fix issue in sentry config after PR 2784]
 * link:https://www.github.com/ls1intum/Artemis/commit/c984b6300311cb43a255dddeeae292ece24c86a2[Allow disabling Sentry (#2784)]
+* link:https://www.github.com/ls1intum/Artemis/commit/20633bd616f67e03951ceb38a938f696b63aec77[fix issue in sentry config after PR 2784]
 * link:https://www.github.com/ls1intum/Artemis/commit/e3d810fffd468b6fa3e1a5305f152de8c9b009ca[remove outdated entry from yml file]
 
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/8838384dcb92ad91867c2bd820924e3ed8e118e5[rename 'max_score' to 'max_points' for assessment views (#2807)]
 * link:https://www.github.com/ls1intum/Artemis/commit/9caa774f8bcb709245fcbe152b327e7dc6cb38bf[Change score to the correct noun: points (#2797)]
-
-
+* link:https://www.github.com/ls1intum/Artemis/commit/8838384dcb92ad91867c2bd820924e3ed8e118e5[rename 'max_score' to 'max_points' for assessment views (#2807)]

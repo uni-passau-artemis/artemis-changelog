@@ -9,5 +9,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.0.5[Full Release Notes]
 == Config
 
 * link:https://www.github.com/ls1intum/Artemis/commit/28c4a2ab699aac85c5d5db31bd07eda7fea9e643[add default values for imprint and contact to prevent undefined errors in production]
-
-

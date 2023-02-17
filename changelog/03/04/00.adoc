@@ -8,7 +8,5 @@ link:https://github.com/ls1intum/Artemis/releases/tag/3.4.0[Full Release Notes]
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/001a38c82cd587cf7b53bf74a457c03df5a396ae[Detect Text Submission Language and display it to tutors (#555)]
 * link:https://www.github.com/ls1intum/Artemis/commit/5dad1b2bd41d5ff44d0bf885eec4e6521723d2f7[Add autoincrement property to migration file (programming exercise test cases) (#654)]
-
-
+* link:https://www.github.com/ls1intum/Artemis/commit/001a38c82cd587cf7b53bf74a457c03df5a396ae[Detect Text Submission Language and display it to tutors (#555)]

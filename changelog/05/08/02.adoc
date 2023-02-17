@@ -15,5 +15,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/5.8.2[Full Release Notes]
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/49d7e9d058478b513d4b43681cbbb331c4c11437[Programming exercises: Fix instructions to prepare the tests for Gradle exercises locally (#5130)]
-
-

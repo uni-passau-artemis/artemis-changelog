@@ -8,8 +8,6 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.1.3[Full Release Notes]
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/ee77b4f535f949582ae0eb271a5f41472f761ed4[Feature/#1369 add rating to text exercise (#1451)]
-* link:https://www.github.com/ls1intum/Artemis/commit/6f185885cb265c9cd1bf82b9f5a02cd3e80268e9[Complaints for Team Exercises (#1527)]
 * link:https://www.github.com/ls1intum/Artemis/commit/02a08af48364722256bf3831b5de7c01b3674ab0[Upvote / Downvote questions (#1478)]
-
-
+* link:https://www.github.com/ls1intum/Artemis/commit/6f185885cb265c9cd1bf82b9f5a02cd3e80268e9[Complaints for Team Exercises (#1527)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ee77b4f535f949582ae0eb271a5f41472f761ed4[Feature/#1369 add rating to text exercise (#1451)]

@@ -8,46 +8,44 @@ link:https://github.com/ls1intum/Artemis/releases/tag/2.3.1[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/014a6fca85ea88e15f498f3c88fc99793f422e7f[add createDatabaseIfNotExist=true again so that the database is created automatically at startup]
-* link:https://www.github.com/ls1intum/Artemis/commit/c8aa0b03705da714ac0796d62f8f19321df55086[make sure to use server timezone UTC in all configurations]
 * link:https://www.github.com/ls1intum/Artemis/commit/79b3debca92c99e44b09f8f434f88d521e35cd92[add max-file-size to application.yml]
-* link:https://www.github.com/ls1intum/Artemis/commit/8e27c129c7047f7dc3e94b286b7b0b15c8de8b72[update to jhipster 5.6.0]
-* link:https://www.github.com/ls1intum/Artemis/commit/34501fa6efa296faeceb33d6f275ce9d18e875eb[Generated with JHipster 5.3.1]
 * link:https://www.github.com/ls1intum/Artemis/commit/065cf02cad376b1ad29987717d8adf209f9940d4[upgrade to angular 5]
 * link:https://www.github.com/ls1intum/Artemis/commit/30878f69c7e77b4fe79ea8099c187a105b02475c[update cache configuration]
 * link:https://www.github.com/ls1intum/Artemis/commit/c985f41c869c8f503aa36cb1760c3173985f4b5a[Generated with JHipster 5.5.0]
-* link:https://www.github.com/ls1intum/Artemis/commit/e49cd0bfdf8184a67dd7ed5840a85b7cc99c5f3e[move artemis application properties to a different file]
+* link:https://www.github.com/ls1intum/Artemis/commit/c8aa0b03705da714ac0796d62f8f19321df55086[make sure to use server timezone UTC in all configurations]
+* link:https://www.github.com/ls1intum/Artemis/commit/014a6fca85ea88e15f498f3c88fc99793f422e7f[add createDatabaseIfNotExist=true again so that the database is created automatically at startup]
+* link:https://www.github.com/ls1intum/Artemis/commit/8e27c129c7047f7dc3e94b286b7b0b15c8de8b72[update to jhipster 5.6.0]
 * link:https://www.github.com/ls1intum/Artemis/commit/fbdca6d41a35e739129199043486f2aed1217419[Add features for automatic creation of repositories, WebHooks, etc. (#106)]
+* link:https://www.github.com/ls1intum/Artemis/commit/e49cd0bfdf8184a67dd7ed5840a85b7cc99c5f3e[move artemis application properties to a different file]
+* link:https://www.github.com/ls1intum/Artemis/commit/34501fa6efa296faeceb33d6f275ce9d18e875eb[Generated with JHipster 5.3.1]
 
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/391a1e51d1c15b201a390eed790ebc6d7c7e0462[Feedback is ordered in Result now]
 * link:https://www.github.com/ls1intum/Artemis/commit/996bea6b6f917cd4c9bf9100ed6b1b915c6e3b95[database changes for new exercise types text and file upload]
 * link:https://www.github.com/ls1intum/Artemis/commit/39ea2f3d0329c5e32bfbefe801ef6fa92aea8863[WARNING recreate liquibase database change log]
-* link:https://www.github.com/ls1intum/Artemis/commit/f36350924ff2cbb9eac42967e905c7b9952845a1[add liquibase changelog for database changes]
-* link:https://www.github.com/ls1intum/Artemis/commit/8e27c129c7047f7dc3e94b286b7b0b15c8de8b72[update to jhipster 5.6.0]
-* link:https://www.github.com/ls1intum/Artemis/commit/03da8a4d8bfa8532b4cd1fc1adcceea27f4ba1ce[different changes: result over websocket, TypeScript refactoring, explanationText in ModelingSubmission]
-* link:https://www.github.com/ls1intum/Artemis/commit/b6949c5cf1179832d994b0ba96efd804c31f2bdc[increase feedback text size further]
-* link:https://www.github.com/ls1intum/Artemis/commit/34501fa6efa296faeceb33d6f275ce9d18e875eb[Generated with JHipster 5.3.1]
-* link:https://www.github.com/ls1intum/Artemis/commit/065cf02cad376b1ad29987717d8adf209f9940d4[upgrade to angular 5]
-* link:https://www.github.com/ls1intum/Artemis/commit/a9eaa7866f5f64b48d582a57cbbf6c1a126f2320[Text Question Assessment (#134)]
-* link:https://www.github.com/ls1intum/Artemis/commit/842a0ed5170fdb9388f86d40742f90e14c4d586d[entity changes in client and server]
-* link:https://www.github.com/ls1intum/Artemis/commit/c526e38b5e72ca0fd480cefb99a22d518fc13c72[rename table name from sa_submitted_text to short_answer_submitted_text]
 * link:https://www.github.com/ls1intum/Artemis/commit/a3112f0386ac65998f595f144ff1367c5d36892a[integrate text exercises and file upload exercises into course administration, code improvements]
-* link:https://www.github.com/ls1intum/Artemis/commit/d6fbc27598e2ba42e11c95f7323aa5e7a801ddda[question text can be 1000 characters long]
+* link:https://www.github.com/ls1intum/Artemis/commit/f36350924ff2cbb9eac42967e905c7b9952845a1[add liquibase changelog for database changes]
+* link:https://www.github.com/ls1intum/Artemis/commit/842a0ed5170fdb9388f86d40742f90e14c4d586d[entity changes in client and server]
+* link:https://www.github.com/ls1intum/Artemis/commit/065cf02cad376b1ad29987717d8adf209f9940d4[upgrade to angular 5]
 * link:https://www.github.com/ls1intum/Artemis/commit/c985f41c869c8f503aa36cb1760c3173985f4b5a[Generated with JHipster 5.5.0]
+* link:https://www.github.com/ls1intum/Artemis/commit/b6949c5cf1179832d994b0ba96efd804c31f2bdc[increase feedback text size further]
+* link:https://www.github.com/ls1intum/Artemis/commit/8e27c129c7047f7dc3e94b286b7b0b15c8de8b72[update to jhipster 5.6.0]
+* link:https://www.github.com/ls1intum/Artemis/commit/d6fbc27598e2ba42e11c95f7323aa5e7a801ddda[question text can be 1000 characters long]
 * link:https://www.github.com/ls1intum/Artemis/commit/fbdca6d41a35e739129199043486f2aed1217419[Add features for automatic creation of repositories, WebHooks, etc. (#106)]
+* link:https://www.github.com/ls1intum/Artemis/commit/391a1e51d1c15b201a390eed790ebc6d7c7e0462[Feedback is ordered in Result now]
+* link:https://www.github.com/ls1intum/Artemis/commit/c526e38b5e72ca0fd480cefb99a22d518fc13c72[rename table name from sa_submitted_text to short_answer_submitted_text]
+* link:https://www.github.com/ls1intum/Artemis/commit/a9eaa7866f5f64b48d582a57cbbf6c1a126f2320[Text Question Assessment (#134)]
+* link:https://www.github.com/ls1intum/Artemis/commit/34501fa6efa296faeceb33d6f275ce9d18e875eb[Generated with JHipster 5.3.1]
+* link:https://www.github.com/ls1intum/Artemis/commit/03da8a4d8bfa8532b4cd1fc1adcceea27f4ba1ce[different changes: result over websocket, TypeScript refactoring, explanationText in ModelingSubmission]
 
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/ace6d8141393316b76d242c8dc377351a546cda8[adapt java template to an exercise about the strategy pattern and sorting algorithms]
+* link:https://www.github.com/ls1intum/Artemis/commit/125e53ad8b18a9a8b738093f109ede49eb1a9ea9[improve README for programming exercise template]
 * link:https://www.github.com/ls1intum/Artemis/commit/180f4a819e175fd328667ece23c88faa0d1f8d08[adapt special treatment for gitignore file in template]
-* link:https://www.github.com/ls1intum/Artemis/commit/34501fa6efa296faeceb33d6f275ce9d18e875eb[Generated with JHipster 5.3.1]
 * link:https://www.github.com/ls1intum/Artemis/commit/718167e9179f13409cef7ea8f5d2192d6b5bf2fc[adapt Eclipse name of solution project]
 * link:https://www.github.com/ls1intum/Artemis/commit/c985f41c869c8f503aa36cb1760c3173985f4b5a[Generated with JHipster 5.5.0]
+* link:https://www.github.com/ls1intum/Artemis/commit/ace6d8141393316b76d242c8dc377351a546cda8[adapt java template to an exercise about the strategy pattern and sorting algorithms]
 * link:https://www.github.com/ls1intum/Artemis/commit/fbdca6d41a35e739129199043486f2aed1217419[Add features for automatic creation of repositories, WebHooks, etc. (#106)]
-* link:https://www.github.com/ls1intum/Artemis/commit/125e53ad8b18a9a8b738093f109ede49eb1a9ea9[improve README for programming exercise template]
-
-
+* link:https://www.github.com/ls1intum/Artemis/commit/34501fa6efa296faeceb33d6f275ce9d18e875eb[Generated with JHipster 5.3.1]

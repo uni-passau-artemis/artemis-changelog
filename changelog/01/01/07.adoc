@@ -9,5 +9,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/1.1.7[Full Release Notes]
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/8ef7ddc954671a626d966e1ae2db5ad6f8b6a056[Permanently map user <-> LTI user id]
-
-

@@ -21,5 +21,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/3.11.1[Full Release Notes]
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/85fc87f10d156a661a3addad2717c95b66e5b8b5[make favicon customizable]
-
-

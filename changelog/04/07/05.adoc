@@ -13,8 +13,6 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.7.5[Full Release Notes]
 
 == Template
 
+* link:https://www.github.com/ls1intum/Artemis/commit/dd33103b88db84f7fb86b6362c255b5c4530bc64[Improve detection of Jenkins pipeline scripts (#2417)]
 * link:https://www.github.com/ls1intum/Artemis/commit/4eaac56334a46ab2376f8647f82e789534138a14[add utf-8 encoding to Maven Surefire in pom.xml templates]
 * link:https://www.github.com/ls1intum/Artemis/commit/344dd2041bb9176d2a23920212052641502492f9[remove maven failsafe from Java test pom.xml template as it is not required]
-* link:https://www.github.com/ls1intum/Artemis/commit/dd33103b88db84f7fb86b6362c255b5c4530bc64[Improve detection of Jenkins pipeline scripts (#2417)]
-
-

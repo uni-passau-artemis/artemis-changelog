@@ -9,5 +9,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/3.7.1[Full Release Notes]
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/b9d4320bec35fcfce949e12c87779826166f49a3[remove outdated tests from programming exercise Java readme template]
-
-

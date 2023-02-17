@@ -8,12 +8,10 @@ link:https://github.com/ls1intum/Artemis/releases/tag/5.4.0[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/19031d332b81a8e2a02509ae1911bd21ab24ba2f[Development: Update server dependencies (#4440)]
 * link:https://www.github.com/ls1intum/Artemis/commit/6f31445cbc6d81894877a9d53acf4c0593a598cc[Development: Enable info environment contributor after Spring upgrade (#4483)]
+* link:https://www.github.com/ls1intum/Artemis/commit/19031d332b81a8e2a02509ae1911bd21ab24ba2f[Development: Update server dependencies (#4440)]
 
 
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/e7df5334bacc9c8f324d0370b356ede725257284[Notifications: Allow users to hide outdated notifications (#4332)]
-
-

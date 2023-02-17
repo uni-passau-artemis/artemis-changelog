@@ -9,5 +9,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/5.4.2[Full Release Notes]
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/3537a6aa62a835dd473709a2e8191b68e42e6f4d[General: Allow instructors to define individual due dates for students in course exercises (#4416)]
-
-

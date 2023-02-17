@@ -1,0 +1,16 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.0.5
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.0.5[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/c313d89cd1fcb0ee0fef397bad09a3b4b08e1bcf[Programming exercises: Update Haskell Docker image (#6248)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/c313d89cd1fcb0ee0fef397bad09a3b4b08e1bcf[Programming exercises: Update Haskell Docker image (#6248)]

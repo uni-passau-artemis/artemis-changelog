@@ -14,14 +14,12 @@ link:https://github.com/ls1intum/Artemis/releases/tag/5.7.2[Full Release Notes]
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/ce289f5583388a649f7d6e566ea80e678cdd51b2[Exam mode: Add basic structure for test exams and refactor exam creation dialog (#4892)]
 * link:https://www.github.com/ls1intum/Artemis/commit/fe9f7aeafa35a2dc8bc2b210a0fb64ad8bfac39a[General: Allow instructors to configure variable complaint text limits per course (#4810)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ce289f5583388a649f7d6e566ea80e678cdd51b2[Exam mode: Add basic structure for test exams and refactor exam creation dialog (#4892)]
 
 
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/0a5be99461ec7f30524a59792aea407f15ad42c5[Programming exercises: Fix gradle project test source set for package names starting with "test" (#4900)]
-* link:https://www.github.com/ls1intum/Artemis/commit/7a8fbe1b5ef4300a4ccd5930172889ad453cbfbc[Programming exercises: Upgrade to Ares 1.9.2 (#4857)]
 * link:https://www.github.com/ls1intum/Artemis/commit/2ad711fa155f5421309ed8a7ebd709019453c228[Programming exercises: Upgrade static code analysis dependencies (#4912)]
-
-
+* link:https://www.github.com/ls1intum/Artemis/commit/7a8fbe1b5ef4300a4ccd5930172889ad453cbfbc[Programming exercises: Upgrade to Ares 1.9.2 (#4857)]

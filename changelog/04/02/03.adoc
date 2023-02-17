@@ -14,5 +14,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.2.3[Full Release Notes]
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/aa5c1e99cf312674df916a1eba44a5c551e4696d[remove unused import]
-
-

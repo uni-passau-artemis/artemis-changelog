@@ -10,5 +10,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/2.8.0[Full Release Notes]
 
 * link:https://www.github.com/ls1intum/Artemis/commit/597f57942b41253db77e144e4a34c7c120395217[fix wrong database column names before release]
 * link:https://www.github.com/ls1intum/Artemis/commit/322d6e7ff560a4e6f4c8865cc1858ae27cca6963[add modeling conflict entitities]
-
-

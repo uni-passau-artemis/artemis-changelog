@@ -9,5 +9,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.11.4[Full Release Notes]
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/d8fff33ee5e0c473878a87466b02cb2e045bf0a8[Fix illegal submissions grace period (#3202)]
-
-

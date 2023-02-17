@@ -15,5 +15,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/3.11.2[Full Release Notes]
 
 * link:https://www.github.com/ls1intum/Artemis/commit/077bc96f7ad18ca6bc1fa1ee641da1f043f58b54[Bamboo build plans now use docker configuration]
 * link:https://www.github.com/ls1intum/Artemis/commit/241467bf3b00303bdb36c7e10542e814e3cf508a[use Java 14 and custom maven docker image for Java programming exercises]
-
-

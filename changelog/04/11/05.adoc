@@ -14,5 +14,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.11.5[Full Release Notes]
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/004cc0c6c88ef5bee5b0c795c725cdc1cb74ff90[Add a grading system for courses and exams (server side) (#3061)]
-
-

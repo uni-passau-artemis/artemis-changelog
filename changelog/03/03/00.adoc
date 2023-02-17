@@ -15,5 +15,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/3.3.0[Full Release Notes]
 
 * link:https://www.github.com/ls1intum/Artemis/commit/c382251e52df080eae6e51bfc7cabd17cfb2cda0[Update BehaviourTest.java (#608)]
 * link:https://www.github.com/ls1intum/Artemis/commit/3a75a1dbe70264961c19a32e76a524650353cd70[Feature/Programming Exercise/Sequential test runs (#495)]
-
-

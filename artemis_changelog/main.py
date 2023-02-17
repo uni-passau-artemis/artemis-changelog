@@ -142,7 +142,7 @@ def format_result(
     if sum(map(len, result.values())) == 0:
         formatted += "No relevant changes.\n"
 
-    return formatted
+    return formatted.rstrip() + "\n"
 
 
 def path_from_version(version: semver.VersionInfo) -> Path:
@@ -205,7 +205,7 @@ def create_index(
 
         for version, _ in tags[:-1]:
             version_path = path_from_version(version)
-            f.write(f"include::{version_path}[]\n\n")
+            f.write(f"include::{version_path}[]\n")
 
 
 def main(output_dir: Path) -> None:

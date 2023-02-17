@@ -9,5 +9,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/5.5.0[Full Release Notes]
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/9205ff241bff371c069620b7bc36e2cd191eda01[Notifications: Add new notification, setting, and email for assessed exercise submissions with scheduling (#4435)]
-
-

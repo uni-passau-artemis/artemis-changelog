@@ -20,5 +20,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.12.5[Full Release Notes]
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/d19b274081d5e3bb609a5863fa2c2a5ccac1351f[[Feature\] Empty Programming Exercises (#3506)]
-
-

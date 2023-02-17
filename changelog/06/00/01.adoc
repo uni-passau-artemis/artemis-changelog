@@ -8,18 +8,16 @@ link:https://github.com/ls1intum/Artemis/releases/tag/6.0.1[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/6c673999a383b6ccfa031225bb4cfdd2689cb748[Programming exercises: Add possibility to configure Docker run arguments on Jenkins (#6045)]
 * link:https://www.github.com/ls1intum/Artemis/commit/62a9c9f75bb2233727774e77c7677bdd6d4e9f48[Development: Remove unused artemis.encryption-password config option (#6131)]
+* link:https://www.github.com/ls1intum/Artemis/commit/6c673999a383b6ccfa031225bb4cfdd2689cb748[Programming exercises: Add possibility to configure Docker run arguments on Jenkins (#6045)]
 
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/244a1efbdb092e2addadd5765d34bce268c01748[Development: Fix server tests for MySQL and Postgres (#6138)]
 * link:https://www.github.com/ls1intum/Artemis/commit/5fa5761a2134b6f9d1cc070997474c6b23cf8bd5[Tutorial groups: Allow tutors to track number of attending students per session (#6133)]
+* link:https://www.github.com/ls1intum/Artemis/commit/244a1efbdb092e2addadd5765d34bce268c01748[Development: Fix server tests for MySQL and Postgres (#6138)]
 
 
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/6c673999a383b6ccfa031225bb4cfdd2689cb748[Programming exercises: Add possibility to configure Docker run arguments on Jenkins (#6045)]
-
-

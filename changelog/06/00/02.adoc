@@ -14,5 +14,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/6.0.2[Full Release Notes]
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/24d9bd889ac4ec42fea9f719cb217840791dcb33[Plagiarism check: Improve new plagiarism notification email (#6174)]
-
-

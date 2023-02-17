@@ -13,14 +13,12 @@ link:https://github.com/ls1intum/Artemis/releases/tag/5.2.0[Full Release Notes]
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/9d1d2d4f96e36bdc6a1871d4d6fe686dcc50bbd4[Migrate all text feedback to use text blocks (#4021)]
 * link:https://www.github.com/ls1intum/Artemis/commit/a78b1c9dbf1ed9a71bc0db532bcf7b9d58859baa[Prevent duplicated reactions for Metis posts (#4016)]
+* link:https://www.github.com/ls1intum/Artemis/commit/9d1d2d4f96e36bdc6a1871d4d6fe686dcc50bbd4[Migrate all text feedback to use text blocks (#4021)]
 * link:https://www.github.com/ls1intum/Artemis/commit/a55ee490a166c62404870cca0c1893d943a5ba09[fix issue with feedback textblock database migration]
 
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/11c6fdd8a438d934b1956285769ab35a69ab653e[Improve Swift Xcode template with more realistic example and fastlane (#3911)]
 * link:https://www.github.com/ls1intum/Artemis/commit/c96cd829ced1bccf43665409e975b77ccb01b575[Update artemis-java-test-sandbox to version 1.7.0 (#4034)]
-
-
+* link:https://www.github.com/ls1intum/Artemis/commit/11c6fdd8a438d934b1956285769ab35a69ab653e[Improve Swift Xcode template with more realistic example and fastlane (#3911)]

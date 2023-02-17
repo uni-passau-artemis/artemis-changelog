@@ -19,5 +19,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.2.5[Full Release Notes]
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/ad19eb292788e1871c420bcfa84a30cb0f745fec[improve Haskell template based on suggestions by kappelmann]
-
-

@@ -8,8 +8,6 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.3.2[Full Release Notes]
 
 == Config
 
+* link:https://www.github.com/ls1intum/Artemis/commit/2db3e8d7d91ac83b6e1239bec794fd98956128f9[Export metrics in prometheus format (#1845)]
 * link:https://www.github.com/ls1intum/Artemis/commit/bba6e56e1613569bd6d5f24087cc2f245a589238[fix issues due to prometheus config]
 * link:https://www.github.com/ls1intum/Artemis/commit/f3fdf3a2db3fc20eebc1e40277727c81d076a603[Submission Export for Text/Modeling/FileUpload Exercises (#1835)]
-* link:https://www.github.com/ls1intum/Artemis/commit/2db3e8d7d91ac83b6e1239bec794fd98956128f9[Export metrics in prometheus format (#1845)]
-
-

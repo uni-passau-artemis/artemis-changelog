@@ -14,5 +14,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.2.10[Full Release Notes]
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/c40e84b67799320848506fcc09857f9503e80aa5[IP Logging for Exam Sessions (#1808)]
-
-

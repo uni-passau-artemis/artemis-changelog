@@ -8,8 +8,8 @@ link:https://github.com/ls1intum/Artemis/releases/tag/5.3.4[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/fd41d5c4869c6736191fc2117d86f0fda4726d43[Development: Update server dependencies (#4342)]
 * link:https://www.github.com/ls1intum/Artemis/commit/ebd9140458aaa7f5f03741f80cfa4fbc7b811a1d[Bump version to 5.3.4]
+* link:https://www.github.com/ls1intum/Artemis/commit/fd41d5c4869c6736191fc2117d86f0fda4726d43[Development: Update server dependencies (#4342)]
 
 
 == Database
@@ -19,8 +19,6 @@ link:https://github.com/ls1intum/Artemis/releases/tag/5.3.4[Full Release Notes]
 
 == Template
 
+* link:https://www.github.com/ls1intum/Artemis/commit/7909cae4451e285beb888b785926d4a9d667c66d[Discussion: Improve announcement post handling and formatting (#4303)]
 * link:https://www.github.com/ls1intum/Artemis/commit/85216401824cea2f2cc7bab70000f3109c0fcc46[Notifications: Add new notification, email, settings for successful file submissions (#4335)]
 * link:https://www.github.com/ls1intum/Artemis/commit/61d0886dc00a21ba453ec52a11ff2f65740e784d[General: Improve favicon logo for light mode (#4344)]
-* link:https://www.github.com/ls1intum/Artemis/commit/7909cae4451e285beb888b785926d4a9d667c66d[Discussion: Improve announcement post handling and formatting (#4303)]
-
-

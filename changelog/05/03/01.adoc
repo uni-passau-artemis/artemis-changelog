@@ -15,5 +15,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/5.3.1[Full Release Notes]
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/b1de2afd3695abd03a7324108c53966bce624205[Development: Update server and programming exercise dependencies]
-
-

@@ -21,5 +21,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/5.8.4[Full Release Notes]
 
 * link:https://www.github.com/ls1intum/Artemis/commit/1a0a647ffb7d70ade81bc4f2330e54a0163d904c[Development: Fix typos in code comments (#5007)]
 * link:https://www.github.com/ls1intum/Artemis/commit/d9edf5b9830ce9b04738b35a070341e1c25801f8[Programming exercises: Update Ares to 1.10.1 (#5173)]
-
-

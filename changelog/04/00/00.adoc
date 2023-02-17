@@ -8,10 +8,8 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.0.0[Full Release Notes]
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/71cc4461f62b746514676698cb9f2afaea9859bd[Text Assessment V2 (#1286)]
-* link:https://www.github.com/ls1intum/Artemis/commit/53ece9de53abec2b0e2a330214718e5fffb6fe5b[Show correct count for complaints/more feedback requests about your assessments (#1143)]
-* link:https://www.github.com/ls1intum/Artemis/commit/8230b47b72696fb58d21b0169b172e6f2543bcde[Import teams from source exercise (#1302)]
 * link:https://www.github.com/ls1intum/Artemis/commit/24a12b5ef22d4a25345180a05ff657f28edcd003[Bugfix/drag and drop quiz drop zones (#1306)]
+* link:https://www.github.com/ls1intum/Artemis/commit/71cc4461f62b746514676698cb9f2afaea9859bd[Text Assessment V2 (#1286)]
 * link:https://www.github.com/ls1intum/Artemis/commit/055f59b5b5ebd2e53ebe163c9caffa65b10cf5c0[add unique constraint to database for course.shortname]
-
-
+* link:https://www.github.com/ls1intum/Artemis/commit/8230b47b72696fb58d21b0169b172e6f2543bcde[Import teams from source exercise (#1302)]
+* link:https://www.github.com/ls1intum/Artemis/commit/53ece9de53abec2b0e2a330214718e5fffb6fe5b[Show correct count for complaints/more feedback requests about your assessments (#1143)]

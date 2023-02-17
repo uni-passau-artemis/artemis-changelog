@@ -13,8 +13,6 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.6.3[Full Release Notes]
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/914effb8556ae7f3287b2710f35fc6f9cd87f0cc[Improve server side git url handling and server test improvements (#2237)]
 * link:https://www.github.com/ls1intum/Artemis/commit/3f6d2e80a8b905885eba978656d7404c0c736568[Enable static code analysis for GitLab + Jenkins (#2226)]
+* link:https://www.github.com/ls1intum/Artemis/commit/914effb8556ae7f3287b2710f35fc6f9cd87f0cc[Improve server side git url handling and server test improvements (#2237)]
 * link:https://www.github.com/ls1intum/Artemis/commit/8aa73283089fcb3c6cba833e36fb55faec7c128a[Add Kotlin, VHDL, Assember Programming Language Templates. (#2211)]
-
-

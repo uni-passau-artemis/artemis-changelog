@@ -14,5 +14,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/5.9.2[Full Release Notes]
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/ef4bee5a7a85eceb66a3dadf39a47d4f976247f0[Programming exercises: Add support for testwise coverage analysis for Java/Kotlin exercises on Jenkins setup (#5238)]
-
-

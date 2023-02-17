@@ -14,5 +14,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.1.0[Full Release Notes]
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/4d013ce397aed41a8670726ef64a9d838f7b28fe[Improve BehaviourTest in java template (#1442)]
-
-

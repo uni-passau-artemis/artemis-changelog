@@ -20,7 +20,5 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.6.2[Full Release Notes]
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/453f1a81c37d40f0ab964956697f9e8648d28064[Bump versions of dependencies in Java programming exercises pom.xml  (#2190)]
 * link:https://www.github.com/ls1intum/Artemis/commit/607dfd7d2e706925963bc1fbb499faa5cbf8e424[Bump junit in /src/main/resources/templates/java/test/projectTemplate (#2196)]
-
-
+* link:https://www.github.com/ls1intum/Artemis/commit/453f1a81c37d40f0ab964956697f9e8648d28064[Bump versions of dependencies in Java programming exercises pom.xml  (#2190)]

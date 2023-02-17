@@ -15,5 +15,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.7.6[Full Release Notes]
 
 * link:https://www.github.com/ls1intum/Artemis/commit/d008aa099dd9e0d7cb8066c4dbac032acb9869c6[Allow to set timeout for jenkins pipelines (#2440)]
 * link:https://www.github.com/ls1intum/Artemis/commit/6f0096fab51843a1e709c3af28f2b5f65c58fe80[Add an option to update the test repository when importing programming exercises (#2414)]
-
-

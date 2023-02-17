@@ -9,5 +9,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/5.8.6[Full Release Notes]
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/67a3d94ef8132f74867544c737fe15c83346bcd2[Plagiarism checks: Allow instructors to clean up and improve performance (#5131)]
-
-

@@ -19,5 +19,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.7.1[Full Release Notes]
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/26644823d66f61af81156969d81ba825985f6f58[Programming Template UML Visibilities (#2313)]
-
-

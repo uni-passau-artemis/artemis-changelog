@@ -8,8 +8,8 @@ link:https://github.com/ls1intum/Artemis/releases/tag/3.10.1[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/abbb4e873f259bd222bb22f7e185a6de5ba5ef6f[User Management for GitLab via Artemis (#1164)]
 * link:https://www.github.com/ls1intum/Artemis/commit/48fea35deec3781ccd35f5119d2cebe1d77ebab0[Feature/customizable static assets (#1209)]
+* link:https://www.github.com/ls1intum/Artemis/commit/abbb4e873f259bd222bb22f7e185a6de5ba5ef6f[User Management for GitLab via Artemis (#1164)]
 
 
 == Database
@@ -20,5 +20,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/3.10.1[Full Release Notes]
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/a938df943787fb899f7c5379cea9aea609874ac7[Fix testutils on windows (#1133)]
-
-

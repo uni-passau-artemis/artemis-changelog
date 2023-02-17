@@ -9,5 +9,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/3.8.8[Full Release Notes]
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/df8cb12e0d20585527b2f7c2baada5f708738052[Enhancement/updated c template (#987)]
-
-
