@@ -1,0 +1,16 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.0.6
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.0.6[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/40e5408279f0b2ef41bcbde22b0511b2ec292647[Programming exercises: Update Ares to 1.11.3 (#6256)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/40e5408279f0b2ef41bcbde22b0511b2ec292647[Programming exercises: Update Ares to 1.11.3 (#6256)]
