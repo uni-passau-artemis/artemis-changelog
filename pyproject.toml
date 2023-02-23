@@ -14,20 +14,20 @@ packages = [{include = "artemis_changelog"}]
 
 [tool.poetry.dependencies]
 python = ">=3.10,<4.0"
-gitpython = "^3.1.29"
-semver = "^2.13.0"
-more-itertools = "^9.0.0"
+gitpython = "3.1.31"
+semver = "2.13.0"
+more-itertools = "9.0.0"
 
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.1"
 isort = "^5.11"
 mypy = "^1.0"
-pre-commit = "^3.0"
+pre-commit = "^3.1"
 pylint = "^2.15"
 pyupgrade = "^3.3"
 reuse = "^1.1"
-ruff = "^0.0.247"
+ruff = "^0.0.252"
 
 
 [tool.isort]

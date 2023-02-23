@@ -37,17 +37,16 @@ def fetch_repo(url: str, target_path: Path) -> git.Repo:
         repo = git.Repo(target_path)
         repo.remote().pull()
         return repo
-    else:
-        repo = git.Repo.clone_from(url, target_path)
-        return repo
+
+    return git.Repo.clone_from(url, target_path)
 
 
 def get_release_tags(repo: git.Repo) -> list[tuple[semver.VersionInfo, git.Tag]]:
-    return list(
+    return [
         (semver.VersionInfo.parse(tag.name), tag)
         for tag in repo.tags
         if re.match(r"^\d+\.\d+\.\d+$", tag.name)
-    )
+    ]
 
 
 def commits_between(a: git.Tag, b: git.Tag) -> set[str]:
@@ -175,7 +174,7 @@ def _index_header_notes(tag_count: int) -> str:
         "https://github.com/uni-passau-artemis/artemis-changelog/tree/main/changelog"
     )
 
-    result = (
+    return (
         "This page is automatically generated from the scripts you "
         f"can find link:{repo_url}[here].\n\n"
         "[NOTE]\n"
@@ -185,7 +184,6 @@ def _index_header_notes(tag_count: int) -> str:
         f"link:{changelog_url}[GitHub repository].\n"
         "--\n"
     )
-    return result
 
 
 def create_index(
