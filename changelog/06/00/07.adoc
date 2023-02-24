@@ -1,0 +1,9 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.0.7
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.0.7[Full Release Notes]
+
+No relevant changes.
