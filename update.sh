@@ -13,6 +13,8 @@ if [[ -z "$version" ]]; then
     exit 1
 fi
 
+git pull github main
+
 poetry install
 poetry run python ./artemis_changelog/main.py --output-dir=changelog
 
