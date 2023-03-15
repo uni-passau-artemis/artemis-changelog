@@ -24,7 +24,7 @@ class Sections(Enum):
     TEMPLATE = "Template"
 
     def path_pattern(self) -> str:
-        match self:  # noqa: E999, the parser used by ruff cannot parse match
+        match self:
             case Sections.CONFIG:
                 return r"src/main/resources/config/.*\.yml$"
             case Sections.DATABASE:
