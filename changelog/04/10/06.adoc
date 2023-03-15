@@ -6,7 +6,14 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/4.10.6[Full Release Notes]
 
+== Config
+
+
+
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/4bf2162070d22870d72f5e2a2756064ab624ed2f[Improve performance of tutor leaderboard (#3001)]
-* link:https://www.github.com/ls1intum/Artemis/commit/1fe9699b8678c42ca40190514412ea1c0868992c[Improve result score accuracy (#2976)]
+* link:https://www.github.com/ls1intum/Artemis/commit/4bf2162070d22870d72f5e2a2756064ab624ed2f/[Improve performance of tutor leaderboard (#3001)]
+* link:https://www.github.com/ls1intum/Artemis/commit/1fe9699b8678c42ca40190514412ea1c0868992c/[Improve result score accuracy (#2976)]
+
+
+== Template

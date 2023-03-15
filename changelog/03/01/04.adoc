@@ -6,12 +6,16 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/3.1.4[Full Release Notes]
 
+== Config
+
+
+
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/e609737b05cc88f0c6d7667d62096d5447065a2d[Comment field for example assessments (#469)]
+* link:https://www.github.com/ls1intum/Artemis/commit/e609737b05cc88f0c6d7667d62096d5447065a2d/[Comment field for example assessments (#469)]
 
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/ae892211c572b88eb4ee386ca11b6c9be7e61ecc[small improvements in programming exercise templates]
-* link:https://www.github.com/ls1intum/Artemis/commit/6d612e4ded54867ee8089d2cd348d57f6b3a49c8[Stager approach - whitespace diff (#487)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ae892211c572b88eb4ee386ca11b6c9be7e61ecc/[small improvements in programming exercise templates]
+* link:https://www.github.com/ls1intum/Artemis/commit/6d612e4ded54867ee8089d2cd348d57f6b3a49c8/[Stager approach - whitespace diff (#487)]

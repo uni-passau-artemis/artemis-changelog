@@ -8,9 +8,13 @@ link:https://github.com/ls1intum/Artemis/releases/tag/5.12.7[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/614dd38a134633b7564f8c1ac45f70defb190971[Programming exercises: Update template gradle version to 7.6 (#5893)]
+* link:https://www.github.com/ls1intum/Artemis/commit/614dd38a134633b7564f8c1ac45f70defb190971/[Programming exercises: Update template gradle version to 7.6 (#5893)]
+
+
+== Database
+
 
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/614dd38a134633b7564f8c1ac45f70defb190971[Programming exercises: Update template gradle version to 7.6 (#5893)]
+* link:https://www.github.com/ls1intum/Artemis/commit/614dd38a134633b7564f8c1ac45f70defb190971/[Programming exercises: Update template gradle version to 7.6 (#5893)]

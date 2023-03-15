@@ -6,7 +6,15 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/4.6.4[Full Release Notes]
 
+== Config
+
+
+
+== Database
+
+
+
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/276d2c064a0029acc023554a6b4cf67f79b5f5f2[Update C template and introduce programming language features (#2150)]
-* link:https://www.github.com/ls1intum/Artemis/commit/f49b8d638db252eae722c69cc54d4b038b464902[update the Haskell programming exercise template: upgrade dependencies, add more extensive example, test suite, and readme (#2254)]
+* link:https://www.github.com/ls1intum/Artemis/commit/276d2c064a0029acc023554a6b4cf67f79b5f5f2/[Update C template and introduce programming language features (#2150)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f49b8d638db252eae722c69cc54d4b038b464902/[update the Haskell programming exercise template: upgrade dependencies, add more extensive example, test suite, and readme (#2254)]

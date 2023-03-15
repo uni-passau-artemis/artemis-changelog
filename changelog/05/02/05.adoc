@@ -6,6 +6,13 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/5.2.5[Full Release Notes]
 
+== Config
+
+
+
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/f661f31435fa625f4105eb25663ecaaafa45124b[Text & Modeling Exercises: Introduce Assessment Knowledge (#3615)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f661f31435fa625f4105eb25663ecaaafa45124b/[Text & Modeling Exercises: Introduce Assessment Knowledge (#3615)]
+
+
+== Template

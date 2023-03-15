@@ -8,16 +8,16 @@ link:https://github.com/ls1intum/Artemis/releases/tag/3.11.1[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/5e77a9c59061e55f086f655d45bf7b5c7e6a4ca2[change default value for crumb flag in jenkins]
-* link:https://www.github.com/ls1intum/Artemis/commit/27f18f9be1598e505300b854395df3806278dda9[Update Gitlab + Jenkins documentation.  (#1273)]
+* link:https://www.github.com/ls1intum/Artemis/commit/5e77a9c59061e55f086f655d45bf7b5c7e6a4ca2/[change default value for crumb flag in jenkins]
+* link:https://www.github.com/ls1intum/Artemis/commit/27f18f9be1598e505300b854395df3806278dda9/[Update Gitlab + Jenkins documentation.  (#1273)]
 
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/ab3a8e171ad202b42a50f89931899cad49b07cd7[Tutors and meta info for teams (#1287)]
-* link:https://www.github.com/ls1intum/Artemis/commit/9f0403b0c49ce74a5055e636169ac34ef22138e7[allow longer passwords for internal Artemis users]
+* link:https://www.github.com/ls1intum/Artemis/commit/ab3a8e171ad202b42a50f89931899cad49b07cd7/[Tutors and meta info for teams (#1287)]
+* link:https://www.github.com/ls1intum/Artemis/commit/9f0403b0c49ce74a5055e636169ac34ef22138e7/[allow longer passwords for internal Artemis users]
 
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/85fc87f10d156a661a3addad2717c95b66e5b8b5[make favicon customizable]
+* link:https://www.github.com/ls1intum/Artemis/commit/85fc87f10d156a661a3addad2717c95b66e5b8b5/[make favicon customizable]

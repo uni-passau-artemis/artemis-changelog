@@ -8,33 +8,33 @@ link:https://github.com/ls1intum/Artemis/releases/tag/1.1.1[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/c0a5efd80277a4820cd0c095ff2edc6f99f26bec[Give users in instructor group admin rights]
-* link:https://www.github.com/ls1intum/Artemis/commit/0cf6e2fc0fee1fd116f07a97fb3d7742ebe58ca2[Remove Elasticsearch]
-* link:https://www.github.com/ls1intum/Artemis/commit/9415f8359446ff1539570602c10c66629fdf8dee[Big status commit towards migration to JHipster stack]
+* link:https://www.github.com/ls1intum/Artemis/commit/c0a5efd80277a4820cd0c095ff2edc6f99f26bec/[Give users in instructor group admin rights]
+* link:https://www.github.com/ls1intum/Artemis/commit/9415f8359446ff1539570602c10c66629fdf8dee/[Big status commit towards migration to JHipster stack]
+* link:https://www.github.com/ls1intum/Artemis/commit/0cf6e2fc0fee1fd116f07a97fb3d7742ebe58ca2/[Remove Elasticsearch]
 
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/b57b28f9ef4bf69ba2baecbc4f93c5c29fbcf56f[Show users (i.e. non-admins) only courses for which they are in the correct group]
-* link:https://www.github.com/ls1intum/Artemis/commit/ca71ea91ef1c1e98e1fe6aef6253283ece637421[Refactor starting exercises]
-* link:https://www.github.com/ls1intum/Artemis/commit/c10c6bf88a3f50bd6673871e8bbabe05e5ac7ec5[Remove slug attribute from exercise domain object]
-* link:https://www.github.com/ls1intum/Artemis/commit/f3f54b15d3beefa03911c0ff4742320d96bbcd15[Add teaching assistant group name attribute to course entity]
-* link:https://www.github.com/ls1intum/Artemis/commit/ffa16840182fb5ecbc8408d6cd0c6761dda54b9f[Remove slug field from course]
-* link:https://www.github.com/ls1intum/Artemis/commit/1551c2efc83553876a61f67fce27e3f71acddfdf[Add time difference between initialization of exercise and build completion in instructor dashboard]
-* link:https://www.github.com/ls1intum/Artemis/commit/9415f8359446ff1539570602c10c66629fdf8dee[Big status commit towards migration to JHipster stack]
-* link:https://www.github.com/ls1intum/Artemis/commit/0cf6e2fc0fee1fd116f07a97fb3d7742ebe58ca2[Remove Elasticsearch]
-* link:https://www.github.com/ls1intum/Artemis/commit/828ba49fde370e464f1d651c520967c389bb9767[LTI consumer score notification]
-* link:https://www.github.com/ls1intum/Artemis/commit/b24d558a9fde8325f33d94d2790f594a961ca2a5[Some more renaming and rearranging columns in Exercise entity view]
-* link:https://www.github.com/ls1intum/Artemis/commit/ab286f67f2406bf6aa79bf6c6d42665ba3610887[Some renaming and rearranging columns in Participation entity view]
-* link:https://www.github.com/ls1intum/Artemis/commit/927aa2c2c6c306deb54334c3ea133767be023a70[Massive refactoring towards allowing use of custom CI and VC systems, still some rough edges...]
-* link:https://www.github.com/ls1intum/Artemis/commit/b3ff6f1d50266ae506993443bba3c95d4d155574[Add new role for TAs and give appropriate permissions in front and back end]
-* link:https://www.github.com/ls1intum/Artemis/commit/83420a91de101b067763dccc54dae66eb684f66f[save LTI outcome url]
-* link:https://www.github.com/ls1intum/Artemis/commit/1eba07f070a2c381730567bc1fa4ec813cb369b4[Remove constraint for emails to be unique]
-* link:https://www.github.com/ls1intum/Artemis/commit/74a0e02ead6b4fe16a0c84d147d1a0454d9d01d3[Add server side option to publish build plan URL]
-* link:https://www.github.com/ls1intum/Artemis/commit/784cce3b2b4374570e9508b6d0a4a7d349bf1c05[Add resource method to get exercises for a course]
-* link:https://www.github.com/ls1intum/Artemis/commit/e1613f4ec6a7b02decd691f6d0336c74e0267a6e[Some changes before setting up Bamboo for JHipster version of application]
+* link:https://www.github.com/ls1intum/Artemis/commit/927aa2c2c6c306deb54334c3ea133767be023a70/[Massive refactoring towards allowing use of custom CI and VC systems, still some rough edges...]
+* link:https://www.github.com/ls1intum/Artemis/commit/83420a91de101b067763dccc54dae66eb684f66f/[save LTI outcome url]
+* link:https://www.github.com/ls1intum/Artemis/commit/b3ff6f1d50266ae506993443bba3c95d4d155574/[Add new role for TAs and give appropriate permissions in front and back end]
+* link:https://www.github.com/ls1intum/Artemis/commit/1551c2efc83553876a61f67fce27e3f71acddfdf/[Add time difference between initialization of exercise and build completion in instructor dashboard]
+* link:https://www.github.com/ls1intum/Artemis/commit/9415f8359446ff1539570602c10c66629fdf8dee/[Big status commit towards migration to JHipster stack]
+* link:https://www.github.com/ls1intum/Artemis/commit/f3f54b15d3beefa03911c0ff4742320d96bbcd15/[Add teaching assistant group name attribute to course entity]
+* link:https://www.github.com/ls1intum/Artemis/commit/e1613f4ec6a7b02decd691f6d0336c74e0267a6e/[Some changes before setting up Bamboo for JHipster version of application]
+* link:https://www.github.com/ls1intum/Artemis/commit/74a0e02ead6b4fe16a0c84d147d1a0454d9d01d3/[Add server side option to publish build plan URL]
+* link:https://www.github.com/ls1intum/Artemis/commit/b57b28f9ef4bf69ba2baecbc4f93c5c29fbcf56f/[Show users (i.e. non-admins) only courses for which they are in the correct group]
+* link:https://www.github.com/ls1intum/Artemis/commit/ab286f67f2406bf6aa79bf6c6d42665ba3610887/[Some renaming and rearranging columns in Participation entity view]
+* link:https://www.github.com/ls1intum/Artemis/commit/828ba49fde370e464f1d651c520967c389bb9767/[LTI consumer score notification]
+* link:https://www.github.com/ls1intum/Artemis/commit/ca71ea91ef1c1e98e1fe6aef6253283ece637421/[Refactor starting exercises]
+* link:https://www.github.com/ls1intum/Artemis/commit/c10c6bf88a3f50bd6673871e8bbabe05e5ac7ec5/[Remove slug attribute from exercise domain object]
+* link:https://www.github.com/ls1intum/Artemis/commit/0cf6e2fc0fee1fd116f07a97fb3d7742ebe58ca2/[Remove Elasticsearch]
+* link:https://www.github.com/ls1intum/Artemis/commit/b24d558a9fde8325f33d94d2790f594a961ca2a5/[Some more renaming and rearranging columns in Exercise entity view]
+* link:https://www.github.com/ls1intum/Artemis/commit/1eba07f070a2c381730567bc1fa4ec813cb369b4/[Remove constraint for emails to be unique]
+* link:https://www.github.com/ls1intum/Artemis/commit/ffa16840182fb5ecbc8408d6cd0c6761dda54b9f/[Remove slug field from course]
+* link:https://www.github.com/ls1intum/Artemis/commit/784cce3b2b4374570e9508b6d0a4a7d349bf1c05/[Add resource method to get exercises for a course]
 
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/3e468e9a351eda91c553a0588fa32ea7b64a99af[initial LTI integration]
+* link:https://www.github.com/ls1intum/Artemis/commit/3e468e9a351eda91c553a0588fa32ea7b64a99af/[initial LTI integration]

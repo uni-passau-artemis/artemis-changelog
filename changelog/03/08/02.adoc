@@ -6,6 +6,13 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/3.8.2[Full Release Notes]
 
+== Config
+
+
+
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/294e6b82b787a49487f580cff1602613e9f41974[Added file upload exercise to views (#919)]
+* link:https://www.github.com/ls1intum/Artemis/commit/294e6b82b787a49487f580cff1602613e9f41974/[Added file upload exercise to views (#919)]
+
+
+== Template

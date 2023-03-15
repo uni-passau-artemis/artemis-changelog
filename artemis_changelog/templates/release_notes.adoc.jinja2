@@ -1,0 +1,21 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= {{ release.version }}
+
+link:https://github.com/ls1intum/Artemis/releases/tag/{{ release.version }}[Full Release Notes]
+
+{% for section in release.changes %}
+== {{ section }}
+
+{% for commit in release.changes[section] %}
+* link:https://www.github.com/ls1intum/Artemis/commit/{{ commit }}/[{{ commit.message.splitlines()[0].strip().replace("]", "\\]") }}]
+{% else %}
+No relevant changes.
+{% endfor %}
+{%- if not loop.last %}
+
+
+{% endif %}
+{% endfor %}

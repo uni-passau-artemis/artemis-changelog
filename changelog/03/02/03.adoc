@@ -6,6 +6,14 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/3.2.3[Full Release Notes]
 
+== Config
+
+
+
+== Database
+
+
+
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/407b520dc0f0a55fe785644a7348758a8f660c79[Update BehaviourTest.java (#608)]
+* link:https://www.github.com/ls1intum/Artemis/commit/407b520dc0f0a55fe785644a7348758a8f660c79/[Update BehaviourTest.java (#608)]

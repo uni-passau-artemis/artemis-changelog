@@ -6,6 +6,13 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/5.11.4[Full Release Notes]
 
+== Config
+
+
+
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/b7eb6381696aece84cb4d99f4130761d41cc55e1[Programming exercises: Add manual feedback requests (#5670)]
+* link:https://www.github.com/ls1intum/Artemis/commit/b7eb6381696aece84cb4d99f4130761d41cc55e1/[Programming exercises: Add manual feedback requests (#5670)]
+
+
+== Template

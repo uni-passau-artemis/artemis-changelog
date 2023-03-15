@@ -6,8 +6,16 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/3.8.6[Full Release Notes]
 
+== Config
+
+
+
+== Database
+
+
+
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/58b777f832da84facaa338f7dc1d2c15093b64a1[improve plant uml diagram styling in the programming exercise templates]
-* link:https://www.github.com/ls1intum/Artemis/commit/5c67fb77f42eddd6e00bf77c51229b05c597b84b[Enhancement/better c template (#906)]
-* link:https://www.github.com/ls1intum/Artemis/commit/3e271951e1c05c43a0ab339ad5df4e9fc89c36bc[further improve plant uml diagrams in programming instructions templates]
+* link:https://www.github.com/ls1intum/Artemis/commit/5c67fb77f42eddd6e00bf77c51229b05c597b84b/[Enhancement/better c template (#906)]
+* link:https://www.github.com/ls1intum/Artemis/commit/3e271951e1c05c43a0ab339ad5df4e9fc89c36bc/[further improve plant uml diagrams in programming instructions templates]
+* link:https://www.github.com/ls1intum/Artemis/commit/58b777f832da84facaa338f7dc1d2c15093b64a1/[improve plant uml diagram styling in the programming exercise templates]

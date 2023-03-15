@@ -6,4 +6,16 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/6.0.7[Full Release Notes]
 
+== Config
+
+No relevant changes.
+
+
+== Database
+
+No relevant changes.
+
+
+== Template
+
 No relevant changes.

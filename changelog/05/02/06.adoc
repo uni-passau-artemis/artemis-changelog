@@ -6,6 +6,14 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/5.2.6[Full Release Notes]
 
+== Config
+
+
+
+== Database
+
+
+
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/e222a301c760165a92adda440bd6db9ea8d5bdfb[General: Add basic email support for notifications & settings (#3983)]
+* link:https://www.github.com/ls1intum/Artemis/commit/e222a301c760165a92adda440bd6db9ea8d5bdfb/[General: Add basic email support for notifications & settings (#3983)]

@@ -8,16 +8,16 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.5.2[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/2807d87e25de7a125a344ddc67dc4850607493a8[Feature/automatic text/store feedback consistency (#1977)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2807d87e25de7a125a344ddc67dc4850607493a8/[Feature/automatic text/store feedback consistency (#1977)]
 
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/ceb0e978a21dda95817d40bde2348a8b9c96c99c[Refactor text assessment conflict tables (#2134)]
-* link:https://www.github.com/ls1intum/Artemis/commit/ee68d5a6942b47cf24a424217074934976b0394a[Improve Exam Mode Test Run (#2126)]
-* link:https://www.github.com/ls1intum/Artemis/commit/2807d87e25de7a125a344ddc67dc4850607493a8[Feature/automatic text/store feedback consistency (#1977)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ceb0e978a21dda95817d40bde2348a8b9c96c99c/[Refactor text assessment conflict tables (#2134)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2807d87e25de7a125a344ddc67dc4850607493a8/[Feature/automatic text/store feedback consistency (#1977)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ee68d5a6942b47cf24a424217074934976b0394a/[Improve Exam Mode Test Run (#2126)]
 
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/00dbda89c6d561a61c4c2b0f4f4d891ce9234582[Support for Checkstyle and PMD (#2074)]
+* link:https://www.github.com/ls1intum/Artemis/commit/00dbda89c6d561a61c4c2b0f4f4d891ce9234582/[Support for Checkstyle and PMD (#2074)]

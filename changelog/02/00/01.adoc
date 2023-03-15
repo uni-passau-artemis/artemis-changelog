@@ -8,19 +8,19 @@ link:https://github.com/ls1intum/Artemis/releases/tag/2.0.1[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/8ac0ef4d3eed39d99393c744c94ec876790eef40[increase version to 1.4.5]
-* link:https://www.github.com/ls1intum/Artemis/commit/f62a8d6135bf092510bf1296df390a8081bec996[fix bugs with newest Bamboo update and improve small issues in the user interface]
-* link:https://www.github.com/ls1intum/Artemis/commit/0c7b320c0f7f4da093e679b8c575bafa85ab45c0[update bower dependency and increase version]
-* link:https://www.github.com/ls1intum/Artemis/commit/7ae4d237e2d9a3d0a840bae8f028b761d465d259[update to bower 1.8.4 and bump version to 1.4.6]
-* link:https://www.github.com/ls1intum/Artemis/commit/c8ca828786d2c07e2bf356881af8ff42a49a1a4b[Update repository to ArTEMiS 2.0.1 with huge improvements]
+* link:https://www.github.com/ls1intum/Artemis/commit/0c7b320c0f7f4da093e679b8c575bafa85ab45c0/[update bower dependency and increase version]
+* link:https://www.github.com/ls1intum/Artemis/commit/f62a8d6135bf092510bf1296df390a8081bec996/[fix bugs with newest Bamboo update and improve small issues in the user interface]
+* link:https://www.github.com/ls1intum/Artemis/commit/8ac0ef4d3eed39d99393c744c94ec876790eef40/[increase version to 1.4.5]
+* link:https://www.github.com/ls1intum/Artemis/commit/7ae4d237e2d9a3d0a840bae8f028b761d465d259/[update to bower 1.8.4 and bump version to 1.4.6]
+* link:https://www.github.com/ls1intum/Artemis/commit/c8ca828786d2c07e2bf356881af8ff42a49a1a4b/[Update repository to ArTEMiS 2.0.1 with huge improvements]
 
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/ea6cbfdb6608297d76ff83729370c93ba7c4c67d[add max score to abstract Exercise class]
-* link:https://www.github.com/ls1intum/Artemis/commit/c8ca828786d2c07e2bf356881af8ff42a49a1a4b[Update repository to ArTEMiS 2.0.1 with huge improvements]
+* link:https://www.github.com/ls1intum/Artemis/commit/c8ca828786d2c07e2bf356881af8ff42a49a1a4b/[Update repository to ArTEMiS 2.0.1 with huge improvements]
+* link:https://www.github.com/ls1intum/Artemis/commit/ea6cbfdb6608297d76ff83729370c93ba7c4c67d/[add max score to abstract Exercise class]
 
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/c8ca828786d2c07e2bf356881af8ff42a49a1a4b[Update repository to ArTEMiS 2.0.1 with huge improvements]
+* link:https://www.github.com/ls1intum/Artemis/commit/c8ca828786d2c07e2bf356881af8ff42a49a1a4b/[Update repository to ArTEMiS 2.0.1 with huge improvements]

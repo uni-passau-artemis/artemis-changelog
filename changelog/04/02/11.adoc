@@ -6,6 +6,13 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/4.2.11[Full Release Notes]
 
+== Config
+
+
+
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/20cb81d606af872ceec8e9039bfce9d22d4d66df[add index for build_plan_id to make the REST Call api/programming-exercises/new-result significantly faster]
+* link:https://www.github.com/ls1intum/Artemis/commit/20cb81d606af872ceec8e9039bfce9d22d4d66df/[add index for build_plan_id to make the REST Call api/programming-exercises/new-result significantly faster]
+
+
+== Template

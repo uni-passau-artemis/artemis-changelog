@@ -8,9 +8,12 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.10.4[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/7f1cf80c97cdf50be4176ae6ae5d987e9d0abca0[simplify mapping of sentry test server configurations]
+* link:https://www.github.com/ls1intum/Artemis/commit/7f1cf80c97cdf50be4176ae6ae5d987e9d0abca0/[simplify mapping of sentry test server configurations]
 
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/0a926d9c38e360d23796e74b4a9be2ec20c76c48[Simplify the different feedback ways in assessments (#2887)]
+* link:https://www.github.com/ls1intum/Artemis/commit/0a926d9c38e360d23796e74b4a9be2ec20c76c48/[Simplify the different feedback ways in assessments (#2887)]
+
+
+== Template

@@ -8,15 +8,15 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.1.1[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/4e8908c766f9fb8b1fbd5dfc081829bfd2e92f99[update dependencies, activate new health endpoints]
+* link:https://www.github.com/ls1intum/Artemis/commit/4e8908c766f9fb8b1fbd5dfc081829bfd2e92f99/[update dependencies, activate new health endpoints]
 
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/6b96280998bb9a74aebfd2441a7c53259da41e66[Store Apollon Diagrams per course (#1320)]
-* link:https://www.github.com/ls1intum/Artemis/commit/bf3b3564bea413643d97b4895102f2d9b9dc21fa[Store versions of submissions in database (#1495)]
+* link:https://www.github.com/ls1intum/Artemis/commit/6b96280998bb9a74aebfd2441a7c53259da41e66/[Store Apollon Diagrams per course (#1320)]
+* link:https://www.github.com/ls1intum/Artemis/commit/bf3b3564bea413643d97b4895102f2d9b9dc21fa/[Store versions of submissions in database (#1495)]
 
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/2c3a97904d5e9c6308480cf4e9a83bb7b0fcd47c[Feature/jenkins templates (#1457)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2c3a97904d5e9c6308480cf4e9a83bb7b0fcd47c/[Feature/jenkins templates (#1457)]

@@ -8,10 +8,13 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.11.0[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/31cd72ba0f767eac118f533d5026aabb72b2fe87[Use REST Templates for Athene and add Athene Health Indicator (#3018)]
-* link:https://www.github.com/ls1intum/Artemis/commit/12efcd5ab974510a5c5ec48045a024054e3b9755[do not log liquibaes warning in dev mode]
+* link:https://www.github.com/ls1intum/Artemis/commit/12efcd5ab974510a5c5ec48045a024054e3b9755/[do not log liquibaes warning in dev mode]
+* link:https://www.github.com/ls1intum/Artemis/commit/31cd72ba0f767eac118f533d5026aabb72b2fe87/[Use REST Templates for Athene and add Athene Health Indicator (#3018)]
 
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/d8369b199b94e504ffbd320f97de2a65bb31e9e9[Add result listener to improve the performance of the score calculation (#2741)]
+* link:https://www.github.com/ls1intum/Artemis/commit/d8369b199b94e504ffbd320f97de2a65bb31e9e9/[Add result listener to improve the performance of the score calculation (#2741)]
+
+
+== Template

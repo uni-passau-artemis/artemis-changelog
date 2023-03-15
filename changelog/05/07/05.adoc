@@ -8,15 +8,15 @@ link:https://github.com/ls1intum/Artemis/releases/tag/5.7.5[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/add0ba106f2815966e462261340a7870e305ce06[Development: Document Gitlab user access token configuration option (#4992)]
-* link:https://www.github.com/ls1intum/Artemis/commit/6c798875fc3b89b1f6eae990d213fe876d6fb956[Programming exercises: Update to the latest artemis-maven-docker version java17-6 (#4994)]
+* link:https://www.github.com/ls1intum/Artemis/commit/add0ba106f2815966e462261340a7870e305ce06/[Development: Document Gitlab user access token configuration option (#4992)]
+* link:https://www.github.com/ls1intum/Artemis/commit/6c798875fc3b89b1f6eae990d213fe876d6fb956/[Programming exercises: Update to the latest artemis-maven-docker version java17-6 (#4994)]
 
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/50278c796cb146e5d9951d1d8018a0c923a17188[Programming exercises: Add access tokens to interact with Gitlab. (#4749)]
+* link:https://www.github.com/ls1intum/Artemis/commit/50278c796cb146e5d9951d1d8018a0c923a17188/[Programming exercises: Add access tokens to interact with Gitlab. (#4749)]
 
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/c2ddb5232510b412399517dbc414f4b85516de26[General: Enhance styling of announcement notification emails (#4980)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c2ddb5232510b412399517dbc414f4b85516de26/[General: Enhance styling of announcement notification emails (#4980)]

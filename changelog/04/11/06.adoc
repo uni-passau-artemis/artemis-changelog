@@ -6,7 +6,15 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/4.11.6[Full Release Notes]
 
+== Config
+
+
+
+== Database
+
+
+
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/66cfb53051cd094f7994e96ec2ecec6f34ae18c7[Update static code analysis tools versions in Java and Kotlin programming exercise templates (#3228)]
-* link:https://www.github.com/ls1intum/Artemis/commit/68254adc6d02c035fa47f931855012a722df727c[Add Kotlin pipeline to Jenkins & Sequential Test Run support (#3189)]
+* link:https://www.github.com/ls1intum/Artemis/commit/68254adc6d02c035fa47f931855012a722df727c/[Add Kotlin pipeline to Jenkins & Sequential Test Run support (#3189)]
+* link:https://www.github.com/ls1intum/Artemis/commit/66cfb53051cd094f7994e96ec2ecec6f34ae18c7/[Update static code analysis tools versions in Java and Kotlin programming exercise templates (#3228)]

@@ -6,7 +6,15 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/5.7.4[Full Release Notes]
 
+== Config
+
+
+
+== Database
+
+
+
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/712a733a397d6278b5ee963db110a02906ee4ffb[Programming exercises: Improve configuration of Gradle projects (#4958)]
-* link:https://www.github.com/ls1intum/Artemis/commit/71ac95d79801745f5c57ad359344158839d2dfec[Programming exercises: Change templates for plain Java exercises to contain a build file (#4947)]
+* link:https://www.github.com/ls1intum/Artemis/commit/71ac95d79801745f5c57ad359344158839d2dfec/[Programming exercises: Change templates for plain Java exercises to contain a build file (#4947)]
+* link:https://www.github.com/ls1intum/Artemis/commit/712a733a397d6278b5ee963db110a02906ee4ffb/[Programming exercises: Improve configuration of Gradle projects (#4958)]

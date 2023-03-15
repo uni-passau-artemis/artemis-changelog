@@ -8,4 +8,11 @@ link:https://github.com/ls1intum/Artemis/releases/tag/1.4.2[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/306397a2e114a69a2dddde568634529de5538c50[Feature/single endpoint for course page (#67)]
+* link:https://www.github.com/ls1intum/Artemis/commit/306397a2e114a69a2dddde568634529de5538c50/[Feature/single endpoint for course page (#67)]
+
+
+== Database
+
+
+
+== Template

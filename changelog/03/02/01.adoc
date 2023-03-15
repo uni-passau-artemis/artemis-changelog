@@ -6,12 +6,16 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/3.2.1[Full Release Notes]
 
+== Config
+
+
+
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/a51099db3ef28b85a3999b7494fbbe2fa9209228[fix sql statement in complaint_response tutor leaderboard view]
+* link:https://www.github.com/ls1intum/Artemis/commit/a51099db3ef28b85a3999b7494fbbe2fa9209228/[fix sql statement in complaint_response tutor leaderboard view]
 
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/8d132dd106dcba6216aa2f0855fc0e89c7916082[improve template test suite for programming exercises]
-* link:https://www.github.com/ls1intum/Artemis/commit/313f5917925c130fc1fc0bf7b33e1b56a862f615[improve template test case for programming exercises]
+* link:https://www.github.com/ls1intum/Artemis/commit/8d132dd106dcba6216aa2f0855fc0e89c7916082/[improve template test suite for programming exercises]
+* link:https://www.github.com/ls1intum/Artemis/commit/313f5917925c130fc1fc0bf7b33e1b56a862f615/[improve template test case for programming exercises]

@@ -8,9 +8,14 @@ link:https://github.com/ls1intum/Artemis/releases/tag/6.0.3[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/7f8ef65cf78e7a7cc31ad12f3d3b460b19a4aad5[Programming exercises: Update Ares to 1.11.2 (#6203)]
+* link:https://www.github.com/ls1intum/Artemis/commit/7f8ef65cf78e7a7cc31ad12f3d3b460b19a4aad5/[Programming exercises: Update Ares to 1.11.2 (#6203)]
+
+
+== Database
+
+No relevant changes.
 
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/7f8ef65cf78e7a7cc31ad12f3d3b460b19a4aad5[Programming exercises: Update Ares to 1.11.2 (#6203)]
+* link:https://www.github.com/ls1intum/Artemis/commit/7f8ef65cf78e7a7cc31ad12f3d3b460b19a4aad5/[Programming exercises: Update Ares to 1.11.2 (#6203)]

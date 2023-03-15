@@ -8,9 +8,12 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.11.5[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/db4ea6ec9dccfb9e15e81511080d6f8494b9ba67[Fix Jenkins use in development environment with localhost in pipeline (#3088)]
+* link:https://www.github.com/ls1intum/Artemis/commit/db4ea6ec9dccfb9e15e81511080d6f8494b9ba67/[Fix Jenkins use in development environment with localhost in pipeline (#3088)]
 
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/004cc0c6c88ef5bee5b0c795c725cdc1cb74ff90[Add a grading system for courses and exams (server side) (#3061)]
+* link:https://www.github.com/ls1intum/Artemis/commit/004cc0c6c88ef5bee5b0c795c725cdc1cb74ff90/[Add a grading system for courses and exams (server side) (#3061)]
+
+
+== Template

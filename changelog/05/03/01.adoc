@@ -6,12 +6,16 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/5.3.1[Full Release Notes]
 
+== Config
+
+
+
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/869322ef527d8c267d265a1ffefeb49a1153b84b[Quiz exercises: Increase explanation length and provide warning if length is exceeded for quiz explanations or hints (#3959)]
-* link:https://www.github.com/ls1intum/Artemis/commit/441ca50c186e4398a804b139e345eb464b95e6a7[General: Verify that all courses have a specified accuracy of scores (#4268)]
+* link:https://www.github.com/ls1intum/Artemis/commit/441ca50c186e4398a804b139e345eb464b95e6a7/[General: Verify that all courses have a specified accuracy of scores (#4268)]
+* link:https://www.github.com/ls1intum/Artemis/commit/869322ef527d8c267d265a1ffefeb49a1153b84b/[Quiz exercises: Increase explanation length and provide warning if length is exceeded for quiz explanations or hints (#3959)]
 
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/b1de2afd3695abd03a7324108c53966bce624205[Development: Update server and programming exercise dependencies]
+* link:https://www.github.com/ls1intum/Artemis/commit/b1de2afd3695abd03a7324108c53966bce624205/[Development: Update server and programming exercise dependencies]

@@ -8,4 +8,11 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.2.1[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/eb0b04026627f9cbfbee7910baa88b5a2c760ce7[Add configuration for jhipster registry and switch from Ehcache to Hazelcast distributed cache (#1586)]
+* link:https://www.github.com/ls1intum/Artemis/commit/eb0b04026627f9cbfbee7910baa88b5a2c760ce7/[Add configuration for jhipster registry and switch from Ehcache to Hazelcast distributed cache (#1586)]
+
+
+== Database
+
+
+
+== Template

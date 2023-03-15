@@ -6,4 +6,12 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/5.11.2[Full Release Notes]
 
-No relevant changes.
+== Config
+
+
+
+== Database
+
+
+
+== Template

@@ -8,32 +8,32 @@ link:https://github.com/ls1intum/Artemis/releases/tag/1.3.2[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/0c8455f9794f4d19815902211dd754be11a843eb[Generated with JHipster 4.9.0]
-* link:https://www.github.com/ls1intum/Artemis/commit/52c6b23fc6c354970158c225668d941868053091[Generated with JHipster 4.8.2]
-* link:https://www.github.com/ls1intum/Artemis/commit/8a17af71612b821e11cab0fb33a595a366afd4fb[Generated with JHipster 4.10.0]
-* link:https://www.github.com/ls1intum/Artemis/commit/69ba220c8bee005c23e78957f3e7155f4ea615f5[Generated with JHipster 4.9.0]
-* link:https://www.github.com/ls1intum/Artemis/commit/b5bcc5024eaacbbae26eb53d83f3e505a3b24001[Generated with JHipster 4.7.0]
-* link:https://www.github.com/ls1intum/Artemis/commit/f5473e8de00acf3a6921913f01cacbef54d155aa[refactored ExerciseApplication to ArTEMiS]
-* link:https://www.github.com/ls1intum/Artemis/commit/50ec528b5355a42e92e3c3ecafd8e0ed87f1ccf2[new data model for modeling exercises and quiz exercises - WORK IN PROGRESS]
-* link:https://www.github.com/ls1intum/Artemis/commit/b0bce69005bcc4cea8f83dd436986ab1366bfef6[increase version number]
+* link:https://www.github.com/ls1intum/Artemis/commit/52c6b23fc6c354970158c225668d941868053091/[Generated with JHipster 4.8.2]
+* link:https://www.github.com/ls1intum/Artemis/commit/b5bcc5024eaacbbae26eb53d83f3e505a3b24001/[Generated with JHipster 4.7.0]
+* link:https://www.github.com/ls1intum/Artemis/commit/b0bce69005bcc4cea8f83dd436986ab1366bfef6/[increase version number]
+* link:https://www.github.com/ls1intum/Artemis/commit/50ec528b5355a42e92e3c3ecafd8e0ed87f1ccf2/[new data model for modeling exercises and quiz exercises - WORK IN PROGRESS]
+* link:https://www.github.com/ls1intum/Artemis/commit/f5473e8de00acf3a6921913f01cacbef54d155aa/[refactored ExerciseApplication to ArTEMiS]
+* link:https://www.github.com/ls1intum/Artemis/commit/69ba220c8bee005c23e78957f3e7155f4ea615f5/[Generated with JHipster 4.9.0]
+* link:https://www.github.com/ls1intum/Artemis/commit/8a17af71612b821e11cab0fb33a595a366afd4fb/[Generated with JHipster 4.10.0]
+* link:https://www.github.com/ls1intum/Artemis/commit/0c8455f9794f4d19815902211dd754be11a843eb/[Generated with JHipster 4.9.0]
 
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/687955f15672ced44ae934a7483f68622edd7061[Feature/add question (#35)]
-* link:https://www.github.com/ls1intum/Artemis/commit/dddbd8c676bc85e79194d1e69ba318217e064e0d[fix liquibase changelog to prevent data loss: we want to rename 2 columns, not delete and add them]
-* link:https://www.github.com/ls1intum/Artemis/commit/998564399d04e2ced44d0c13a5fccc0bf3c54796[add missing column ‘image_url’ on table ‘jhi_user’ to change set]
-* link:https://www.github.com/ls1intum/Artemis/commit/8a17af71612b821e11cab0fb33a595a366afd4fb[Generated with JHipster 4.10.0]
-* link:https://www.github.com/ls1intum/Artemis/commit/4fdb1ad77292e8b27ceee579ffcb58f307c0186a[updated data model for quiz exercises]
-* link:https://www.github.com/ls1intum/Artemis/commit/ad01e62a9c8f70087810bfeef90ddc30c1268e4f[remove image_url column, for some reason it does not work as intended]
-* link:https://www.github.com/ls1intum/Artemis/commit/aced7afe9eea37131bf4118dfc612f891df67a4f[Feature/participate in quiz (#42)]
-* link:https://www.github.com/ls1intum/Artemis/commit/0dc24ec2738a3d9af33f43c0197d6363e2692ad6[Feature/create new feedback domain (#31)]
-* link:https://www.github.com/ls1intum/Artemis/commit/b5bcc5024eaacbbae26eb53d83f3e505a3b24001[Generated with JHipster 4.7.0]
-* link:https://www.github.com/ls1intum/Artemis/commit/bb2759cafc5f8b6be798c80734cfaed090b6645a[several bugfixes and improvements]
-* link:https://www.github.com/ls1intum/Artemis/commit/50ec528b5355a42e92e3c3ecafd8e0ed87f1ccf2[new data model for modeling exercises and quiz exercises - WORK IN PROGRESS]
-* link:https://www.github.com/ls1intum/Artemis/commit/abf51855b830439d83d35aaed800adfa2ff7d8b4[add missing columnDataType for renameColumn in liquibase db changelog]
+* link:https://www.github.com/ls1intum/Artemis/commit/abf51855b830439d83d35aaed800adfa2ff7d8b4/[add missing columnDataType for renameColumn in liquibase db changelog]
+* link:https://www.github.com/ls1intum/Artemis/commit/b5bcc5024eaacbbae26eb53d83f3e505a3b24001/[Generated with JHipster 4.7.0]
+* link:https://www.github.com/ls1intum/Artemis/commit/0dc24ec2738a3d9af33f43c0197d6363e2692ad6/[Feature/create new feedback domain (#31)]
+* link:https://www.github.com/ls1intum/Artemis/commit/998564399d04e2ced44d0c13a5fccc0bf3c54796/[add missing column ‘image_url’ on table ‘jhi_user’ to change set]
+* link:https://www.github.com/ls1intum/Artemis/commit/50ec528b5355a42e92e3c3ecafd8e0ed87f1ccf2/[new data model for modeling exercises and quiz exercises - WORK IN PROGRESS]
+* link:https://www.github.com/ls1intum/Artemis/commit/dddbd8c676bc85e79194d1e69ba318217e064e0d/[fix liquibase changelog to prevent data loss: we want to rename 2 columns, not delete and add them]
+* link:https://www.github.com/ls1intum/Artemis/commit/bb2759cafc5f8b6be798c80734cfaed090b6645a/[several bugfixes and improvements]
+* link:https://www.github.com/ls1intum/Artemis/commit/4fdb1ad77292e8b27ceee579ffcb58f307c0186a/[updated data model for quiz exercises]
+* link:https://www.github.com/ls1intum/Artemis/commit/687955f15672ced44ae934a7483f68622edd7061/[Feature/add question (#35)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ad01e62a9c8f70087810bfeef90ddc30c1268e4f/[remove image_url column, for some reason it does not work as intended]
+* link:https://www.github.com/ls1intum/Artemis/commit/8a17af71612b821e11cab0fb33a595a366afd4fb/[Generated with JHipster 4.10.0]
+* link:https://www.github.com/ls1intum/Artemis/commit/aced7afe9eea37131bf4118dfc612f891df67a4f/[Feature/participate in quiz (#42)]
 
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/b5bcc5024eaacbbae26eb53d83f3e505a3b24001[Generated with JHipster 4.7.0]
+* link:https://www.github.com/ls1intum/Artemis/commit/b5bcc5024eaacbbae26eb53d83f3e505a3b24001/[Generated with JHipster 4.7.0]

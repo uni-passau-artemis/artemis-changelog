@@ -6,14 +6,18 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/5.7.3[Full Release Notes]
 
+== Config
+
+
+
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/bef1b8df1d1898c4b50968654acfad39f0af1265[General: Add default programming language to courses (#4905)]
-* link:https://www.github.com/ls1intum/Artemis/commit/7b16c27071cedefbff745c7e1b405deb6288fd3b[Programming exercises: Add the option to record the testwise coverage for Java gradle programming exercises (#4889)]
+* link:https://www.github.com/ls1intum/Artemis/commit/7b16c27071cedefbff745c7e1b405deb6288fd3b/[Programming exercises: Add the option to record the testwise coverage for Java gradle programming exercises (#4889)]
+* link:https://www.github.com/ls1intum/Artemis/commit/bef1b8df1d1898c4b50968654acfad39f0af1265/[General: Add default programming language to courses (#4905)]
 
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/6adb32b598c0b3d15ee6475624352a338e272abf[Programming exercises: Add gradle as project type for Java exercises on GitLab/Jenkins setup (#4901)]
-* link:https://www.github.com/ls1intum/Artemis/commit/107da5b5b72388e8d8d3bca7a3e06c8cf3aa022b[Programming exercises: Improve gradle templates for Java programming exercises (#4927)]
-* link:https://www.github.com/ls1intum/Artemis/commit/7b16c27071cedefbff745c7e1b405deb6288fd3b[Programming exercises: Add the option to record the testwise coverage for Java gradle programming exercises (#4889)]
+* link:https://www.github.com/ls1intum/Artemis/commit/7b16c27071cedefbff745c7e1b405deb6288fd3b/[Programming exercises: Add the option to record the testwise coverage for Java gradle programming exercises (#4889)]
+* link:https://www.github.com/ls1intum/Artemis/commit/6adb32b598c0b3d15ee6475624352a338e272abf/[Programming exercises: Add gradle as project type for Java exercises on GitLab/Jenkins setup (#4901)]
+* link:https://www.github.com/ls1intum/Artemis/commit/107da5b5b72388e8d8d3bca7a3e06c8cf3aa022b/[Programming exercises: Improve gradle templates for Java programming exercises (#4927)]

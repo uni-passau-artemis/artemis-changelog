@@ -6,6 +6,14 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/3.1.0[Full Release Notes]
 
+== Config
+
+
+
+== Database
+
+
+
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/4bdea0672ebb8d6180af9511dced9ad2abcfceb3[fix code formatting with spotless and prettier]
+* link:https://www.github.com/ls1intum/Artemis/commit/4bdea0672ebb8d6180af9511dced9ad2abcfceb3/[fix code formatting with spotless and prettier]

@@ -8,9 +8,13 @@ link:https://github.com/ls1intum/Artemis/releases/tag/5.9.2[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/f7eb47c06d57699d9f845b685d9ececa863f297e[Development: Add Sentry performance monitoring (#5401)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f7eb47c06d57699d9f845b685d9ececa863f297e/[Development: Add Sentry performance monitoring (#5401)]
+
+
+== Database
+
 
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/ef4bee5a7a85eceb66a3dadf39a47d4f976247f0[Programming exercises: Add support for testwise coverage analysis for Java/Kotlin exercises on Jenkins setup (#5238)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ef4bee5a7a85eceb66a3dadf39a47d4f976247f0/[Programming exercises: Add support for testwise coverage analysis for Java/Kotlin exercises on Jenkins setup (#5238)]

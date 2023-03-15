@@ -6,6 +6,13 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/5.1.5[Full Release Notes]
 
+== Config
+
+
+
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/c08d56b1882c96de010e1c305534f614fb1dc04f[Pin 📌 and archive 📂 posts as tutor (#3907)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c08d56b1882c96de010e1c305534f614fb1dc04f/[Pin 📌 and archive 📂 posts as tutor (#3907)]
+
+
+== Template

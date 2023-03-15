@@ -6,11 +6,15 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/4.1.0[Full Release Notes]
 
+== Config
+
+
+
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/87bf6ff762d6caa9d32682a8925aa903482c9fab[Refactore notifications (#1360)]
+* link:https://www.github.com/ls1intum/Artemis/commit/87bf6ff762d6caa9d32682a8925aa903482c9fab/[Refactore notifications (#1360)]
 
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/4d013ce397aed41a8670726ef64a9d838f7b28fe[Improve BehaviourTest in java template (#1442)]
+* link:https://www.github.com/ls1intum/Artemis/commit/4d013ce397aed41a8670726ef64a9d838f7b28fe/[Improve BehaviourTest in java template (#1442)]

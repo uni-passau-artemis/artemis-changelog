@@ -8,9 +8,12 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.3.3[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/ff7468f05e72a838383e5b509938ffad222cc8f9[Feature/tutor assessment tracking (#1719)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ff7468f05e72a838383e5b509938ffad222cc8f9/[Feature/tutor assessment tracking (#1719)]
 
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/123fabb9944593913d04d302106f30bdfcdfa45e[Submit StudentExam after Exam ended (#1867)]
+* link:https://www.github.com/ls1intum/Artemis/commit/123fabb9944593913d04d302106f30bdfcdfa45e/[Submit StudentExam after Exam ended (#1867)]
+
+
+== Template

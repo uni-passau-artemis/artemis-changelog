@@ -8,15 +8,15 @@ link:https://github.com/ls1intum/Artemis/releases/tag/5.12.0[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/8871e554582d2807f00600f9dd26f112ed3eab70[General: Extend LTI support for Moodle (#5558)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8871e554582d2807f00600f9dd26f112ed3eab70/[General: Extend LTI support for Moodle (#5558)]
 
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/bb6ad5cc5c82b78e2c2585925de4180549a94fde[Tutorial groups: Add the possibility for students and tutors to get notifications about tutorial groups (#5729)]
-* link:https://www.github.com/ls1intum/Artemis/commit/8871e554582d2807f00600f9dd26f112ed3eab70[General: Extend LTI support for Moodle (#5558)]
+* link:https://www.github.com/ls1intum/Artemis/commit/bb6ad5cc5c82b78e2c2585925de4180549a94fde/[Tutorial groups: Add the possibility for students and tutors to get notifications about tutorial groups (#5729)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8871e554582d2807f00600f9dd26f112ed3eab70/[General: Extend LTI support for Moodle (#5558)]
 
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/bb6ad5cc5c82b78e2c2585925de4180549a94fde[Tutorial groups: Add the possibility for students and tutors to get notifications about tutorial groups (#5729)]
+* link:https://www.github.com/ls1intum/Artemis/commit/bb6ad5cc5c82b78e2c2585925de4180549a94fde/[Tutorial groups: Add the possibility for students and tutors to get notifications about tutorial groups (#5729)]

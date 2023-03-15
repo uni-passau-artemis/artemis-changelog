@@ -1,0 +1,24 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= Artemis Changelog
+:icons: font
+:toc: left
+
+Searches for all commits between Artemis releases that make changes to the configuration files, contain database migrations, or change template files.
+This helps administrators to see at a glance if manual changes not mentioned explicitly in the release notes might be necessary before upgrading Artemis.
+
+This page is automatically generated from the scripts you can find link:https://github.com/uni-passau-artemis/artemis-changelog[here].
+
+[NOTE]
+--
+Only the changes from the last 20 updates are shown here.
+You can find details about older releases in the link:https://github.com/uni-passau-artemis/artemis-changelog/tree/main/changelog[GitHub repository].
+--
+
+:leveloffset: +1
+
+{% for release in releases %}
+include::{{ "%02d" % release.major }}/{{ "%02d" % release.minor }}/{{ "%02d" % release.patch }}.adoc[]
+{% endfor %}

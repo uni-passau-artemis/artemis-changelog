@@ -8,14 +8,14 @@ link:https://github.com/ls1intum/Artemis/releases/tag/6.1.1[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/713045d39ac92c78db8410cda1db8ff69fc04e7e[Development: Make internal admin mail configurable (#6332)]
+* link:https://www.github.com/ls1intum/Artemis/commit/713045d39ac92c78db8410cda1db8ff69fc04e7e/[Development: Make internal admin mail configurable (#6332)]
 
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/8fc2f19179f47fc7a921fc8ff0d14cee730697a7[Development: Improve code quality for exam  (#6298)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8fc2f19179f47fc7a921fc8ff0d14cee730697a7/[Development: Improve code quality for exam  (#6298)]
 
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/687275be7f3bd715144a0105a0d0d5c6b856247d[Programming exercises: Fix Jenkins builds by replacing all non-printable characters in JUnit-XMLs (#6150)]
+* link:https://www.github.com/ls1intum/Artemis/commit/687275be7f3bd715144a0105a0d0d5c6b856247d/[Programming exercises: Fix Jenkins builds by replacing all non-printable characters in JUnit-XMLs (#6150)]

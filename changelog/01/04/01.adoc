@@ -8,19 +8,22 @@ link:https://github.com/ls1intum/Artemis/releases/tag/1.4.1[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/87e9f0a90f0f1211b59c2d110c4b0cf7fbb58717[Generated with JHipster 4.13.3]
-* link:https://www.github.com/ls1intum/Artemis/commit/c77dafb87cf6d275f7c9c3b2766bb93a8e6d0014[Feature/drag and drop question (#55)]
+* link:https://www.github.com/ls1intum/Artemis/commit/87e9f0a90f0f1211b59c2d110c4b0cf7fbb58717/[Generated with JHipster 4.13.3]
+* link:https://www.github.com/ls1intum/Artemis/commit/c77dafb87cf6d275f7c9c3b2766bb93a8e6d0014/[Feature/drag and drop question (#55)]
 
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/51fc0a08e1fee19695adff35d69bc79eb7275274[Feature/drag and drop statistics (#59)]
-* link:https://www.github.com/ls1intum/Artemis/commit/5637c39dbe2bc3e61c2659adcae9f927bd19c786[Feature/role instructor (#48)]
-* link:https://www.github.com/ls1intum/Artemis/commit/db5c2e9f2d4db9a14f644ae9e0ca2a7e69841229[Feature/categorize feedback (#41)]
-* link:https://www.github.com/ls1intum/Artemis/commit/d852db24dd12d621e87a77ef05e42fed7307131f[Feature/quiz improvements (#58)]
-* link:https://www.github.com/ls1intum/Artemis/commit/e1ea014fa22389bbf1ae347cb7bcf16a356b9630[Feature/show quiz result (#49)]
-* link:https://www.github.com/ls1intum/Artemis/commit/f391f8519cb626233ffcfbca67ccb8bcf2b8ba08[Feature/quiz submission (#46)]
-* link:https://www.github.com/ls1intum/Artemis/commit/b8e62dc850ac2ac6f473ff26889589baca64356d[Feature/quiz reevaluation (#54)]
-* link:https://www.github.com/ls1intum/Artemis/commit/faeb0f87ad0a638de11f90c1822dc950324501cd[remove email contraint in old liquibase changelog that leads to problems]
-* link:https://www.github.com/ls1intum/Artemis/commit/e592784fdd067763cb54a9679f79147e1771eac5[Feature/quiz statistic (#47)]
-* link:https://www.github.com/ls1intum/Artemis/commit/c77dafb87cf6d275f7c9c3b2766bb93a8e6d0014[Feature/drag and drop question (#55)]
+* link:https://www.github.com/ls1intum/Artemis/commit/d852db24dd12d621e87a77ef05e42fed7307131f/[Feature/quiz improvements (#58)]
+* link:https://www.github.com/ls1intum/Artemis/commit/faeb0f87ad0a638de11f90c1822dc950324501cd/[remove email contraint in old liquibase changelog that leads to problems]
+* link:https://www.github.com/ls1intum/Artemis/commit/51fc0a08e1fee19695adff35d69bc79eb7275274/[Feature/drag and drop statistics (#59)]
+* link:https://www.github.com/ls1intum/Artemis/commit/e1ea014fa22389bbf1ae347cb7bcf16a356b9630/[Feature/show quiz result (#49)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f391f8519cb626233ffcfbca67ccb8bcf2b8ba08/[Feature/quiz submission (#46)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c77dafb87cf6d275f7c9c3b2766bb93a8e6d0014/[Feature/drag and drop question (#55)]
+* link:https://www.github.com/ls1intum/Artemis/commit/e592784fdd067763cb54a9679f79147e1771eac5/[Feature/quiz statistic (#47)]
+* link:https://www.github.com/ls1intum/Artemis/commit/b8e62dc850ac2ac6f473ff26889589baca64356d/[Feature/quiz reevaluation (#54)]
+* link:https://www.github.com/ls1intum/Artemis/commit/5637c39dbe2bc3e61c2659adcae9f927bd19c786/[Feature/role instructor (#48)]
+* link:https://www.github.com/ls1intum/Artemis/commit/db5c2e9f2d4db9a14f644ae9e0ca2a7e69841229/[Feature/categorize feedback (#41)]
+
+
+== Template

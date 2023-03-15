@@ -8,4 +8,11 @@ link:https://github.com/ls1intum/Artemis/releases/tag/5.4.1[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/795b3c8ab09fa144d47eaf654e9c7a05ffcdf58a[Development: Update dependencies]
+* link:https://www.github.com/ls1intum/Artemis/commit/795b3c8ab09fa144d47eaf654e9c7a05ffcdf58a/[Development: Update dependencies]
+
+
+== Database
+
+
+
+== Template

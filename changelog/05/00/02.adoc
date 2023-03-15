@@ -6,6 +6,13 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/5.0.2[Full Release Notes]
 
+== Config
+
+
+
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/d912ec2e5a71edcb9456bd7dab767a7fbf7dd599[Update the Metis data model: introduce post tags, course-wide context and reactions (#3527)]
+* link:https://www.github.com/ls1intum/Artemis/commit/d912ec2e5a71edcb9456bd7dab767a7fbf7dd599/[Update the Metis data model: introduce post tags, course-wide context and reactions (#3527)]
+
+
+== Template
