@@ -6,14 +6,6 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/5.4.4[Full Release Notes]
 
-== Config
-
-
-
-== Database
-
-
-
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/65e703ff9e71447913387a423691b20f160575d4/[Notifications: Send an email when Artemis detects duplicated test cases during the creation of programming exercises (#4398)]

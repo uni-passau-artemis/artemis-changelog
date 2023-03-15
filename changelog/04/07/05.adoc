@@ -6,10 +6,6 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/4.7.5[Full Release Notes]
 
-== Config
-
-
-
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/52dfe7ea588591b7ed5634f9c886b3cc5eefd4ee/[Add option to enable / disable more feedback requests in courses (#2432)]

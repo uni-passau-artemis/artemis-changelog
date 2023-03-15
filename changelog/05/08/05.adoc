@@ -6,14 +6,7 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/5.8.5[Full Release Notes]
 
-== Config
-
-
-
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/8b77b01bd7b343fb086999998135e901daba65b6/[Assessment: Increase the maximum configurable length for complaints and complaint responses (#5117)]
 * link:https://www.github.com/ls1intum/Artemis/commit/15b24275ef651767eccca8458f6ed1e9a34916aa/[Exam mode: Collect exam interactions and setup initial monitoring structure (#4982)]
-
-
-== Template
+* link:https://www.github.com/ls1intum/Artemis/commit/8b77b01bd7b343fb086999998135e901daba65b6/[Assessment: Increase the maximum configurable length for complaints and complaint responses (#5117)]

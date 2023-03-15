@@ -6,10 +6,6 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/2.7.0[Full Release Notes]
 
-== Config
-
-
-
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/7c488e83f95a47ed490b26f8f63530505e4d629d/[fix wrong complaint associations from OneToOne to ManyToOne]
@@ -18,5 +14,5 @@ link:https://github.com/ls1intum/Artemis/releases/tag/2.7.0[Full Release Notes]
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/3cda89cd793a9080df473d132a0af44f69024615/[a new age begins and prettier it will be]
-* link:https://www.github.com/ls1intum/Artemis/commit/94e80d602ed1591a09cd64df03d03850376c0707/[Add problem statement to forms and code editor instructions (#229)]
 * link:https://www.github.com/ls1intum/Artemis/commit/a34efbf881753cb7561747c2feb792986d4ce78d/[Fix for domain command name exercisePart (#258)]
+* link:https://www.github.com/ls1intum/Artemis/commit/94e80d602ed1591a09cd64df03d03850376c0707/[Add problem statement to forms and code editor instructions (#229)]

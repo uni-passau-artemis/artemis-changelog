@@ -6,13 +6,6 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/3.9.0[Full Release Notes]
 
-== Config
-
-
-
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/d08597574cb61922319995ea27e1bc8209a180d7/[Feature/Programming Exercise/Activate tutor dashboards (#956)]
-
-
-== Template

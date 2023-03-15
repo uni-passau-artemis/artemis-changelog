@@ -8,8 +8,8 @@ link:https://github.com/ls1intum/Artemis/releases/tag/6.0.1[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/6c673999a383b6ccfa031225bb4cfdd2689cb748/[Programming exercises: Add possibility to configure Docker run arguments on Jenkins (#6045)]
 * link:https://www.github.com/ls1intum/Artemis/commit/62a9c9f75bb2233727774e77c7677bdd6d4e9f48/[Development: Remove unused artemis.encryption-password config option (#6131)]
+* link:https://www.github.com/ls1intum/Artemis/commit/6c673999a383b6ccfa031225bb4cfdd2689cb748/[Programming exercises: Add possibility to configure Docker run arguments on Jenkins (#6045)]
 
 
 == Database

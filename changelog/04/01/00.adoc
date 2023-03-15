@@ -6,10 +6,6 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/4.1.0[Full Release Notes]
 
-== Config
-
-
-
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/87bf6ff762d6caa9d32682a8925aa903482c9fab/[Refactore notifications (#1360)]

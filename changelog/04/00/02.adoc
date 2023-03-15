@@ -8,12 +8,5 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.0.2[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/b8aafdcac245e3d35b584032914c08158a793e1e/[Re-add artemis.automatic-text.secret]
 * link:https://www.github.com/ls1intum/Artemis/commit/3772ef5b41c96df2cdb94dcee51b3880e395233d/[Fix changed Athene-ports; remove unused secret]
-
-
-== Database
-
-
-
-== Template
+* link:https://www.github.com/ls1intum/Artemis/commit/b8aafdcac245e3d35b584032914c08158a793e1e/[Re-add artemis.automatic-text.secret]

@@ -6,10 +6,6 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/5.2.1[Full Release Notes]
 
-== Config
-
-
-
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/67a2c5935976cbb0a9b2161c4e72ca48ea38b7c6/[Resolve a post by marking answer post as correct/helpful (#4063)]

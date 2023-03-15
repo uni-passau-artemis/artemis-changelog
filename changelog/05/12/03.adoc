@@ -11,10 +11,6 @@ link:https://github.com/ls1intum/Artemis/releases/tag/5.12.3[Full Release Notes]
 * link:https://www.github.com/ls1intum/Artemis/commit/bf1d2178d2c7fbacfb7d5b469ba6d56ce29f219f/[Programming exercises: Update Ares to 1.11.0 (#5838)]
 
 
-== Database
-
-
-
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/bf1d2178d2c7fbacfb7d5b469ba6d56ce29f219f/[Programming exercises: Update Ares to 1.11.0 (#5838)]

@@ -6,14 +6,6 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/3.0.3[Full Release Notes]
 
-== Config
-
-
-
-== Database
-
-
-
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/bf43b9c06986157411d5c0c4547bae4fdb3918c5/[improve formatting in constructor test template]

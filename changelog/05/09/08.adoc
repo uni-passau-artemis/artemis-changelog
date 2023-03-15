@@ -8,12 +8,5 @@ link:https://github.com/ls1intum/Artemis/releases/tag/5.9.8[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/5aa685a3d62aa256fabf6aca59ded021b2609257/[Development: Enable metrics for server administration again]
 * link:https://www.github.com/ls1intum/Artemis/commit/e2ebff0c09ec0b522b00653dd417eeaeeaffd7af/[Development: Disable unevaluated prometheus metrics (#5564)]
-
-
-== Database
-
-
-
-== Template
+* link:https://www.github.com/ls1intum/Artemis/commit/5aa685a3d62aa256fabf6aca59ded021b2609257/[Development: Enable metrics for server administration again]

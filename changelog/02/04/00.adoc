@@ -6,14 +6,6 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/2.4.0[Full Release Notes]
 
-== Config
-
-
-
-== Database
-
-
-
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/ff9de3f8794a78bdc8bcc95994daba104d278791/[Unify usage of <br> HTML Tag (#173)]

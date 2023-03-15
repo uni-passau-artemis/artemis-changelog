@@ -13,12 +13,12 @@ link:https://github.com/ls1intum/Artemis/releases/tag/5.6.0[Full Release Notes]
 
 == Database
 
+* link:https://www.github.com/ls1intum/Artemis/commit/d0027393e7c851c97105fde0158235ffd201cdbc/[General: Allow to publish example solutions for modeling, text and file upload exercises on a specific date (#4328)]
 * link:https://www.github.com/ls1intum/Artemis/commit/b01799aa9ac5cf87ac6fa592e30443164b0e6e0d/[Programming exercises: Add general structure for code hints (#4642)]
 * link:https://www.github.com/ls1intum/Artemis/commit/deb7dc8d899f74bfb2fb258c9ed4b5eea4445418/[Programming exercises: Distinguish test case types into structural and behavioral in Java exercises (#4689)]
-* link:https://www.github.com/ls1intum/Artemis/commit/d0027393e7c851c97105fde0158235ffd201cdbc/[General: Allow to publish example solutions for modeling, text and file upload exercises on a specific date (#4328)]
 
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/27ff19e2354f5284125fcedee70e173a14aa5db6/[Programming exercises: Enable static code analysis for Swift exercises in Xcode (#4470)]
 * link:https://www.github.com/ls1intum/Artemis/commit/b066744ffd91f0d412bc27fb2606ee982016fa31/[Programming exercises: Rename Java project types (#4785)]
+* link:https://www.github.com/ls1intum/Artemis/commit/27ff19e2354f5284125fcedee70e173a14aa5db6/[Programming exercises: Enable static code analysis for Swift exercises in Xcode (#4470)]

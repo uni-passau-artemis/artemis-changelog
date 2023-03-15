@@ -6,10 +6,6 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/4.2.4[Full Release Notes]
 
-== Config
-
-
-
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/97860bb1c30b0a27b73c1d41c1d4b4bbc7e900cb/[SGI feedback reference (#1595)]

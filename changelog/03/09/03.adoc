@@ -11,10 +11,6 @@ link:https://github.com/ls1intum/Artemis/releases/tag/3.9.3[Full Release Notes]
 * link:https://www.github.com/ls1intum/Artemis/commit/4e41b196fdc61779faea690ad133ffd130498ea9/[move logging config into application.yml]
 
 
-== Database
-
-
-
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/1440e1ecf5fd31afcffdb7a32a1a5631eea0324f/[Enhancement/c template final (#1077)]

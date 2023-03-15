@@ -12,10 +12,6 @@ link:https://github.com/ls1intum/Artemis/releases/tag/3.10.0[Full Release Notes]
 * link:https://www.github.com/ls1intum/Artemis/commit/257a6ad4c35a4acca54193eae31a2c598c0df55c/[Integration of Jenkins as 2nd CI service and GitLab as 2nd VC service (#1110)]
 
 
-== Database
-
-
-
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/257a6ad4c35a4acca54193eae31a2c598c0df55c/[Integration of Jenkins as 2nd CI service and GitLab as 2nd VC service (#1110)]

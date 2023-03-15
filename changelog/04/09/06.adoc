@@ -14,6 +14,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.9.6[Full Release Notes]
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/d20e93b929bb5181b2457029b19a9751a8a2c660/[Add options to archive and cleanup a course (#2813)]
-
-
-== Template

@@ -6,16 +6,16 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/{{ release.version }}[Full Release Notes]
 
-{% for section in release.changes %}
+{% for section in release.changes if release.changes[section] | length > 0 %}
 == {{ section }}
 
 {% for commit in release.changes[section] %}
 * link:https://www.github.com/ls1intum/Artemis/commit/{{ commit }}/[{{ commit.message.splitlines()[0].strip().replace("]", "\\]") }}]
-{% else %}
-No relevant changes.
 {% endfor %}
 {%- if not loop.last %}
 
 
 {% endif %}
+{% else %}
+No relevant changes.
 {% endfor %}

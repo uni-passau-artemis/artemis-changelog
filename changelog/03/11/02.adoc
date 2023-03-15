@@ -11,10 +11,6 @@ link:https://github.com/ls1intum/Artemis/releases/tag/3.11.2[Full Release Notes]
 * link:https://www.github.com/ls1intum/Artemis/commit/648434dd4d3ee1761a1fe5f9a99517ddfc0a3835/[update bamboo default url]
 
 
-== Database
-
-
-
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/241467bf3b00303bdb36c7e10542e814e3cf508a/[use Java 14 and custom maven docker image for Java programming exercises]

@@ -6,14 +6,6 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/4.6.4[Full Release Notes]
 
-== Config
-
-
-
-== Database
-
-
-
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/276d2c064a0029acc023554a6b4cf67f79b5f5f2/[Update C template and introduce programming language features (#2150)]

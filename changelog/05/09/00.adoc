@@ -8,8 +8,8 @@ link:https://github.com/ls1intum/Artemis/releases/tag/5.9.0[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/0f5ff4276c560800e73a2ea4621cff1829f52520/[General: Allow admins to hide the password-based login form (#5291)]
 * link:https://www.github.com/ls1intum/Artemis/commit/13149b440006186c949c132a307dd9c2d3332ff6/[Development: Reduce client main bundle size and introduce caching (#5322)]
+* link:https://www.github.com/ls1intum/Artemis/commit/0f5ff4276c560800e73a2ea4621cff1829f52520/[General: Allow admins to hide the password-based login form (#5291)]
 
 
 == Database

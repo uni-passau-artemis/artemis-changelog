@@ -13,8 +13,8 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.12.5[Full Release Notes]
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/7235801dcd675f907207bacf42907f06e29dc9fc/[fix data type issues in liquibase migration to avoid issues]
 * link:https://www.github.com/ls1intum/Artemis/commit/2d0fc6013fac9001f2bc2d4aebd1fb789dcf8896/[[Refactoring\] Q&A to Metis Refactoring (#3490)]
+* link:https://www.github.com/ls1intum/Artemis/commit/7235801dcd675f907207bacf42907f06e29dc9fc/[fix data type issues in liquibase migration to avoid issues]
 
 
 == Template

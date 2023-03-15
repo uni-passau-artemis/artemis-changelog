@@ -13,9 +13,9 @@ link:https://github.com/ls1intum/Artemis/releases/tag/6.1.0[Full Release Notes]
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/baac552697934eb80ee4476394b99cc8d47f3992/[Development: Drop lti_user_id table (#6177)]
 * link:https://www.github.com/ls1intum/Artemis/commit/4bdeb258991bf3829fe7aa081679b0a976907463/[Tutorial groups: Automatically create messages channel for each tutorial group (#6206)]
 * link:https://www.github.com/ls1intum/Artemis/commit/810e59706eee2f138097c3d1530f98845a05f77f/[Development: Add long feedback table (#6306)]
+* link:https://www.github.com/ls1intum/Artemis/commit/baac552697934eb80ee4476394b99cc8d47f3992/[Development: Drop lti_user_id table (#6177)]
 
 
 == Template

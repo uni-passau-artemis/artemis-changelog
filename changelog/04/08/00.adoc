@@ -18,6 +18,6 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.8.0[Full Release Notes]
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/5dbcc6fc86395f3efc8088e170f0e2fe49817949/[hide empty members in the plant uml diagrams in programming exercises]
-* link:https://www.github.com/ls1intum/Artemis/commit/922922fe80c62a02e31399c2f2df0ee77886fa9a/[Enable HTML5 push state routes (#2454)]
 * link:https://www.github.com/ls1intum/Artemis/commit/9b98dc6482acd09a6837008eb98ef2128794f680/[change background color for classes to white in plant uml]
+* link:https://www.github.com/ls1intum/Artemis/commit/922922fe80c62a02e31399c2f2df0ee77886fa9a/[Enable HTML5 push state routes (#2454)]
+* link:https://www.github.com/ls1intum/Artemis/commit/5dbcc6fc86395f3efc8088e170f0e2fe49817949/[hide empty members in the plant uml diagrams in programming exercises]

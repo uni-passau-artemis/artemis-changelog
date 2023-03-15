@@ -6,14 +6,6 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/4.7.2[Full Release Notes]
 
-== Config
-
-
-
-== Database
-
-
-
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/07f908c138467189727b476009e52a247517307a/[Support for static code analysis copy and paste detection using PMD (#2292)]

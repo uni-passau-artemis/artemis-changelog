@@ -12,10 +12,6 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.11.3[Full Release Notes]
 * link:https://www.github.com/ls1intum/Artemis/commit/0d5ebd397b1e5381879b70e8f312e5a6ea1d1410/[Allow to configure a new registration option via Shibboleth/SAML2 (#3002)]
 
 
-== Database
-
-
-
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/0d5ebd397b1e5381879b70e8f312e5a6ea1d1410/[Allow to configure a new registration option via Shibboleth/SAML2 (#3002)]

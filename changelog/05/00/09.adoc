@@ -14,6 +14,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/5.0.9[Full Release Notes]
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/08ecd0ae7882453ab1f3cb9e47d9c09615504773/[Text Assessment: Track User Interactions (#3737)]
-
-
-== Template

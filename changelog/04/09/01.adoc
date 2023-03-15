@@ -19,6 +19,6 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.9.1[Full Release Notes]
 
 == Template
 
-* link:https://www.github.com/ls1intum/Artemis/commit/052a0145e09e4f61f9d5e54e989b8c628003c856/[Enable c programming exercise template again on Jenkins setup (#2697)]
 * link:https://www.github.com/ls1intum/Artemis/commit/867b181009aeb3289114ea5ebc725684bf1f3310/[Update artemis-java-test-sandbox version in Java programming exercises]
+* link:https://www.github.com/ls1intum/Artemis/commit/052a0145e09e4f61f9d5e54e989b8c628003c856/[Enable c programming exercise template again on Jenkins setup (#2697)]
 * link:https://www.github.com/ls1intum/Artemis/commit/fd9ec34e076b13640dd89a554794f22f2d6b66d1/[Update artemis-java-test-sandbox to version 1.4.6 (#2721)]

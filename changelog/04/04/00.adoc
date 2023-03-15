@@ -6,10 +6,6 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/4.4.0[Full Release Notes]
 
-== Config
-
-
-
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/a6186cca48f5cae2a92d3fec9cc10e2f302e0589/[Add static code analysis option to Java programming exercises with (#1525)]

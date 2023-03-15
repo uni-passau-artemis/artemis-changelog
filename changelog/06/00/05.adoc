@@ -11,11 +11,6 @@ link:https://github.com/ls1intum/Artemis/releases/tag/6.0.5[Full Release Notes]
 * link:https://www.github.com/ls1intum/Artemis/commit/c313d89cd1fcb0ee0fef397bad09a3b4b08e1bcf/[Programming exercises: Update Haskell Docker image (#6248)]
 
 
-== Database
-
-No relevant changes.
-
-
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/c313d89cd1fcb0ee0fef397bad09a3b4b08e1bcf/[Programming exercises: Update Haskell Docker image (#6248)]

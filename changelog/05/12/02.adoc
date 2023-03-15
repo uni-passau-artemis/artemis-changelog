@@ -6,14 +6,6 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/5.12.2[Full Release Notes]
 
-== Config
-
-
-
-== Database
-
-
-
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/f861347518e77cdf2b2e6ccc41bace48db9ea5a1/[Programming exercises: Fix Jenkins builds by removing all non-printable characters in C exercises (#5780)]

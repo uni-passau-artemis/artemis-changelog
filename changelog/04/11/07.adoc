@@ -9,10 +9,3 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.11.7[Full Release Notes]
 == Config
 
 * link:https://www.github.com/ls1intum/Artemis/commit/7c32a1d726000cf059970496739c5f870700da09/[Update Privacy Statement and Imprint (#3253)]
-
-
-== Database
-
-
-
-== Template

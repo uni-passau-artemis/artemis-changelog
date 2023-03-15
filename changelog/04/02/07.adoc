@@ -6,14 +6,7 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/4.2.7[Full Release Notes]
 
-== Config
-
-
-
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/fd61fd56cd97c9ee0c8ec900af006ea27c859b58/[drop old column in exercise]
 * link:https://www.github.com/ls1intum/Artemis/commit/e2f19f29760b20c8609e00967868f175336e08a1/[fix issue with too small columns and also save client instance id]
-
-
-== Template

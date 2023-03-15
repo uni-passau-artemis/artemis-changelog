@@ -6,10 +6,6 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/5.8.0[Full Release Notes]
 
-== Config
-
-
-
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/67ecbeecd4c2e658323efe665075d906fa817508/[Quiz exercises: Add non-synchronized quiz modes (#4936)]

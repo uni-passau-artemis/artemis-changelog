@@ -11,10 +11,6 @@ link:https://github.com/ls1intum/Artemis/releases/tag/4.7.6[Full Release Notes]
 * link:https://www.github.com/ls1intum/Artemis/commit/d008aa099dd9e0d7cb8066c4dbac032acb9869c6/[Allow to set timeout for jenkins pipelines (#2440)]
 
 
-== Database
-
-
-
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/d008aa099dd9e0d7cb8066c4dbac032acb9869c6/[Allow to set timeout for jenkins pipelines (#2440)]

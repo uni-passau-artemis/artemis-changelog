@@ -8,15 +8,12 @@ link:https://github.com/ls1intum/Artemis/releases/tag/5.0.6[Full Release Notes]
 
 == Config
 
-* link:https://www.github.com/ls1intum/Artemis/commit/c5906ee01ab1a08c470e6bd4edc20236699fb530/[Revert "Track user interactions in assessment of text exercise (#3704)"]
 * link:https://www.github.com/ls1intum/Artemis/commit/3e88dbbad99b867b9047b0d54ccf3d80713dea40/[Track user interactions in assessment of text exercise (#3704)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c5906ee01ab1a08c470e6bd4edc20236699fb530/[Revert "Track user interactions in assessment of text exercise (#3704)"]
 * link:https://www.github.com/ls1intum/Artemis/commit/56918a5eb5853e3be4be6783de5a5b37bfd803d5/[deactivate hazelcast phone home stats]
 
 
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/c5906ee01ab1a08c470e6bd4edc20236699fb530/[Revert "Track user interactions in assessment of text exercise (#3704)"]
 * link:https://www.github.com/ls1intum/Artemis/commit/3e88dbbad99b867b9047b0d54ccf3d80713dea40/[Track user interactions in assessment of text exercise (#3704)]
-
-
-== Template
+* link:https://www.github.com/ls1intum/Artemis/commit/c5906ee01ab1a08c470e6bd4edc20236699fb530/[Revert "Track user interactions in assessment of text exercise (#3704)"]

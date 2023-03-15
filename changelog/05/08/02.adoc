@@ -6,10 +6,6 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/5.8.2[Full Release Notes]
 
-== Config
-
-
-
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/e7222a3712e1b2d21e5d14aadcd13681d16378fc/[Programming exercises: Store the used branch in the database (#5086)]

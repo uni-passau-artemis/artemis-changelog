@@ -6,13 +6,6 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/1.1.4[Full Release Notes]
 
-== Config
-
-
-
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/57a8b73144b23de644f813bf4f5abbf0d5fa21e1/[Add allowOnlineEditor to Exercise entity]
-
-
-== Template

@@ -6,14 +6,7 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/5.12.6[Full Release Notes]
 
-== Config
-
-
-
 == Database
 
-* link:https://www.github.com/ls1intum/Artemis/commit/9fab97171e7bbe30187a41a9cf3931c64379e693/[Bump Version to 5.12.6]
 * link:https://www.github.com/ls1intum/Artemis/commit/d3eb5716640f9ae1be16c2ad8fd42bf616398c79/[General: Add an optional start date to exercises (#5816)]
-
-
-== Template
+* link:https://www.github.com/ls1intum/Artemis/commit/9fab97171e7bbe30187a41a9cf3931c64379e693/[Bump Version to 5.12.6]

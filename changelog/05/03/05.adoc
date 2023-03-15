@@ -6,14 +6,6 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/5.3.5[Full Release Notes]
 
-== Config
-
-
-
-== Database
-
-
-
 == Template
 
 * link:https://www.github.com/ls1intum/Artemis/commit/eb4a6f5b8a58c921ae6667c91f454a16880812ac/[Development: Increase code quality for mail service and notification system (#4345)]

@@ -6,13 +6,6 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/5.3.2[Full Release Notes]
 
-== Config
-
-
-
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/59320ef0af17c453be55c9cb002db55cf0baef16/[`Text Exercises`: Link TextBlock to Feedback with feedback_id column (#4236)]
-
-
-== Template

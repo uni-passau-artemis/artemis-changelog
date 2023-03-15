@@ -6,13 +6,6 @@
 
 link:https://github.com/ls1intum/Artemis/releases/tag/3.11.3[Full Release Notes]
 
-== Config
-
-
-
 == Database
 
 * link:https://www.github.com/ls1intum/Artemis/commit/acb97212560eb23190e9bf72cbacae2d6c264ad5/[Feature/questions answers/tutor approval (#1285)]
-
-
-== Template
