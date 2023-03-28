@@ -1,0 +1,11 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.1.2
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.1.2[Full Release Notes]
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/395abef5c07d8f085eaf4ad44ecfc3d522b46386/[Communication: Allow instructors to activate communication and messaging features separately (#6153)]
