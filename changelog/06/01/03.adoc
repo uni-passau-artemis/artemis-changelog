@@ -1,0 +1,29 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.1.3
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.1.3[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/f8a946e6be73a5ea261fa8d9339f892eb2d7430f/[Development: Restructure docker compose setups (#5915)]
+* link:https://www.github.com/ls1intum/Artemis/commit/9204d95bd339ce6bf854c2b87ddd24f441108186/[Development: Add app site association for mobile app deep link support (#6357)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/ad2a073e12913dd065263f30a4f76bb3e992ffdd/[Notifications: Improve notification text translation (#6106)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/f8a946e6be73a5ea261fa8d9339f892eb2d7430f/[Development: Restructure docker compose setups (#5915)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/40a78ee9119afb97b13e81b2ece6a0258782438d/[Programming exercises: Improve .gitignore files in project templates (#6404)]
+* link:https://www.github.com/ls1intum/Artemis/commit/e647eac368105e3973df2ede20809bb909be2fb7/[Programming exercises: Fix test case feedback processing in Jenkins setups (#6435)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a9963ac2b07643b65808da9f0c1446f9d8917f57/[Development: Fix an issue with gradle in gitignores of programming exercises (#6423)]

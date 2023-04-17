@@ -21,6 +21,7 @@ from jinja2 import Environment, PackageLoader, Template, select_autoescape
 class Sections(Enum):
     CONFIG = "Config"
     DATABASE = "Database"
+    DOCKER = "Docker"
     TEMPLATE = "Template"
 
     def path_pattern(self) -> str:
@@ -29,6 +30,8 @@ class Sections(Enum):
                 return r"src/main/resources/config/.*\.yml$"
             case Sections.DATABASE:
                 return r"src/main/resources/config/liquibase/.*"
+            case Sections.DOCKER:
+                return r"docker/.*"
             case Sections.TEMPLATE:
                 return r"src/main/resources/templates/.*"
 
@@ -86,6 +89,7 @@ def collect_changed_paths(
     changed_paths: dict[Sections, set[Commit]] = {
         Sections.CONFIG: set(),
         Sections.DATABASE: set(),
+        Sections.DOCKER: set(),
         Sections.TEMPLATE: set(),
     }
 
@@ -93,7 +97,12 @@ def collect_changed_paths(
 
     for commit in get_commits(latest_release, previous_release):
         for changed_path in get_changed_paths(commit):
-            for section in [Sections.CONFIG, Sections.DATABASE, Sections.TEMPLATE]:
+            for section in [
+                Sections.CONFIG,
+                Sections.DATABASE,
+                Sections.DOCKER,
+                Sections.TEMPLATE,
+            ]:
                 if re.match(section.path_pattern(), changed_path):
                     changed_paths[section].add(commit)
 
