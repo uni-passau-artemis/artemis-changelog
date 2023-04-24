@@ -1,0 +1,11 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.1.4
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.1.4[Full Release Notes]
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/5986fffca51d650a4ea21e5b5efec8d77ff73c1a/[Notifications: Allow users to get notified when messaging (#6313)]
