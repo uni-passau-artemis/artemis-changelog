@@ -1,0 +1,17 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.1.5
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.1.5[Full Release Notes]
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/25cb1ed6cda57aa0e2899c512d33142f4a8b3da9/[Assessment: Support long feedback messages (#6386)]
+* link:https://www.github.com/ls1intum/Artemis/commit/b10db447dc1e371128f5a1bcb78968c3ae425a58/[Grading: Allow tutors to grade presentations (#6461)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/e7b9f407cd196206714776daa372b48672672edb/[Programming exercises: Fix static code analysis for Swift and Xcode exercises (#6481)]
