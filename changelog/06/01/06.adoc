@@ -1,0 +1,24 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.1.6
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.1.6[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/78347f593c688d5d374165df77d99a9baf299309/[Development: Update dependencies, fix compile warnings and improve messages performance (#6504)]
+* link:https://www.github.com/ls1intum/Artemis/commit/d606be32ca9c99ca7dda6b179acf9ecec580fc82/[Communication: Cleanup conversation after a course is deleted (#6533)]
+* link:https://www.github.com/ls1intum/Artemis/commit/b9e77b4e7e55729fe1cd3a36be822064eebe80f4/[Programming exercises: Change Docker image for Swift exercises (#6482)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/d606be32ca9c99ca7dda6b179acf9ecec580fc82/[Communication: Cleanup conversation after a course is deleted (#6533)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/4d3ae15e3e719caa9efc4b13b724adaaf3d8f080/[Development: Fix flaky e2e exam assessment tests (#6472)]
+* link:https://www.github.com/ls1intum/Artemis/commit/fae94f5a2ac30888b2bf00a3aa7f0e45642d4a5a/[Development: Remove flake detection (#6488)]
