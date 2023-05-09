@@ -43,8 +43,14 @@ ignore_missing_imports = true
 
 [tool.ruff]
 line-length = 88
-select = ["B", "C", "E", "F", "W", "C4", "C90", "ISC", "PT", "RET", "SIM", "TID"]
-ignore = []
+select = ["ALL"]
+ignore = [
+    "ANN101", # no need to type-annotate `self`
+    "ANN102", # no need to type-annotate `cls`
+    "D",
+    "E501", # line length managed by black formatter
+    "COM812" # trailing comma managed by black formatter
+]
 show-source = true
 exclude = [
     "docs",

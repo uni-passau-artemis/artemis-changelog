@@ -5,7 +5,6 @@
 import argparse
 import dataclasses
 import logging
-import os.path
 import re
 from collections.abc import Generator, Iterable
 from enum import Enum
@@ -40,7 +39,7 @@ class Sections(Enum):
 
 
 def fetch_repo(url: str, target_path: Path) -> git.Repo:
-    if os.path.exists(target_path):
+    if target_path.exists():
         repo = git.Repo(target_path)
         repo.remote().pull()
         return repo
@@ -133,12 +132,12 @@ def create_changelogs(
 ) -> None:
     for after, before in more_itertools.sliding_window(tags, 2):
         output_path = output_dir / path_from_version(after[0])
-        if not os.path.exists(output_path):
-            os.makedirs(output_path.parent, exist_ok=True)
+        if not output_path.exists():
+            output_path.parent.mkdir(exist_ok=True, parents=True)
             changed_paths = collect_changed_paths(after[1], before[1])
             release = Release(after[0], changed_paths)
 
-            with open(output_path, "w") as f:
+            with output_path.open("w") as f:
                 f.write(template.render(release=release))
 
 
@@ -148,7 +147,7 @@ def create_index(
     output_path = output_dir / "index.adoc"
     versions = [t[0] for t in tags[:-1]]
 
-    with open(output_path, "w") as f:
+    with output_path.open("w") as f:
         f.write(template.render(releases=versions))
 
 
