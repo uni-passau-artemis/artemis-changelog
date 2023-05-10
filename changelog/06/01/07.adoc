@@ -1,0 +1,21 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.1.7
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.1.7[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/c8ba3cf8475a366f2d4ba069efd2a363cef49690/[General: Allow system admins to edit the privacy statement in the user interface (#6407)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/1b36d201aff01b7fb96047a5de7e9adc1a6c5433/[Development: Fix a migration to make it Postgres compatible (#6550)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/e2da821fa2b2c89ca1985b191c43ce01ca6a8dc3/[Programming exercises: Ignore compiled files in Java exercise repositories (#6551)]
