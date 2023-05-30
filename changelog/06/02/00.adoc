@@ -1,0 +1,33 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.2.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.2.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/9e1e4203e74297eff5a8c7eabeb3e53ada0aebb1/[Development: Update to Angular 16 and speedup the build process (#6546)]
+* link:https://www.github.com/ls1intum/Artemis/commit/0532ade39426cad6af87fd0dd2abae2c2855cca2/[Development: Rename course registration to course enrollment on server (#6565)]
+* link:https://www.github.com/ls1intum/Artemis/commit/574aa3e8dc82951f55ac05e270a5013f5ed59085/[Programming exercises: Add local version control and local continuous integration system (#6262)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f0183ce4e797eadfca5332514cbda5bdcf6dcc01/[Development: Add missing legal base path in docker profile configuration (#6564)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/574aa3e8dc82951f55ac05e270a5013f5ed59085/[Programming exercises: Add local version control and local continuous integration system (#6262)]
+* link:https://www.github.com/ls1intum/Artemis/commit/af466aadbcb16e82124e628195273d3a27558820/[Communication: Allow users to reference single lecture slides in posts (#6380)]
+* link:https://www.github.com/ls1intum/Artemis/commit/eee7d791c459435833f68ae83acd9959b89965f0/[Development: Remove unused knowledge functionality (#6600)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/9504ec832d1e81cf6e4afb0b61369ba575cedce1/[Development: Fix postgresql bamboo cleanup script (#6611)]
+* link:https://www.github.com/ls1intum/Artemis/commit/edad50677ca5894d3d870acf925ecbc61b97f3e6/[Development: Add docker compose files for new test servers (#6572)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f8cd85b2c1814361cfd18e9b5d1096251bf3f558/[Development: Add cypress run with postgres build plan (#6594)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/574aa3e8dc82951f55ac05e270a5013f5ed59085/[Programming exercises: Add local version control and local continuous integration system (#6262)]

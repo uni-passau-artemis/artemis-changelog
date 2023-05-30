@@ -19,6 +19,7 @@ You can find details about older releases in the link:https://github.com/uni-pas
 
 :leveloffset: +1
 
+include::06/02/00.adoc[]
 include::06/01/07.adoc[]
 include::06/01/06.adoc[]
 include::06/01/05.adoc[]
@@ -37,4 +38,3 @@ include::06/00/01.adoc[]
 include::06/00/00.adoc[]
 include::05/12/09.adoc[]
 include::05/12/08.adoc[]
-include::05/12/07.adoc[]
