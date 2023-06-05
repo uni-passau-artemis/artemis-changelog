@@ -1,0 +1,16 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.2.1
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.2.1[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/af98b68d220bffc93d045a4e8c25e155b6e3e22e/[Notifications: Add native push notifications (#6267)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/af98b68d220bffc93d045a4e8c25e155b6e3e22e/[Notifications: Add native push notifications (#6267)]
