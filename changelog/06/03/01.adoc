@@ -1,0 +1,19 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.3.1
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.3.1[Full Release Notes]
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/18f5c09b6cdd0c61a778a8c7b3d41c145e6094af/[Development: Track locked status for programming exercise participations (#6531)]
+* link:https://www.github.com/ls1intum/Artemis/commit/7108c8626a02fa53a0498d440103e6f9b2b89e0d/[Development: Fix migration for postgres (#6762)]
+* link:https://www.github.com/ls1intum/Artemis/commit/4e4d92a8cb7ce68f6904792dc0076f9ed8a40191/[Communication: Create channels for lectures, exercises and exams automatically (#6513)]
+* link:https://www.github.com/ls1intum/Artemis/commit/3660cc7a44e05d1f59d9efa89d90a0888196ce2e/[Communication: Display improved edited hints (#6704)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/4fc49a5c8e78572cf9540bd8b0bf77f5ea354b34/[General: Unify translations for due date (#6721)]

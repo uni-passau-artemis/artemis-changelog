@@ -1,0 +1,11 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.2.2
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.2.2[Full Release Notes]
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/5f09b734a06d925da3912de37e2d1cf306c8aa2c/[Development: Add scheduling service to cypress tests (#6615)]

@@ -1,0 +1,32 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.3.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.3.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/242ae9f027abc3ee6262482d06b0a0ceb46de453/[General: Add data export for exercise participations and communication data (#6500)]
+* link:https://www.github.com/ls1intum/Artemis/commit/d2abc2e79a2a452dd02e614ac096c5d5a5f49e89/[Programming exercises: Update dependencies in Java templates (#6663)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/e12a06a4346ed5c33c0342cd10f8536a2e202bd5/[General: Add the possibility for instructors to define (un)enrollment periods (#6577)]
+* link:https://www.github.com/ls1intum/Artemis/commit/242ae9f027abc3ee6262482d06b0a0ceb46de453/[General: Add data export for exercise participations and communication data (#6500)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a495912150d21d3b762af03189ebc0e2cab048a8/[General: Anonymize users instead of deleting them (#6442)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/0c9d5cbf2c9bb4c5593b8c785270d50b09e7ca01/[Development: Update client and server dependencies (#6695)]
+* link:https://www.github.com/ls1intum/Artemis/commit/242ae9f027abc3ee6262482d06b0a0ceb46de453/[General: Add data export for exercise participations and communication data (#6500)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/d2abc2e79a2a452dd02e614ac096c5d5a5f49e89/[Programming exercises: Update dependencies in Java templates (#6663)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c2b8ecfc65e19c7b52dd8e5beda08111d041b0b8/[Programming exercises: Make Jenkins pipelines more flexible by storing the pipeline definition in Artemis (#6284)]
+* link:https://www.github.com/ls1intum/Artemis/commit/1a5da0fd29ddcc20b40d3269ded4f3974aaeb155/[Development: Add documentation for local version control and continuous integration setup (#6632)]
