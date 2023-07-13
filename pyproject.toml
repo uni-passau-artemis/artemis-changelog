@@ -28,7 +28,7 @@ pre-commit = "^3.1"
 pylint = "^2.15"
 pyupgrade = "^3.3"
 reuse = "^1.1"
-ruff = "^0.0.277"
+ruff = "^0.0.278"
 
 
 [tool.isort]
