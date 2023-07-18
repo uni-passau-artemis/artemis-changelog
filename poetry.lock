@@ -661,14 +661,14 @@ files = [
 
 [[package]]
 name = "reuse"
-version = "1.1.2"
+version = "2.1.0"
 description = "reuse is a tool for compliance with the REUSE recommendations."
 category = "dev"
 optional = false
-python-versions = ">=3.6.2,<4.0.0"
+python-versions = ">=3.8,<4.0"
 files = [
-    {file = "reuse-1.1.2-cp311-cp311-manylinux_2_36_x86_64.whl", hash = "sha256:d3cf6981e9b2855845a0cf323526fd1cde94a640ea1d8dce22d4156788b282bc"},
-    {file = "reuse-1.1.2.tar.gz", hash = "sha256:80eb6e5ab5f73c784b5a9153e61a282045f6f9292124e1b55d4a7265dbad4246"},
+    {file = "reuse-2.1.0-cp310-cp310-manylinux_2_35_x86_64.whl", hash = "sha256:b214e756582766c9a8c84e195707a4ee86f58640bc2b0c5eac85279f5fd7d9de"},
+    {file = "reuse-2.1.0.tar.gz", hash = "sha256:4211e91caa4c9e433802618a89a2d49a67e2bf76a8029d6708090892f0cdebec"},
 ]
 
 [package.dependencies]
@@ -677,7 +677,6 @@ binaryornot = ">=0.4.4,<0.5.0"
 Jinja2 = ">=3.0.0,<4.0.0"
 license-expression = ">=1.0"
 python-debian = ">=0.1.38,<0.1.45 || >0.1.45,<0.1.46 || >0.1.46,<0.1.47 || >0.1.47,<0.2.0"
-setuptools = "*"
 
 [[package]]
 name = "ruff"
@@ -904,4 +903,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.10,<4.0"
-content-hash = "ddb1144adb5feaedf01d4f12424dabb6f088f763dd62bda36f6597a1b1a47c1b"
+content-hash = "7f6480b4eb65dcf13737bd75d9155486aaa4f268a3f9d7a476fb999411d2eeac"
