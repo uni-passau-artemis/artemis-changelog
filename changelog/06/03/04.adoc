@@ -1,0 +1,16 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.3.4
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.3.4[Full Release Notes]
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/0190a742cf6e3f96982c3577a67de565a72ad7c1/[Lectures: Add visible date to lectures (#6823)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/4d853f3a5774b932d999e86133371c72be0eb522/[Development: Add various e2e fixes and enhancements (#6829)]

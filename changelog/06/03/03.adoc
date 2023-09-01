@@ -1,0 +1,19 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.3.3
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.3.3[Full Release Notes]
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/2b9bebf76eb025f53dbb7a081a19c9ab5e1a63ca/[Development: Refactor long feedback association (#6856)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c8bc452c6263e68aa95d0ea298b2aab22e308344/[Development: Drop feedback_conflict table after removal of related feature (#6774)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/adc1c427cdeb7d75d7c65a12e9259a76df00e5d0/[Development: Add sorry-cypress config (#6658)]
+* link:https://www.github.com/ls1intum/Artemis/commit/92a2e7151ac6df9a7e6fcc692617866caeffbfd2/[Development: Fix environment file syntax and name of Docker Compose config file (#6729)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ac220b7d64622f5255b2314bc87729e9a12c93ee/[Development: Add arm64 docker image (#6443)]

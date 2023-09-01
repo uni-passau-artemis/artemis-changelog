@@ -1,0 +1,11 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.3.6
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.3.6[Full Release Notes]
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/24c991d57480811e7434e68931d3b03ea73b8091/[Exam mode: Obliterate exam live statistics 💔 (#6953)]

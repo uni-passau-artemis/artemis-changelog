@@ -1,0 +1,22 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.4.1
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.4.1[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/538cff0c8a50787136d795165d1173c225f3f0e9/[Plagiarism detection: Change log level of de.jplag.Submission to ERROR (#7078)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/fc07becf0ee1289c10eef394957e31f646f4603a/[Development: Adopted Docker Proxy settings from Production (#6782)]
+* link:https://www.github.com/ls1intum/Artemis/commit/35a9d9f508d2a0205e3e7e0fb73dda4e270b9b48/[Development: Fix e2e parallel run issues (#7054)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/58b0f099d09ecfb7f4a6cd28ab5b21d2e3bfb22f/[Programming exercises: Fix an issue with PlantUML diagrams if test names contain parentheses (#7079)]

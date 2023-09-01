@@ -1,0 +1,32 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.4.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.4.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/cacd7726865bc388a6cac7cd408ee87fc0fc768b/[General: Add data export for exam participation and plagiarism data with scheduling and notification (#6630)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2588dbdaae98c76207c027632d62848addc34a47/[Programming exercises: Update template dependencies for java exercises (#7050)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/8743866a9040e86d77a5090f0f4830921863212e/[Development: Improve notifications performance (#7072)]
+* link:https://www.github.com/ls1intum/Artemis/commit/cacd7726865bc388a6cac7cd408ee87fc0fc768b/[General: Add data export for exam participation and plagiarism data with scheduling and notification (#6630)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/0c44b8834f0687a164c684642238219a2fd5e179/[Development: Add more e2e programming languages (#6934)]
+* link:https://www.github.com/ls1intum/Artemis/commit/4f2b7a604a3c21da20c294ebb4b889177156546e/[Development: Refactor e2e API call files (#7011)]
+* link:https://www.github.com/ls1intum/Artemis/commit/95dce0ac5c5c9f9155d2661f7cd4fc3c4350f87f/[Development: Enable parallel run for e2e tests (#7031)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/88fc0c1c760534ed2eb26386873f0d6144fe462d/[Development: Refactor DataExportCreationService and add Art. 15 GDPR README (#6831)]
+* link:https://www.github.com/ls1intum/Artemis/commit/cacd7726865bc388a6cac7cd408ee87fc0fc768b/[General: Add data export for exam participation and plagiarism data with scheduling and notification (#6630)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2588dbdaae98c76207c027632d62848addc34a47/[Programming exercises: Update template dependencies for java exercises (#7050)]

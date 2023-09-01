@@ -1,0 +1,11 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.3.8
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.3.8[Full Release Notes]
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/ecab7ce42d0f8ade48f79c2d8443e953d4d2871a/[Development: Switch postgres e2e setup to Jenkins/Gitlab (#6948)]

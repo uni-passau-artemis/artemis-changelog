@@ -1,0 +1,17 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.3.2
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.3.2[Full Release Notes]
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/9bbbc753b645e20a00271f04f314f555c240c695/[Learning analytics: Allow instructors to recommend date of completion for competencies (#6662)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c84f5c9051288ba2432bbbd497fdc3f6dd69b3eb/[Learning analytics: Allow instructors to flag competencies as optional (#6669)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/5da99982ffbdf69c89dce36b165ea65decb5135a/[Development: Add new MySQL and Postgres migration check (#6786)]
