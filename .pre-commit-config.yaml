@@ -19,7 +19,7 @@ repos:
         args: [ --fix=lf ]
 
   - repo: https://github.com/asottile/pyupgrade
-    rev: v3.4.0
+    rev: v3.12.0
     hooks:
       - id: pyupgrade
         args: [ --py310-plus ]
@@ -31,18 +31,18 @@ repos:
         args: [ --profile, black ]
 
   - repo: https://github.com/psf/black
-    rev: 23.3.0
+    rev: 23.9.1
     hooks:
       - id: black
         args: [ --config, ./pyproject.toml ]
 
   - repo: https://github.com/charliermarsh/ruff-pre-commit
-    rev: v0.0.265
+    rev: v0.0.290
     hooks:
       - id: ruff
         args: []
 
   - repo: https://github.com/fsfe/reuse-tool
-    rev: v1.1.2
+    rev: v2.1.0
     hooks:
       - id: reuse
