@@ -44,7 +44,7 @@ jobs:
       - name: Install dependencies
         run: poetry install
       - name: Build Changelog
-        run: poetry run python ./artemis_changelog/main.py --output-dir=changelog
+        run: poetry run python ./src/artemis_changelog/main.py --output-dir=changelog
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
