@@ -38,10 +38,10 @@ jobs:
         run: poetry run black --diff --check .
 
       - name: Check typing with mypy
-        run: poetry run mypy artemis_changelog tests
+        run: poetry run mypy src tests
 
       - name: General linting with ruff
-        run: poetry run ruff artemis_changelog tests
+        run: poetry run ruff src tests
 
       - name: Check reuse
         run: poetry run reuse lint
