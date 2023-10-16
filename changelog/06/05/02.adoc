@@ -1,0 +1,26 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.5.2
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.5.2[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/c37be4d00808460eb02b9556e60cb98fcaa8a34c/[Programming exercises: Update programming exercise template to Gradle 8.3 (#7248)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/addaf1427a17560672fcf69cb014f23cdfa675e5/[Exam Mode: Add live announcements and events (#7254)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/c87afbb018d0842dbbc352179547c069c130063a/[Development: Start bamboo-build-agent after bamboo container is healthy in development setup (#7082)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/c37be4d00808460eb02b9556e60cb98fcaa8a34c/[Programming exercises: Update programming exercise template to Gradle 8.3 (#7248)]

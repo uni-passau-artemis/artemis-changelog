@@ -1,0 +1,11 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.5.1
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.5.1[Full Release Notes]
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/20a4a10e847e3cc402864b0f69a77e9b741058c9/[`Development`: Update bamboo version in build.gradle (#7237)]

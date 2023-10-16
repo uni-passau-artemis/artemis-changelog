@@ -1,0 +1,33 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.6.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.6.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/1e890b82d5afbb0056755dcf284d8c2b2b10c87a/[Development: Improve docker setup for local version control and continuous integration (#7226)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/6fa10af013ed1eb888dd7cc63a9d58c8b335dbf6/[Iris: Move rate limit into admin settings (#7378)]
+* link:https://www.github.com/ls1intum/Artemis/commit/19a81aa4492cfa3b7cb3c7908492df1a0a59f0b9/[Communication: Accept messaging code of conduct (#7154)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/1e890b82d5afbb0056755dcf284d8c2b2b10c87a/[Development: Improve docker setup for local version control and continuous integration (#7226)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c21fb13cbc1298b0f0d73faa5951085a77998649/[Development: Remove application links from Atlassian documentation (#7244)]
+* link:https://www.github.com/ls1intum/Artemis/commit/35ac985752a7017483703a8c3810476d8137c38a/[Development: Add Dockerfile caches (#6790)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/d1a958fc05612a7e9e59dc5871b21393ab128d5a/[Development: Fix failing cypress test (#7342)]
+* link:https://www.github.com/ls1intum/Artemis/commit/175ab18c4545c5f2d346608f53045329cf5471e6/[Programming exercises: Update dependencies for Java blackbox exercise template (#7359)]
+* link:https://www.github.com/ls1intum/Artemis/commit/dd9c92385c813d0477b61ed3c8bfda1ee78d082b/[Programming exercises: Fix failing example test in Java blackbox exercise template (#7365)]
+* link:https://www.github.com/ls1intum/Artemis/commit/19a81aa4492cfa3b7cb3c7908492df1a0a59f0b9/[Communication: Accept messaging code of conduct (#7154)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c92c9956cd4aa7dfe7d74c4646bf0e1333c49032/[Development: Always use braces for code blocks (#7315)]

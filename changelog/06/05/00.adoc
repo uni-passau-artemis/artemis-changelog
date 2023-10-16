@@ -1,0 +1,34 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.5.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.5.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/88ff4fee560b59404acb74cfcb78a8c580397282/[Development: Update dependencies for Java Blackbox exercise template (#7127)]
+* link:https://www.github.com/ls1intum/Artemis/commit/12772a43da1a63cad3365d3101f936e4bfa94a93/[Programming exercises: Add blackbox tests as another Java project type (#6736)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ae716d96e20e8bd959b7462bfc93234e137e11b2/[Programming exercises: Decouple version control and continuous integration and migrate external settings (#6682)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/233dbd13be7c5727edaf131960eb39ad2a20463b/[Communication: Configure messaging code of conduct (#7118)]
+* link:https://www.github.com/ls1intum/Artemis/commit/eff7742041cc8ed3223286e331c1366ba8a4a82c/[Iris: Add a chatbot for programming exercises using LLMs (#6931)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/9e8bd093c101740d1b5630732d3906711837534f/[Development: Add postgres docker compose setup (#6759)]
+* link:https://www.github.com/ls1intum/Artemis/commit/610114f9044c8208f16aa5d02fc11ac49c706a0f/[Development: Add exam and exercise metrics (#5909)]
+* link:https://www.github.com/ls1intum/Artemis/commit/dfe461c601842f8dfe190b12446f2d6f1d2739d2/[Development: Remove --legacy-peer-deps and fix postgres file link (#7198)]
+* link:https://www.github.com/ls1intum/Artemis/commit/1fa8b4ee7a699acb91be00e80785d22dde051ed1/[Development: Fix cypress dependency issue (#7196)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/88ff4fee560b59404acb74cfcb78a8c580397282/[Development: Update dependencies for Java Blackbox exercise template (#7127)]
+* link:https://www.github.com/ls1intum/Artemis/commit/210dae210a67a13d1d53c7d8d6fea63aba660096/[Programming exercises: Fix an issue with Java Maven sequential test runs (#7202)]
+* link:https://www.github.com/ls1intum/Artemis/commit/12772a43da1a63cad3365d3101f936e4bfa94a93/[Programming exercises: Add blackbox tests as another Java project type (#6736)]

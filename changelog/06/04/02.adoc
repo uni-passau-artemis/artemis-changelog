@@ -1,0 +1,27 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.4.2
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.4.2[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/b8634fe92f382baa05966a7870af91dd56a9181b/[Development: Re-implement integration of feedback suggestion service Athena (#6861)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/b8634fe92f382baa05966a7870af91dd56a9181b/[Development: Re-implement integration of feedback suggestion service Athena (#6861)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/b8634fe92f382baa05966a7870af91dd56a9181b/[Development: Re-implement integration of feedback suggestion service Athena (#6861)]
+* link:https://www.github.com/ls1intum/Artemis/commit/648f8ec43caf37698755d08c10ba96756ae6f3d6/[Development: Temporarily change documentation URL]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/648f8ec43caf37698755d08c10ba96756ae6f3d6/[Development: Temporarily change documentation URL]

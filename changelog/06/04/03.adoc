@@ -1,0 +1,13 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.4.3
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.4.3[Full Release Notes]
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/870417d789a4ae585f5a9dd846b0f7c4293a5c34/[Adaptive learning: Add learning paths as a new feature for adaptive learning (#7025)]
+* link:https://www.github.com/ls1intum/Artemis/commit/181a56fe1ddaa480563ef10b997b93bb2065985d/[Communication: Introduce course-wide channels (#7021)]
+* link:https://www.github.com/ls1intum/Artemis/commit/d960b7da2d7c9ee52c3727efddd5dc8e681cd7cb/[Development: Migrate legacy course-wide channels (#7151)]

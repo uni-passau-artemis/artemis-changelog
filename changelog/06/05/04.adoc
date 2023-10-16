@@ -1,0 +1,14 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.5.4
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.5.4[Full Release Notes]
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/fc533fe39f4c89bd27a7c0279500bd2ff12e672f/[Development: Revert cypress back to 12 (#7289)]
+* link:https://www.github.com/ls1intum/Artemis/commit/65087f5d7eb50b59dfcbcb3e0807a82f0de2b919/[Development: Make developer setup travel friendly with pull policy: if_not_present (#7290)]
+* link:https://www.github.com/ls1intum/Artemis/commit/76142708da690c0269b5aea80414f66e0d8ddeb8/[Development: Update client dependencies (#7309)]
+* link:https://www.github.com/ls1intum/Artemis/commit/027ab663c4725f3e13849df7faab67167f70e341/[Development: Update bamboo build agent version (#7274)]
