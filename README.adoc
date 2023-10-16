@@ -30,7 +30,7 @@ A rendered version of the changelog can be found link:{url-github-pages}[here].
 [source,bash]
 --
 poetry install # only when running for the first time
-poetry run python ./artemis_changelog/main.py --output-dir=changelog
+poetry run python ./src/artemis_changelog/main.py --output-dir=changelog
 --
 
 

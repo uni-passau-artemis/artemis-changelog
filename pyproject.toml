@@ -9,7 +9,7 @@ description = ""
 license = "EUPL-1.2"
 authors = ["Benedikt Fein <fein@fim.uni-passau.de>"]
 readme = "README.adoc"
-packages = [{include = "artemis_changelog"}]
+packages = [{include = "artemis_changelog", from = "src"}]
 
 
 [tool.poetry.dependencies]
