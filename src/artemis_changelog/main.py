@@ -14,6 +14,7 @@ import git
 import more_itertools
 import semver
 from git.objects.commit import Commit
+from git.cmd import Git
 from jinja2 import Environment, PackageLoader, Template, select_autoescape
 
 
@@ -56,7 +57,7 @@ def get_release_tags(repo: git.Repo) -> list[tuple[semver.VersionInfo, git.Tag]]
 
 
 def commits_between(a: git.Tag, b: git.Tag) -> set[str]:
-    git_cmd = git.cmd.Git("artemis")
+    git_cmd = Git("artemis")
     output = str(git_cmd.execute(["git", "log", "--oneline", f"{a.name}..{b.name}"]))
     return {line.split()[0] for line in output.splitlines()}
 
