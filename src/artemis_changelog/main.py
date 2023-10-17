@@ -13,8 +13,8 @@ from pathlib import Path
 import git
 import more_itertools
 import semver
-from git.objects.commit import Commit
 from git.cmd import Git
+from git.objects.commit import Commit
 from jinja2 import Environment, PackageLoader, Template, select_autoescape
 
 
