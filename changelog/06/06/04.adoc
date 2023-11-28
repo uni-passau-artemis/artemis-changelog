@@ -1,0 +1,16 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.6.4
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.6.4[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/8ec8f03d75185244ea568cfe142a07fee34ff6b3/[Development: Update server dependencies (#7464)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/06eaff9fac989f6f41fb13808faa3b562a2b667f/[Communication: Migrate posts to course-wide channels (#7438)]

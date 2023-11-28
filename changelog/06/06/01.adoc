@@ -1,0 +1,17 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.6.1
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.6.1[Full Release Notes]
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/d113a29019861520ac2d28cf8389d0808225a00f/[Development: Add more test servers and implement testserver badges (#7358)]
+* link:https://www.github.com/ls1intum/Artemis/commit/086dafac5d5ea38a278ca52598c8b7cf10ad82dc/[Development: Migrate documentation to docs.artemis.cit.tum.de (#7298)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/086dafac5d5ea38a278ca52598c8b7cf10ad82dc/[Development: Migrate documentation to docs.artemis.cit.tum.de (#7298)]

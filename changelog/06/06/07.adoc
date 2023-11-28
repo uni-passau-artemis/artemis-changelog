@@ -1,0 +1,11 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.6.7
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.6.7[Full Release Notes]
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/5478953c9c1c64dcf1af61ea21dc2186e9c133b0/[Development: Add configuration and documentation for local Moodle environment for LTI development (#7544)]

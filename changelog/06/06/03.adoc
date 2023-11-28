@@ -1,0 +1,17 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.6.3
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.6.3[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/0e6ae84cd0ea79bbe711cd198121608cecdf0d46/[Plagiarism checks: Introduce continuos plagiarism control (#7302)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/a056288c45e3ae3ba70b94753aba126c30aa8dfc/[Programming exercises: Directly link feedback to its test case (#7015)]
+* link:https://www.github.com/ls1intum/Artemis/commit/0e6ae84cd0ea79bbe711cd198121608cecdf0d46/[Plagiarism checks: Introduce continuos plagiarism control (#7302)]

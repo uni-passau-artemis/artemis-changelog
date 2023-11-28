@@ -1,0 +1,11 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.6.5
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.6.5[Full Release Notes]
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/1e0ce9cc06d617eb588898d7108650dcb92b5bf0/[Development: Add a workaround to execute cypress tests (#7546)]

@@ -1,0 +1,38 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.7.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.7.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/3febf43a5da2d2a8072c0da53df45be2d3894104/[Development: Improve server build settings and update server dependencies (#7626)]
+* link:https://www.github.com/ls1intum/Artemis/commit/64a328728a3fcc7e94a9940832f8ab472c19a0ad/[Plagiarism checks: Allow for customization of plagiarism results size limit (#7556)]
+* link:https://www.github.com/ls1intum/Artemis/commit/d1ee9cafdd7a87d04f34379e1784dc287b7cd991/[Programming exercises: Add server support for feedback suggestions (#7136)]
+* link:https://www.github.com/ls1intum/Artemis/commit/632e6a03c10f0040f19995a937c362ea5d4494ac/[Programming exercises: Execute builds on parallel based on system resources for local continuous integration (#7595)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/77a26c7c0a0e65a77d63a12809afe23fbaa3f331/[Development: Fix IrisMessageIntegrationTest for MySQL (#7645)]
+* link:https://www.github.com/ls1intum/Artemis/commit/d1ee9cafdd7a87d04f34379e1784dc287b7cd991/[Programming exercises: Add server support for feedback suggestions (#7136)]
+* link:https://www.github.com/ls1intum/Artemis/commit/b289d30b041edd67c0c0c3a3541d5a3047b41ebe/[Iris: Allow instructors to adapt programming exercises with the help of GPT-4 (#7414)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c9c482bbe2a28768c36f22e914c31ed3aaad2fc1/[Development: Prepare custom build plans (#7528)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c737f96cec04b06e6f2d1672e65660198932c59b/[Development: Fix build_plan_configuration datatype for postgres]
+* link:https://www.github.com/ls1intum/Artemis/commit/bd0d757b50398214ff45d6d353066466e6c6344e/[Iris: Rework settings system (#7424)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/b289d30b041edd67c0c0c3a3541d5a3047b41ebe/[Iris: Allow instructors to adapt programming exercises with the help of GPT-4 (#7414)]
+* link:https://www.github.com/ls1intum/Artemis/commit/5d649ae0219769fd5460eabaa86bb98ac90bcbe7/[Development: Update Atlassian dependencies due to security issues]
+* link:https://www.github.com/ls1intum/Artemis/commit/3febf43a5da2d2a8072c0da53df45be2d3894104/[Development: Improve server build settings and update server dependencies (#7626)]
+* link:https://www.github.com/ls1intum/Artemis/commit/bfb6729226347e477c3af28d14251ba9187045d3/[Development: Add support for multi-node testservers (#7501)]
+* link:https://www.github.com/ls1intum/Artemis/commit/083d7cf6c326db0b049d3a321037bc19e7f729c9/[Development: Enable e2e tests for the local setup (#7646)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/c9c482bbe2a28768c36f22e914c31ed3aaad2fc1/[Development: Prepare custom build plans (#7528)]

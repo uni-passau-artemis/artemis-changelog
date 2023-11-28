@@ -1,0 +1,21 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.6.2
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.6.2[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/547f10491ab2690b7832ae25faf880512dc5df43/[Development: Update android app sha-256 fingerprint (#7412)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/f25936466a300814668181a815719fb3adfb7c52/[Exam mode: Add quiz pool configuration (#6612)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/ec8178e02265699d16aca1a60e57081b4591d240/[Development: Allow native apps to access code of conduct template (#7413)]
