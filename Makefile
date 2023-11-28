@@ -2,11 +2,11 @@
 #
 # SPDX-License-Identifier: EUPL-1.2
 
-PROJECT=artemis_changelog
+PROJECT=src
 
 .PHONY: generate-changelog
 generate-changelog:
-	poetry run python ./artemis_changelog/main.py --output-dir=changelog
+	poetry run python ./src/artemis_changelog/main.py --output-dir=changelog
 
 .PHONY: format
 format:
