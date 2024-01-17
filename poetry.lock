@@ -610,13 +610,13 @@ files = [
 
 [[package]]
 name = "reuse"
-version = "2.1.0"
+version = "3.0.0"
 description = "reuse is a tool for compliance with the REUSE recommendations."
 optional = false
 python-versions = ">=3.8,<4.0"
 files = [
-    {file = "reuse-2.1.0-cp310-cp310-manylinux_2_35_x86_64.whl", hash = "sha256:b214e756582766c9a8c84e195707a4ee86f58640bc2b0c5eac85279f5fd7d9de"},
-    {file = "reuse-2.1.0.tar.gz", hash = "sha256:4211e91caa4c9e433802618a89a2d49a67e2bf76a8029d6708090892f0cdebec"},
+    {file = "reuse-3.0.0-cp311-cp311-manylinux_2_36_x86_64.whl", hash = "sha256:4906f32373421df970aab7560002358fcebd5295e4da03113edc9f2b78b6c5d3"},
+    {file = "reuse-3.0.0.tar.gz", hash = "sha256:97b85d65f358e4da5338c45bc9d06f711e105d4fb761a9ee9f3f2bf95af5eb91"},
 ]
 
 [package.dependencies]
@@ -624,7 +624,7 @@ binaryornot = ">=0.4.4,<0.5.0"
 "boolean.py" = ">=3.8"
 Jinja2 = ">=3.0.0,<4.0.0"
 license-expression = ">=1.0"
-python-debian = ">=0.1.38,<0.1.45 || >0.1.45,<0.1.46 || >0.1.46,<0.1.47 || >0.1.47,<0.2.0"
+python-debian = ">=0.1.34,<0.1.45 || >0.1.45,<0.1.46 || >0.1.46,<0.1.47 || >0.1.47,<0.2.0"
 
 [[package]]
 name = "ruff"
@@ -746,4 +746,4 @@ test = ["covdefaults (>=2.3)", "coverage (>=7.2.7)", "coverage-enable-subprocess
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.12,<4.0"
-content-hash = "108fb9fb8d1faca5189a89565ac17027dcc4655c31951f0cf3c56b6c4b5ece88"
+content-hash = "ce1b291b636ab273f69ae31a1ffeada923a0e66510405e34dc48e66f909d7a15"
