@@ -1,0 +1,22 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.7.1
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.7.1[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/a54c7541f85665463e133fd2995bad01c40d9486/[Development: Add documentation describing password and secret handling in production setups (#7688)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/92cb3861ff65f49f18ad7ac1b53047cae7509317/[Development: Add a script to create courses (#7379)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/ccb08821099a29c3861fb34bce8ef7b6364acc9e/[Programming exercises: Fix build timeout in Jenkins pipeline script (#7681)]
+* link:https://www.github.com/ls1intum/Artemis/commit/91d27bac4d88543799001265e48f0303061469f7/[Iris: Load default templates from resource folder (#7418)]

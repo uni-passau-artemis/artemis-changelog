@@ -1,0 +1,33 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.7.3
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.7.3[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/53aa70a255972d9a7917cbab142e6129c3935fb3/[Development: Add proxy config env variables for docker in local continuous integration (#7813)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/a29589c13198301748edfc1f44ec7dcf738517a7/[Development: Persist checkout solution repository for programming exercises with information from Bamboo (#7741)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/7fc22a525faf8f8fe8922756e14632efb2533ce5/[Development: Fix docker command in Jenkins development setup (#7585)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/a774d430b6c6b9d301e3bb0644c99bdbe9e76ba5/[Development: Update Python and Java Aeolus templates (#7764)]
+* link:https://www.github.com/ls1intum/Artemis/commit/1f2f2e2e59e8b4176866c3c5ed7ce3d802642779/[Development: Add Aeolus build plan templates for VHDL for local continuous integration (#7711)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ef71acdd883b5e5cfec7c5fea5a5bc28a034faf5/[Communication: Reduce number of websocket messages (#7789)]
+* link:https://www.github.com/ls1intum/Artemis/commit/db1c3dbfbc0b218852396c25fc1b95894285d362/[Development: Add Aeolus build plan templates for Swift for local continuous integration (#7713)]
+* link:https://www.github.com/ls1intum/Artemis/commit/3122f99ae8b79e89c6f659e0b01f7138c1f80bb0/[Development: Add Aeolus build plan templates for C programming exercises (#7700)]
+* link:https://www.github.com/ls1intum/Artemis/commit/5ffb2feba8f9634382990aa1ada55c73945b8a67/[Development: Add Aeolus build plan templates for Haskell for local continuous integration (#7706)]
+* link:https://www.github.com/ls1intum/Artemis/commit/490c2d66e05ee8abf667fa56c3d9473725aea121/[Development: Add Aeolus build plan templates for Ocaml for local continuous integration (#7707)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c6cddff273d2c827af9ffe067282e8de202b5e0a/[Development: Add Aeolus build plan templates for Kotlin for local continuous integration (#7710)]

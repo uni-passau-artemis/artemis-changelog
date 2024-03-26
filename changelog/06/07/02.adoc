@@ -1,0 +1,17 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.7.2
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.7.2[Full Release Notes]
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/fb3015039f6546f5df664eed96171e90b3fd8bb4/[Development: Add Aeolus to support custom build plans for programming exercises (#7642)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/fb3015039f6546f5df664eed96171e90b3fd8bb4/[Development: Add Aeolus to support custom build plans for programming exercises (#7642)]
+* link:https://www.github.com/ls1intum/Artemis/commit/74a0b2fb15478bcae04ab2c9ea579c6ad02e6ab3/[Development: Update to Angular 17 (#7578)]

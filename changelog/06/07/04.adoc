@@ -1,0 +1,11 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.7.4
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.7.4[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/d76fc4171b93faddf61b7383fb910d5ca57f7948/[Development: Remove stranded build containers on server startup in local continuous integration (#7835)]

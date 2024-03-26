@@ -1,0 +1,17 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.9.1
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.9.1[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/562fed016e3c13fa88ff45407c9720a91aafbebc/[Athena: Allow feedback suggestion module selection on exercise level (#7809)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/a74a5d8a685dca7ea67ce50b9ba5c12f95048681/[Development: Fix column type for project type (#8160)]
+* link:https://www.github.com/ls1intum/Artemis/commit/562fed016e3c13fa88ff45407c9720a91aafbebc/[Athena: Allow feedback suggestion module selection on exercise level (#7809)]

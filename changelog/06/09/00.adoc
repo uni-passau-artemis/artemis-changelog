@@ -1,0 +1,24 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.9.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.9.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/9531594cf1a4d8e9bdc636c68aeb2b6c1279b4f9/[Development: Add core profile to allow starting Artemis servers with non core services (#7958)]
+* link:https://www.github.com/ls1intum/Artemis/commit/6a94b21077eb78f6afe3fe3163f1db2f5faf14eb/[Integrated code lifecycle: Clone repositories for build job execution (#8086)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/771eda7dc3de491790bc0fd8abae49f77586d398/[Development: Remove LTI 1.0 services (#7918)]
+* link:https://www.github.com/ls1intum/Artemis/commit/fdbd2e182801f6c477ed864f08ee1b9c3da165b5/[Development: Fix issues with LTI 1.3 for open edx (#7931)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/9531594cf1a4d8e9bdc636c68aeb2b6c1279b4f9/[Development: Add core profile to allow starting Artemis servers with non core services (#7958)]
+* link:https://www.github.com/ls1intum/Artemis/commit/caeee9623e418cf2007f96bb03c6cc3c1721489d/[Development: Update error page and nginx configuration for test servers (#8057)]

@@ -1,0 +1,30 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.8.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.8.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/10ee3eb398c43bf080b0e52ac2452ae133472767/[Development: Update Artemis TUM email]
+* link:https://www.github.com/ls1intum/Artemis/commit/8cfbc901af6652ccc3dc2d007f2a3cf8377f40bd/[`General`: Add feature toggle for science api (#7967)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/5b4a8ce62c818d8df3f8357493110788036b536b/[Notifications: Add muting notifications for conversations (#7535)]
+* link:https://www.github.com/ls1intum/Artemis/commit/5f46ffc231d4b1ab2f232bf8252d9ab6b4005729/[Development: Improve persistent storage of competency relations (#7945)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a00eb7baeed4478f96af006337e28321ae8ca9f4/[Adaptive learning: Add the possibility to generate competency recommendations via a course description (#7808)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c9be2838068e5c20584c76eab9cc23765c7c4a7d/[`General`: Add event logging for scientific purposes (#7680)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/f2a657a2c807c381c98ddb4b445322981acb1c72/[Integrated code lifecycle: Decouple submission result processing from build agent logic (#7979)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/a00eb7baeed4478f96af006337e28321ae8ca9f4/[Adaptive learning: Add the possibility to generate competency recommendations via a course description (#7808)]

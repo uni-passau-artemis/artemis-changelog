@@ -1,0 +1,30 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.7.6
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.7.6[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/89c7f9ce4b1638368e98ae4b3837db574b279e2b/[Integrated code lifecycle: Remove old docker images  (#7895)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/c0cff7ee641f2a3b246c49b175c5e7b8d6e57227/[Development: Refactor LTI configuration management  (#7620)]
+* link:https://www.github.com/ls1intum/Artemis/commit/375a7148435cca4ad9287ea809620663e1d08117/[Iris: Update Hestia integration to recent Iris changes (#7872)]
+* link:https://www.github.com/ls1intum/Artemis/commit/993d5603487b58ec83ec6fc2957c3bb95484502c/[Integrated code lifecycle: Persist finished build jobs (#7877)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/29059d1bd4de28ec99fcbfd93c2d0de30ee210c0/[Development: Bump bamboo spec version to 9.4.2 (#7917)]
+* link:https://www.github.com/ls1intum/Artemis/commit/1e81a3d58bf5627a6f8b4d024b4112b8f2dcdb29/[Development: Add new feature tag `Integrated code lifecycle` (#7885)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/375a7148435cca4ad9287ea809620663e1d08117/[Iris: Update Hestia integration to recent Iris changes (#7872)]
+* link:https://www.github.com/ls1intum/Artemis/commit/00ab52a8fe31bd3129ad0121ca46f29c2b157bd3/[Integrated code lifecycle: Use specified build job result paths (#7871)]

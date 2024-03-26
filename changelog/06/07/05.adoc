@@ -1,0 +1,24 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.7.5
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.7.5[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/13042e22f1e14b6fe31e47de5e8527b2bb77bc2f/[Development: Make small improvements for build job queue in local continuous integration (#7837)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/a9980af4cf648d05fd9eb8234d977690530b39ae/[Development: Add pre-generated bash scripts for LocalCI (#7811)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2ea0ab519f81087967d1c46b955add3cfeb7b4ef/[Exam mode: Use quiz pool in student exam generation (#7583)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ce770d8828c63182d1e4e72c2a360e34d8366b13/[Plagiarism checks: Allow students to respond to continuous plagiarism cases (#7442)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/a9980af4cf648d05fd9eb8234d977690530b39ae/[Development: Add pre-generated bash scripts for LocalCI (#7811)]
+* link:https://www.github.com/ls1intum/Artemis/commit/5f2ae309351e807d1c54005cbb7e93cec797383f/[Development: Update copyright year (#7878)]

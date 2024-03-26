@@ -1,0 +1,21 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.9.3
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.9.3[Full Release Notes]
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/d1253785ffa866f058747aa8ceb9866a8f03167b/[Programming exercises: Automatically renew personal access token for GitLab (#8175)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/419a2c88a9d62c1be3528310774652c370cb2444/[Development: Set up Playwright and convert e2e tests (#8066)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/307c1a5642c961da9a0605c2bfb8469750fa5cdf/[Development: Clean up build script templates (#8166)]

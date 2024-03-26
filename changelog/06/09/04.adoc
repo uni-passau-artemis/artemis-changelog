@@ -1,0 +1,21 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.9.4
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.9.4[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/2b5f0ad68d3269248a51d373b60052fd1e6d79a8/[Programming exercises: Show build logs for submission results (#8170)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/7190c795f1e415d4485174338785bb2b0cee8901/[Development: Remove redundant database columns from online course configuration (#8148)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/6d42342bb614bcf952434024c8e72df896809fcf/[Programming exercises: Add platform independent dejagnu template (#8029)]
