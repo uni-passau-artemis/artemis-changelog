@@ -78,7 +78,9 @@ def get_commits(
 
 
 def get_changed_paths(commit: Commit) -> Generator[str, None, None]:
-    for diff in commit.diff(commit.parents):
+    # Artemis has no merge commits on the `develop` branch which would have multiple
+    # parents -> only look at the first (and only) one
+    for diff in commit.diff(next(commit.iter_parents())):
         yield diff.a_path
         yield diff.b_path
 
