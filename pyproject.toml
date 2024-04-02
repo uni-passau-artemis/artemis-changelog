@@ -44,6 +44,11 @@ ignore_missing_imports = true
 
 [tool.ruff]
 line-length = 88
+target-version = "py312"
+output-format = "full"
+
+
+[tool.ruff.lint]
 select = ["ALL"]
 ignore = [
     "ANN101", # no need to type-annotate `self`
@@ -52,7 +57,6 @@ ignore = [
     "E501", # line length managed by black formatter
     "COM812" # trailing comma managed by black formatter
 ]
-show-source = true
 exclude = [
     "docs",
     ".venv",
@@ -60,10 +64,9 @@ exclude = [
     ".mypy_cache",
     ".pytest_cache",
 ]
-target-version = "py312"
 
 
-[tool.ruff.mccabe]
+[tool.ruff.lint.mccabe]
 max-complexity = 10
 
 

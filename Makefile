@@ -19,7 +19,7 @@ mypy:
 
 .PHONY: ruff
 ruff:
-	poetry run ruff $(PROJECT) tests
+	poetry run ruff check $(PROJECT) tests
 
 .PHONY: reuse
 reuse:
