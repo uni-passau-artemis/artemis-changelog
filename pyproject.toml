@@ -29,7 +29,7 @@ pylint = "~3.1.0"
 pyright = "~1.1"
 pyupgrade = "~3.15"
 reuse = "~3.0.0"
-ruff = "~0.3.0"
+ruff = "~0.4.0"
 
 
 [tool.isort]
