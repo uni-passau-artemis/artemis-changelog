@@ -44,7 +44,7 @@ jobs:
         run: poetry run pyright src tests
 
       - name: General linting with ruff
-        run: poetry run ruff src tests
+        run: poetry run ruff check src tests
 
       - name: Check reuse
         run: poetry run reuse lint
