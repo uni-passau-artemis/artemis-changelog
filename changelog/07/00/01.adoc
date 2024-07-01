@@ -1,0 +1,16 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.0.1
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.0.1[Full Release Notes]
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/520cd65e24a8bab5fd5e1b3ef99765a8982aeb3d/[Development: Support the redeployed test servers (#8415)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/9457c3ad426ccdc5e8bae170fbd908b45f0a3d5c/[Programming exercises: Remove Java 16 specific Spotbugs Rule  (#8397)]

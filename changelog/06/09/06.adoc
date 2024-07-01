@@ -1,0 +1,18 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.9.6
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.9.6[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/123314af6389d93126d95447f01eb56605218d4d/[Integrated code lifecycle: Regularly clean up stranded build job containers (#8312)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c9cc81461a90e7f07a4b166378c973fd015d4821/[Integrated code lifecycle: Export metrics for monitoring (#8292)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/80c42d40aa714e0e8dd3ba73a2190035793a4eb2/[Development: Add database changes for standardized competencies (#8284)]
+* link:https://www.github.com/ls1intum/Artemis/commit/eca3b820c3262d7468477e8a99c3054858ebc767/[Development: Rename database columns with keywords to be able to update liquibase (#8280)]

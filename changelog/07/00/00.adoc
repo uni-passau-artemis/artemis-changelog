@@ -1,0 +1,43 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.0.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.0.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/26dcaf4c504757cb38fac42bceb71b3a5992553e/[Programming exercises: Show build logs for submission results (#8170)]
+* link:https://www.github.com/ls1intum/Artemis/commit/6ac34ccf266b3756e433d7f422faacbb751149b4/[Development: Remove remaining mentions of JIRA, Bitbucket and Bamboo in the documentation]
+* link:https://www.github.com/ls1intum/Artemis/commit/42a05036e735662c8a4f03804ba649ad29392d12/[Development: Replace ant pattern matching and improve code base (#8266)]
+* link:https://www.github.com/ls1intum/Artemis/commit/5f90deb4d7a93656f13d5996ad00cc7e83936758/[Development: Improve config (#8282)]
+* link:https://www.github.com/ls1intum/Artemis/commit/563df4db4cffdf9fa5e54de5ac5030e1679e76bb/[Integrated code lifecycle: Export metrics for monitoring (#8292)]
+* link:https://www.github.com/ls1intum/Artemis/commit/edebec9433a054d8feab2fa5cc78ab4a1390c0a6/[Integrated code lifecycle: Improve Docker exception handling and fix race conditions (#8232)]
+* link:https://www.github.com/ls1intum/Artemis/commit/9dfe7bf942ba9b83d10885b8e6e6bca1db5e56d2/[Development: Upgrade to Spring Boot 3, Spring 6, Hibernate 6 (#7719)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f19f33209297873c78d1a567cb98b825d3bb5266/[Integrated code lifecycle: Regularly clean up stranded build job containers (#8312)]
+* link:https://www.github.com/ls1intum/Artemis/commit/0ecf2abcb92bbc9285a55b37630614f7e5773b0f/[Development: Add config variable for build log path (#8259)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/129318e64ff0b98ddaa399a70b62861164deff09/[Development: Update server dependencies (#8276)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8723fc7290236449f0e209aabcaa3829598c4373/[Development: Cleanup all migrations (#8278)]
+* link:https://www.github.com/ls1intum/Artemis/commit/88b3f0fa4275116c833ca888586287f5aa736777/[Development: Add domain objects for standardized competencies (#8129)]
+* link:https://www.github.com/ls1intum/Artemis/commit/5ea5b51d0682e98bb487c47776cd67af9b503c00/[Development: Remove redundant database columns from online course configuration (#8148)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/c8d6703b9862566745b0571340255e063d0982a4/[Programming exercises: Remove support for JIRA, Bitbucket and Bamboo (#8201)]
+* link:https://www.github.com/ls1intum/Artemis/commit/45ba67476d58c847fac7579dd29c8b6eae7a6ce9/[Development: Fix GitLab CI Setup (#8023)]
+* link:https://www.github.com/ls1intum/Artemis/commit/9dfe7bf942ba9b83d10885b8e6e6bca1db5e56d2/[Development: Upgrade to Spring Boot 3, Spring 6, Hibernate 6 (#7719)]
+* link:https://www.github.com/ls1intum/Artemis/commit/6cb20e0403fa75ee8388d548438cdf9c880b8c55/[Development: Upgrade to Java 21 (#8277)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/722b5fff261f1f4ba5c93149b6201f19f0a15f07/[Programming exercises: Upgrade deprecated PMD rules (#8293)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c8d6703b9862566745b0571340255e063d0982a4/[Programming exercises: Remove support for JIRA, Bitbucket and Bamboo (#8201)]
+* link:https://www.github.com/ls1intum/Artemis/commit/6ac34ccf266b3756e433d7f422faacbb751149b4/[Development: Remove remaining mentions of JIRA, Bitbucket and Bamboo in the documentation]
+* link:https://www.github.com/ls1intum/Artemis/commit/fd4125d1b93d0ecf5ac5c142f801d7dda5ed4f63/[Development: Remove publish build plan feature (#8360)]

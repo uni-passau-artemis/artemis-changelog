@@ -1,0 +1,14 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.3.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.3.0[Full Release Notes]
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/69da7d0240104b3185ed296e364939e099472ded/[Iris: Add conversation suggestions (#8714)]
+* link:https://www.github.com/ls1intum/Artemis/commit/deff4f56b34dadd938c6b952e88e57423a21f9fd/[Adaptive learning: Improve prerequisite import (#8658)]
+* link:https://www.github.com/ls1intum/Artemis/commit/67df5f2b9c357b8fcc2b84d88b2dcb176d58b29b/[Iris: Answer questions about lecture slides (#8636)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c9521c2c0124c31560fc6e65e3dfafa556535056/[Adaptive learning: Improve mastery calculation (#8791)]

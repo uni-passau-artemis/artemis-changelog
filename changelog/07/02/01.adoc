@@ -1,0 +1,16 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.2.1
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.2.1[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/a23da36f06853ad67ad2b377952679f6ca704055/[Programming exercises: Upgrade default java dependencies (#8310)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/a23da36f06853ad67ad2b377952679f6ca704055/[Programming exercises: Upgrade default java dependencies (#8310)]

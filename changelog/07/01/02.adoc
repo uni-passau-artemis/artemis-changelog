@@ -1,0 +1,27 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.1.2
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.1.2[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/b0d47b73dfa6f56d24538b4465b23d25cafbb941/[Integrated code lifecycle: Add custom auth for build agents (#8671)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/8ef743db36e4a204eafec1d5970aece4c98ab1a1/[Adaptive learning: Fix an issue that standardized competencies could not be deleted when they had a linked competency (#8709)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/1c7642417f4f902d54e31e344a071872bfd6e700/[Development: Fix multi node docker setup for macOS and update docker images (#8622)]
+* link:https://www.github.com/ls1intum/Artemis/commit/b0d47b73dfa6f56d24538b4465b23d25cafbb941/[Integrated code lifecycle: Add custom auth for build agents (#8671)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/1348a86de1ce91d19422687567a7964fc9d9cc95/[Programming exercises: Display checkout directories in build plan preview (#8597)]

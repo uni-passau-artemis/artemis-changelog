@@ -1,0 +1,30 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.0.2
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.0.2[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/9f08ce65ee1899815ad9c9ccf689555cdd2374d9/[Development: Improve documentation and tooltips related to build scripts and docker image customization]
+* link:https://www.github.com/ls1intum/Artemis/commit/af1d72fdeebaf9215314c6713229488528d80dc5/[Programming exercises: Upgrade Java Blackbox template to java 22 (#8388)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/43ee27165ef52c772de85ae1cdf9b1b7b0d15d1f/[Integrated code lifecycle: Improve build logs feature (#8383)]
+* link:https://www.github.com/ls1intum/Artemis/commit/79f17e616e7709a90955495078f52d096eb691d8/[Exam mode: Allow students to see if their attendance was checked  (#8074)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/27d6c712f9122ab423094c081b48c719d52f09bf/[Development: Ignore blank lines in Aeolus scripts (#8454)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/af1d72fdeebaf9215314c6713229488528d80dc5/[Programming exercises: Upgrade Java Blackbox template to java 22 (#8388)]
+* link:https://www.github.com/ls1intum/Artemis/commit/75a3df981f9268fb67f38d9fa444c4a89bae0c7d/[Programming exercises: Cache dependencies in the Java blackbox template (#8351)]
+* link:https://www.github.com/ls1intum/Artemis/commit/00f9c2b107969e35679707021f4211a75b3f5505/[Development: Regenerate Aeolus LocalCI build scripts (#8390)]

@@ -1,0 +1,11 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.2.2
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.2.2[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/7083d42d544352e2b95d834159e3bab15a25bd67/[Development: Change default athena port to 5100 (#8770)]

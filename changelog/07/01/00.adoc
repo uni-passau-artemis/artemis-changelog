@@ -1,0 +1,30 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.1.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.1.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/21ead1e869bf53cb0ed04ad05e7b541789fb7415/[Integrated code lifecycle: Add option to clone repositories using SSH (#8110)]
+* link:https://www.github.com/ls1intum/Artemis/commit/1648677948e9af5dce3d8158d8cf4f5d9eba8d8b/[Development: Update server dependencies (#8663)]
+* link:https://www.github.com/ls1intum/Artemis/commit/1ebe8655953865afe53498dac192e50a1e9ad1c3/[Development: Fix an issue with system health on single node instances]
+* link:https://www.github.com/ls1intum/Artemis/commit/2a0e419567d0b2666b23395052dfaf047869af4d/[Development: Extract build agent git service (#8595)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/bd9d7d025490ec69aacaa020a98397f8cd23cf98/[Exam mode: Use events instead of notifications for exercise updates (#8123)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8f5183bd94275498b51ce7191fe7eff7f480d85b/[Development: Speedup docker image cleanup information retrieval (#8604)]
+* link:https://www.github.com/ls1intum/Artemis/commit/21ead1e869bf53cb0ed04ad05e7b541789fb7415/[Integrated code lifecycle: Add option to clone repositories using SSH (#8110)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/2a0e419567d0b2666b23395052dfaf047869af4d/[Development: Extract build agent git service (#8595)]
+* link:https://www.github.com/ls1intum/Artemis/commit/3e1bf81b26d096c1eaf3ae13bde1ec1049801265/[Development: Add multi node e2e tests with playwright (#8599)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a98d14f1359924e7c11ea0bca4c5cb1161496cda/[Development: Fix playwright e2e multi-node compose file (#8666)]
+* link:https://www.github.com/ls1intum/Artemis/commit/5dd28ce07377859d3cdcb1b789f48dcb80278ed0/[Development: Update playwright e2e test dependencies (#8627)]
+* link:https://www.github.com/ls1intum/Artemis/commit/21ead1e869bf53cb0ed04ad05e7b541789fb7415/[Integrated code lifecycle: Add option to clone repositories using SSH (#8110)]

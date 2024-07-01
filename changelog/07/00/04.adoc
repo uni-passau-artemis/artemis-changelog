@@ -1,0 +1,16 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.0.4
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.0.4[Full Release Notes]
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/1d05ef5d64f72e13b077079c82ffc98144a0ef9a/[Development: Add documentation for production setup using Docker (#8400)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/c06c626432b1f89a7e4042bbfcf11ae14a1e32c3/[Programming exercises: Read all test report XML files in OCaml (#8497)]

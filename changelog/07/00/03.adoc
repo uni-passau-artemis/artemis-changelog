@@ -1,0 +1,28 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.0.3
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.0.3[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/80a3042c9c11b28076f1bbb0e971dcb69f65f95a/[Development: Reduce noise during server startup]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/8ea253ff442b0c763a6a15a6aa7781179374763f/[Assessment: Add internal assessment notes for tutors (#8174)]
+* link:https://www.github.com/ls1intum/Artemis/commit/7b5c95e6d89a47748c9792aed64248016924da69/[Iris: Remove Iris from code editor (#8306)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/4ea59316fa0a8579e07bea0e9f5388b778b2f513/[Development: Add e2e tests for programming exercise participation with git operations (#8290)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/1073503777b00a27b97bc891f1f91f065fcdc613/[Programming exercises: Fix Jenkins template for C (#8499)]
+* link:https://www.github.com/ls1intum/Artemis/commit/bbf8dc6904f7eb8bbe6c9a72799104e51f7c3a10/[Integrated code lifecycle: Fix test results path for C exercises (#8522)]

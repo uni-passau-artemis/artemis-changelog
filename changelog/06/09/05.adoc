@@ -1,0 +1,12 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 6.9.5
+
+link:https://github.com/ls1intum/Artemis/releases/tag/6.9.5[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/05b133e71ece472a2ff63513be1351ab64f91456/[Development: Add config variable for build log path (#8259)]
+* link:https://www.github.com/ls1intum/Artemis/commit/46c5cbd6b91b99db5f6034d5ac819e881982ed88/[Integrated code lifecycle: Improve Docker exception handling and fix race conditions (#8232)]
