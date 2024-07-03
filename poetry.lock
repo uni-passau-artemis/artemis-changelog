@@ -12,6 +12,25 @@ files = [
 ]
 
 [[package]]
+name = "attrs"
+version = "23.2.0"
+description = "Classes Without Boilerplate"
+optional = false
+python-versions = ">=3.7"
+files = [
+    {file = "attrs-23.2.0-py3-none-any.whl", hash = "sha256:99b87a485a5820b23b879f04c2305b44b951b502fd64be915879d77a7e8fc6f1"},
+    {file = "attrs-23.2.0.tar.gz", hash = "sha256:935dc3b529c262f6cf76e50877d35a4bd3c1de194fd41f47a2b7ae8f19971f30"},
+]
+
+[package.extras]
+cov = ["attrs[tests]", "coverage[toml] (>=5.3)"]
+dev = ["attrs[tests]", "pre-commit"]
+docs = ["furo", "myst-parser", "sphinx", "sphinx-notfound-page", "sphinxcontrib-towncrier", "towncrier", "zope-interface"]
+tests = ["attrs[tests-no-zope]", "zope-interface"]
+tests-mypy = ["mypy (>=1.6)", "pytest-mypy-plugins"]
+tests-no-zope = ["attrs[tests-mypy]", "cloudpickle", "hypothesis", "pympler", "pytest (>=4.3.0)", "pytest-xdist[psutil]"]
+
+[[package]]
 name = "binaryornot"
 version = "0.4.4"
 description = "Ultra-lightweight pure Python package to check if a file is binary or text."
@@ -612,21 +631,23 @@ files = [
 
 [[package]]
 name = "reuse"
-version = "3.0.2"
+version = "4.0.1"
 description = "reuse is a tool for compliance with the REUSE recommendations."
 optional = false
 python-versions = "<4.0,>=3.8"
 files = [
-    {file = "reuse-3.0.2-cp311-cp311-manylinux_2_36_x86_64.whl", hash = "sha256:bf5a65c2dba4b481ee5ace18a3863095ee95ff3e72acaf6cd4446bb83d786970"},
-    {file = "reuse-3.0.2.tar.gz", hash = "sha256:73eb8262b84527a90822404e7504f69081854759806830d402ea1e92176f32a6"},
+    {file = "reuse-4.0.1-cp311-cp311-manylinux_2_36_x86_64.whl", hash = "sha256:924452771c61171ba3cf0bb93c03eec5737ea6b7dd139694b3c1bf80a8a9ff7c"},
+    {file = "reuse-4.0.1.tar.gz", hash = "sha256:ed7c1228258a0905e251f678b097e82be0c2dc873e18abc37659251a872fb04e"},
 ]
 
 [package.dependencies]
-binaryornot = ">=0.4.4,<0.5.0"
+attrs = ">=21.1"
+binaryornot = ">=0.4.4"
 "boolean.py" = ">=3.8"
-Jinja2 = ">=3.0.0,<4.0.0"
+Jinja2 = ">=3.0.0"
 license-expression = ">=1.0"
-python-debian = ">=0.1.34,<0.1.45 || >0.1.45,<0.1.46 || >0.1.46,<0.1.47 || >0.1.47,<0.2.0"
+python-debian = ">=0.1.34,<0.1.45 || >0.1.45,<0.1.46 || >0.1.46,<0.1.47 || >0.1.47"
+tomlkit = ">=0.8"
 
 [[package]]
 name = "ruff"
@@ -749,4 +770,4 @@ test = ["covdefaults (>=2.3)", "coverage (>=7.2.7)", "coverage-enable-subprocess
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.12,<4.0"
-content-hash = "a5e4c9267bfb4c422319a368dd413b9b1f69c23af56573922343d285651dfb5a"
+content-hash = "d18eb46f62937b12dbd22827d131b6e18bfbe499e4711770a09a4a9beb23f29c"
