@@ -631,13 +631,13 @@ files = [
 
 [[package]]
 name = "reuse"
-version = "4.0.1"
+version = "4.0.2"
 description = "reuse is a tool for compliance with the REUSE recommendations."
 optional = false
 python-versions = "<4.0,>=3.8"
 files = [
-    {file = "reuse-4.0.1-cp311-cp311-manylinux_2_36_x86_64.whl", hash = "sha256:924452771c61171ba3cf0bb93c03eec5737ea6b7dd139694b3c1bf80a8a9ff7c"},
-    {file = "reuse-4.0.1.tar.gz", hash = "sha256:ed7c1228258a0905e251f678b097e82be0c2dc873e18abc37659251a872fb04e"},
+    {file = "reuse-4.0.2-cp311-cp311-manylinux_2_36_x86_64.whl", hash = "sha256:7b0e7880b76f834d6ccffe088fea597141dcaaa0cd23ce3171481758cb263f0e"},
+    {file = "reuse-4.0.2.tar.gz", hash = "sha256:be040da309a5624a41dcee620b940b7ff7d9d66cee10650e122da2ccbe82637d"},
 ]
 
 [package.dependencies]
