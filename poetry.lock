@@ -631,17 +631,17 @@ files = [
 
 [[package]]
 name = "reuse"
-version = "4.0.2"
+version = "4.0.3"
 description = "reuse is a tool for compliance with the REUSE recommendations."
 optional = false
 python-versions = "<4.0,>=3.8"
 files = [
-    {file = "reuse-4.0.2-cp311-cp311-manylinux_2_36_x86_64.whl", hash = "sha256:7b0e7880b76f834d6ccffe088fea597141dcaaa0cd23ce3171481758cb263f0e"},
-    {file = "reuse-4.0.2.tar.gz", hash = "sha256:be040da309a5624a41dcee620b940b7ff7d9d66cee10650e122da2ccbe82637d"},
+    {file = "reuse-4.0.3-cp311-cp311-manylinux_2_36_x86_64.whl", hash = "sha256:b33e26ec1d105cfcfc2e904d103faec0d758994278feb95a4f4290a864562243"},
+    {file = "reuse-4.0.3.tar.gz", hash = "sha256:4f2c3e1213ec644e5febc50d8322d18982e4e1102af8a51d9493bfc2164a0eac"},
 ]
 
 [package.dependencies]
-attrs = ">=21.1"
+attrs = ">=21.3"
 binaryornot = ">=0.4.4"
 "boolean.py" = ">=3.8"
 Jinja2 = ">=3.0.0"
