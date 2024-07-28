@@ -27,7 +27,7 @@ mypy = "~1.11.0"
 pre-commit = "~3.7.0"
 pylint = "~3.2.0"
 pyright = "~1.1"
-pyupgrade = "~3.16.0"
+pyupgrade = "~3.17.0"
 reuse = "~4.0.0"
 ruff = "~0.5.0"
 
