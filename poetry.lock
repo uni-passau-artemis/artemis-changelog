@@ -710,24 +710,6 @@ typing-extensions = "*"
 typing-inspect = "*"
 
 [[package]]
-name = "pyright"
-version = "1.1.376"
-description = "Command line wrapper for pyright"
-optional = false
-python-versions = ">=3.7"
-files = [
-    {file = "pyright-1.1.376-py3-none-any.whl", hash = "sha256:0f2473b12c15c46b3207f0eec224c3cea2bdc07cd45dd4a037687cbbca0fbeff"},
-    {file = "pyright-1.1.376.tar.gz", hash = "sha256:bffd63b197cd0810395bb3245c06b01f95a85ddf6bfa0e5644ed69c841e954dd"},
-]
-
-[package.dependencies]
-nodeenv = ">=1.6.0"
-
-[package.extras]
-all = ["twine (>=3.4.1)"]
-dev = ["twine (>=3.4.1)"]
-
-[[package]]
 name = "python-debian"
 version = "0.1.49"
 description = "Debian package related modules"
@@ -1015,4 +997,4 @@ test = ["covdefaults (>=2.3)", "coverage (>=7.2.7)", "coverage-enable-subprocess
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.12,<4.0"
-content-hash = "513326be19fc06683552bad6f48d3da27ac22c2caa0bba25b9042f3ff77cb8ec"
+content-hash = "cf80c335cfbaee41b655f96d934f8f8052f72d41eb78ca4c73920545f48c211d"
