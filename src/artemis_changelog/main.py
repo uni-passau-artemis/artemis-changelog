@@ -34,6 +34,9 @@ class Sections(Enum):
                 return r"docker/.*"
             case Sections.TEMPLATE:
                 return r"src/main/resources/templates/.*"
+            case _:
+                e = "Unknown 'Sections' enum variant"
+                raise ValueError(e)
 
     def __str__(self) -> str:
         return self.value

@@ -10,12 +10,16 @@ generate-changelog:
 
 .PHONY: format
 format:
-	poetry run isort .
-	poetry run black .
+	poetry run isort $(PROJECT) tests
+	poetry run black $(PROJECT) tests
 
 .PHONY: mypy
 mypy:
 	poetry run mypy $(PROJECT) tests
+
+.PHONY: pyre
+pyre:
+	poetry run pyre
 
 .PHONY: ruff
 ruff:
@@ -26,4 +30,4 @@ reuse:
 	poetry run reuse lint
 
 .PHONY: check
-check: format mypy ruff reuse
+check: format mypy pyre ruff reuse

@@ -40,8 +40,8 @@ jobs:
       - name: Check typing with mypy
         run: poetry run mypy src tests
 
-      - name: Check typing with pyright
-        run: poetry run pyright src tests
+      - name: Check typing with pyre
+        run: poetry run pyre
 
       - name: General linting with ruff
         run: poetry run ruff check src tests
