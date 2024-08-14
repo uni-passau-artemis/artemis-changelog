@@ -1,0 +1,9 @@
+# SPDX-FileCopyrightText: 2024 Artemis Changelog Contributors
+#
+# SPDX-License-Identifier: EUPL-1.2
+
+version = 1
+SPDX-PackageName = "artemis-changelog"
+SPDX-PackageSupplier = "Benedikt Fein <fein@fim.uni-passau.de>"
+SPDX-PackageDownloadLocation = "https://github.com/uni-passau-artemis/artemis-changelog"
+annotations = []
