@@ -1,0 +1,24 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.5.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.5.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/3e55f739b4147631784d95157899cf420514c26f/[Development: Avoid database queries with pagination and left join fetch (#8741)]
+* link:https://www.github.com/ls1intum/Artemis/commit/b54898e306192ef3d6e20738ed009f9b11ad9b04/[Integrated code lifecycle: Add access tokens for authentication to LocalVC repositories (#8929)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/ca147a7fe5b8794f36126ea32fdb38fc3d2effa5/[Adaptive learning: Remove relates relation type for competencies (#8993)]
+* link:https://www.github.com/ls1intum/Artemis/commit/1b4a0504cefca99d63f0eec2aee16732fc6da85f/[Development: Add build config entity for programming exercises (#8897)]
+* link:https://www.github.com/ls1intum/Artemis/commit/b54898e306192ef3d6e20738ed009f9b11ad9b04/[Integrated code lifecycle: Add access tokens for authentication to LocalVC repositories (#8929)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/59aeaab3c92ce0ef652f57363014b5a83956a17f/[Development: Disable Eureka for single node setups (#9198)]

@@ -1,0 +1,17 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.4.2
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.4.2[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/fb9d59de3e7ba0dbcfd29c1cd6a8a655f9157193/[Development: Prevent bean definition overriding and activate lazy initialization]
+* link:https://www.github.com/ls1intum/Artemis/commit/35628327b492084a97ddfe18c6932a3f415b8bf9/[Development: Set lazy-initialization to false to prevent issues with processing build results]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/08047194f111327a99820cd4c6804402bd9617f0/[Integrated code lifecycle: Fix an issue when parsing special characters (#9006)]

@@ -1,0 +1,26 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.4.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.4.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/374d28c9f31257526b6493d4cd94d28bdc58e6e4/[Programming exercises: Add button to start online IDE from exercise details (#8697)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/257eefc2db8b037038dba62d3eae1b934c09c694/[Communication: Combine messages and communication view (#8801)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/a75e8cfa45a55b069d77b0f60ebb099e494f5039/[Development: Fix wrong Artemis image issue on e2e multi node configuration (#8852)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/20db0bd8bcf061327b29a38ff56a302f34c34d24/[Development: Allow all filenames in programming exercise templates (#8684)]

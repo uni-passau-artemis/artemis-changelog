@@ -1,0 +1,11 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.4.1
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.4.1[Full Release Notes]
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/eab9f6c0fb72bbdb256209f16ce3df0b4e08de44/[Programming exercise: Fix an issue with VHDL not showing build failed correctly (#8945)]
