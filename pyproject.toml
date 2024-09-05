@@ -16,7 +16,7 @@ packages = [{include = "artemis_changelog", from = "src"}]
 python = ">=3.12,<4.0"
 gitpython = "3.1.43"
 jinja2 = "3.1.4"
-more-itertools = "10.4.0"
+more-itertools = "10.5.0"
 semver = "3.0.2"
 
 
