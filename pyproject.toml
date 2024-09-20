@@ -25,7 +25,7 @@ black = "~24.8.0"
 isort = { extras = ["pyproject"], version = "~5.13.0" }
 mypy = "~1.11.0"
 pre-commit = "~3.8.0"
-pylint = "~3.2.0"
+pylint = "~3.3.0"
 pyre-check = "~0.9.0"
 pyupgrade = "~3.17.0"
 reuse = "~4.0.0"
