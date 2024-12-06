@@ -1,0 +1,14 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.7.4
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.7.4[Full Release Notes]
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/58b8b59b4cb7709344678bfcccecda037f67ef73/[Integrated code lifecycle: Support multiple SSH keys per user (#9478)]
+* link:https://www.github.com/ls1intum/Artemis/commit/663684f90af5daa3089da8be97a5f021f7304338/[Communication: Improve push notifications for the iOS mobile app (#9787)]
+* link:https://www.github.com/ls1intum/Artemis/commit/3b8d5f1062f678a0f503010c0827d6bbcc052027/[Integrated code lifecycle: Provide Instructors more options to control container configuration (#9487)]
+* link:https://www.github.com/ls1intum/Artemis/commit/05646bf8fa91b40c8a1649fcff3abda90d2abfeb/[Development: Fix exercise deletion with existing Iris messages (#9875)]

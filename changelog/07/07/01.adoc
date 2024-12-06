@@ -1,0 +1,16 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.7.1
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.7.1[Full Release Notes]
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/749b301b7c370b514f47d6a05895b6b0efab6e89/[Programming exercise: Speed up version control access log queries with a database index]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/785cf846d20be5965a46666ece6910c0b12c5fea/[Development: Run Playwright tests with submission builds sequentially (#9623)]

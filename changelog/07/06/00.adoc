@@ -1,0 +1,25 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.6.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.6.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/f35832913d3a866c3c448593daba8ef022754615/[Programming exercises: Add R programming language template (#9256)]
+* link:https://www.github.com/ls1intum/Artemis/commit/3154064515ea84ab13d56e437419d21390ff71a0/[Integrated code lifecycle: Configure checkout path and timeout for programming exercises (#9217)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/ebc28b21b833cc9d61d4ad02a6b5ae96727f4608/[Iris: Add chat in text exercises (#9362)]
+* link:https://www.github.com/ls1intum/Artemis/commit/4c98c063fc4543cd9d85530b9c5b10f2eb647dc6/[Iris: Upgrade settings system for Pyris V2 (#9247)]
+* link:https://www.github.com/ls1intum/Artemis/commit/3154064515ea84ab13d56e437419d21390ff71a0/[Integrated code lifecycle: Configure checkout path and timeout for programming exercises (#9217)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/f35832913d3a866c3c448593daba8ef022754615/[Programming exercises: Add R programming language template (#9256)]
+* link:https://www.github.com/ls1intum/Artemis/commit/3154064515ea84ab13d56e437419d21390ff71a0/[Integrated code lifecycle: Configure checkout path and timeout for programming exercises (#9217)]

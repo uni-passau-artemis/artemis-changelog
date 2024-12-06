@@ -1,0 +1,23 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.6.2
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.6.2[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/873fd8f655692d6fa9354e0acbd3b3a7b0383bbf/[Programming exercises: Add typescript programming language template (#9440)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a0d723f6dcee7b5ed90dfa285b05938a03d0a826/[Integrated code lifecycle: Add build agent name (#9529)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/dd96df50f711e1bf654198eafa46d94c50c71a3d/[General: Track token usage of LLM service requests (#9455)]
+* link:https://www.github.com/ls1intum/Artemis/commit/0745f27163367852bfac2a89a8a813731e742aff/[Development: Fix exercise deletion with existing Iris sessions (#9567)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/873fd8f655692d6fa9354e0acbd3b3a7b0383bbf/[Programming exercises: Add typescript programming language template (#9440)]

@@ -1,0 +1,16 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.7.3
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.7.3[Full Release Notes]
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/08513442798d1aa5ddd8469660f632e4ccb46b1e/[Communication: Allow user to save messages for later (#9705)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/662b6236d65f1ea644bf51f502c398f213bc3409/[Programming exercises: Simplify parsing of test suites in Jenkins setups (#9790)]

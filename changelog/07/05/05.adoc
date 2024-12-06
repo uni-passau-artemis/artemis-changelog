@@ -1,0 +1,11 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.5.5
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.5.5[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/69931990fda738323e612bc4c6151c79a2659c6e/[Development: Fix default URL for telemetry service (#9382)]

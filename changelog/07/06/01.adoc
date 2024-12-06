@@ -1,0 +1,17 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.6.1
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.6.1[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/53692bc92a4dff115fd0d80415c7587ea75d629a/[Programming exercises: Add C++ programming language template (#9261)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/53692bc92a4dff115fd0d80415c7587ea75d629a/[Programming exercises: Add C++ programming language template (#9261)]
+* link:https://www.github.com/ls1intum/Artemis/commit/94bcf0b22b9cfa26e6d70a42ac5d5620958206ed/[Development: Synchronize windfiles and build scripts (#9466)]

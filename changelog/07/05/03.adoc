@@ -1,0 +1,16 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.5.3
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.5.3[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/29df59d690f361aebc95788ab3bcd50407c2ab49/[Development: Restructure server code completely into modules (#9307)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/070ed39b482a5c07e07880612af4e270ca2a0edb/[Programming exercises: Add IDE preferences for "Open In" (#9201)]

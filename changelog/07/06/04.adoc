@@ -1,0 +1,21 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.6.4
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.6.4[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/142c0f156360fdf1f070aebeb320e551e272c0af/[Communication: Update android app package name and fingerprints (#9584)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/565355f326ee1eee007365e0b3512fc272450bb4/[Iris: Allow to configure exercises based on their categories (#9461)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/3b1b15e5e7ba82e7e500f448fb688984981bc519/[Development: Improve exercise configuration for GitLab CI (#9608)]

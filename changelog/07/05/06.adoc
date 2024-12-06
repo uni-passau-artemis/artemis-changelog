@@ -1,0 +1,28 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.5.6
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.5.6[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/8f73d059e98b324d1b842866f2ffc7d9eda03852/[Development: Fix default URL for telemetry service (#9382)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a4931f94aa896131ba47db2ddb09239ebe64445a/[Development: Remove no longer required secret push token for Jenkins setups (#9317)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/c3ab17603df0977686ff26fe604d7be05daa944a/[Communication: Add FAQs to Artemis (#9325)]
+* link:https://www.github.com/ls1intum/Artemis/commit/b7a816e5b8a34bc82ef403cd0ff1236d81c5b7a1/[Learning paths: Add explanation view for learning path users (#9392)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/9c6643fe3fdb7442addaa2c1e9e6edc58c57db59/[Development: Update mysql and postgres to latest version]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/a4931f94aa896131ba47db2ddb09239ebe64445a/[Development: Remove no longer required secret push token for Jenkins setups (#9317)]

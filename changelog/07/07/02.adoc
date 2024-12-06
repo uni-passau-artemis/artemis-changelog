@@ -1,0 +1,17 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.7.2
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.7.2[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/ce8be251ea14154b40916c57f31e1195c5316301/[Integrated code lifecycle: Limit build logs size (#9861)]
+* link:https://www.github.com/ls1intum/Artemis/commit/483a120c97fb3b6ae2b7b7a3b6e8bd8e0b860cab/[Programming exercises: Use versioned docker image tags (#9797)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/9efdb064d7f3cf04c36cc10bdfbb4a3f7af2a0a8/[Programming exercises: Improve test build logs for Haskell exercises (#9792)]

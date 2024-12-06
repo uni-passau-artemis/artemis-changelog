@@ -1,0 +1,21 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.6.5
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.6.5[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/49540744992c09833d49ea05336c3d5dc9526c2f/[Integrated code lifecycle: Allow admins to set build timeout options via application properties (#9603)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/d2fa06425e22521f08a7c4c7a2610c724a9a06be/[Adaptive learning: Add weight to links between competencies and learning objects (#9517)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/60c8c12d23d6f6ace49293416271ed83430a4ec8/[Programming exercises: Ignore .classpath and .project Eclipse files in git (#9645)]

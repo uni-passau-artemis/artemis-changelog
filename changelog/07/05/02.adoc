@@ -1,0 +1,18 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.5.2
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.5.2[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/91416fe743f339964404a5cb716d489cb07c92b7/[Development: Add telemetry service (#9174)]
+* link:https://www.github.com/ls1intum/Artemis/commit/d9f2cb87d84a9b413b7f15b2456c81c7e1c213f3/[Development: Improve cleanup schedule for build logs]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/b24fd893553155a59508b21ef6e87772bae10549/[Development: Configure telemetry variables for e2e tests (#9288)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f75e4cf0512b2038582545b6bc5018aa3a7cc5d0/[Development: Update server dependencies and remove custom jgit server code]

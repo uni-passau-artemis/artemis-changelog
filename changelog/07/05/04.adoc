@@ -1,0 +1,29 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.5.4
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.5.4[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/2d3848865e4882d6bd9ccf22ab925303ee69d90c/[Development: Add access log for LocalVC repositories (#9184)]
+* link:https://www.github.com/ls1intum/Artemis/commit/bac8af90a3fe6e2935f497717af4ff3cc735ca4d/[Programming exercises: Add JavaScript programming language template (#8859)]
+* link:https://www.github.com/ls1intum/Artemis/commit/0354197ab5c51b10b6db04331f4a5e0f8ba3328f/[Programming exercises: Enable empty template for LocalCI (#9280)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/2d3848865e4882d6bd9ccf22ab925303ee69d90c/[Development: Add access log for LocalVC repositories (#9184)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/afa1e3f3c149a9ffe48463f9ec297a026a241e81/[Development: Document Jenkins and LocalVC setup (#9266)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/bac8af90a3fe6e2935f497717af4ff3cc735ca4d/[Programming exercises: Add JavaScript programming language template (#8859)]
+* link:https://www.github.com/ls1intum/Artemis/commit/0354197ab5c51b10b6db04331f4a5e0f8ba3328f/[Programming exercises: Enable empty template for LocalCI (#9280)]

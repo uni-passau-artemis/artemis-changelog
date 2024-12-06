@@ -1,0 +1,23 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.7.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.7.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/63f9cca4183e98ae7c8fd7be8e4b56398f4b0dc0/[Programming exercises: Add C# programming language template (#9626)]
+* link:https://www.github.com/ls1intum/Artemis/commit/9ad7a3559e632bd0006badfb9f3c37f43cf2bf90/[Programming exercises: Upgrade Haskell container image (#9687)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/0cc6620f319050c280ebaac9f11c056540e221d9/[General: Add cleanup service for admins (#9296)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/63f9cca4183e98ae7c8fd7be8e4b56398f4b0dc0/[Programming exercises: Add C# programming language template (#9626)]
+* link:https://www.github.com/ls1intum/Artemis/commit/9ad7a3559e632bd0006badfb9f3c37f43cf2bf90/[Programming exercises: Upgrade Haskell container image (#9687)]

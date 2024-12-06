@@ -1,0 +1,24 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.5.1
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.5.1[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/90bf23bb3ff63e41437a34aca2422abc14b29b8a/[Programming exercises: Add online IDE settings (#8965)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f055750031b04d95ae89d8c964bc5011822f02fc/[Programming exercises: Add Rust programming template (#8802)]
+* link:https://www.github.com/ls1intum/Artemis/commit/728478f1dcd7cc2a6b3aa98071f17a81fe076340/[Development: Update server dependencies]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/0d44cc17c99f62891ab486ded9a6ae68e92abc4a/[Development: Enable http3 for test servers (#9232)]
+* link:https://www.github.com/ls1intum/Artemis/commit/833aebf86e65a13036990037d937651feda14f29/[Development: Remove cypress (#9267)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/f055750031b04d95ae89d8c964bc5011822f02fc/[Programming exercises: Add Rust programming template (#8802)]
