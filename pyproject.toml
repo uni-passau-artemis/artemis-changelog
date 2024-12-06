@@ -21,7 +21,6 @@ semver = "3.0.2"
 
 
 [tool.poetry.group.dev.dependencies]
-black = "~24.10.0"
 isort = { extras = ["pyproject"], version = "~5.13.0" }
 mypy = "~1.13.0"
 pre-commit = "~4.0.0"
@@ -51,11 +50,10 @@ output-format = "full"
 [tool.ruff.lint]
 select = ["ALL"]
 ignore = [
-    "ANN101", # no need to type-annotate `self`
-    "ANN102", # no need to type-annotate `cls`
     "D",
-    "E501", # line length managed by black formatter
-    "COM812" # trailing comma managed by black formatter
+    "E501", # line length managed by formatter
+    "ISC001", # conflict with formatter
+    "COM812" # trailing comma managed by formatter
 ]
 exclude = [
     "docs",

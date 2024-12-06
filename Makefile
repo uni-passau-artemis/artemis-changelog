@@ -11,7 +11,7 @@ generate-changelog:
 .PHONY: format
 format:
 	poetry run isort $(PROJECT) tests
-	poetry run black $(PROJECT) tests
+	poetry run ruff format $(PROJECT) tests
 
 .PHONY: mypy
 mypy:

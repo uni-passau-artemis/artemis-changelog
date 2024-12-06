@@ -34,8 +34,8 @@ jobs:
       - name: Check imports with isort
         run: poetry run isort --check-only . --profile black
 
-      - name: Check formatting with black
-        run: poetry run black --diff --check .
+      - name: Check formatting
+        run: poetry run ruff format --diff --check .
 
       - name: Check typing with mypy
         run: poetry run mypy src tests
