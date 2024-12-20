@@ -22,7 +22,7 @@ semver = "3.0.2"
 
 [tool.poetry.group.dev.dependencies]
 isort = { extras = ["pyproject"], version = "~5.13.0" }
-mypy = "~1.13.0"
+mypy = "~1.14.0"
 pre-commit = "~4.0.0"
 pylint = "~3.3.0"
 pyre-check = "~0.9.0"
