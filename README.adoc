@@ -29,8 +29,8 @@ A rendered version of the changelog can be found link:{url-github-pages}[here].
 
 [source,bash]
 --
-poetry install # only when running for the first time
-poetry run python ./src/artemis_changelog/main.py --output-dir=changelog
+uv sync # only when running for the first time
+uv run python ./src/artemis_changelog/main.py --output-dir=changelog
 --
 
 
