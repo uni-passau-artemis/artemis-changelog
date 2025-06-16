@@ -1,0 +1,16 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.10.4
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.10.4[Full Release Notes]
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/7b826ee5d83a4e031f7f9b7a4079855ec56fef88/[Programming exercises: Add notifications for SSH and personal VCS access token creation and expiry (#10358)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/7b826ee5d83a4e031f7f9b7a4079855ec56fef88/[Programming exercises: Add notifications for SSH and personal VCS access token creation and expiry (#10358)]

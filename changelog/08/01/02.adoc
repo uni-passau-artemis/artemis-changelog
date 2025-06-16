@@ -1,0 +1,11 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.1.2
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.1.2[Full Release Notes]
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/b3cea260e66cb3ca6e7f9761ed76df7b44978dc1/[Development: Add combined index to speed up build job database queries]

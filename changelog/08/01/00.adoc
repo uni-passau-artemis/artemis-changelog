@@ -1,0 +1,38 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.1.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.1.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/4cdf915f3b1858c3ca32cfed73c9eef0ce5b9094/[Development: Set up lazy instantiation for faster startup (#10909)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c7beaaf355f6d548912674e5d9c1c8446e8bf425/[Development: Update client dependencies]
+* link:https://www.github.com/ls1intum/Artemis/commit/f2151ccfb8c1587f930558a62a1792d32b5c686b/[Development: Rotate passkey tokens silently (#10830)]
+* link:https://www.github.com/ls1intum/Artemis/commit/fecb2bb9b66d3bdd78cb065821fc93cf558ff0ef/[Development: Use upstream sarif-rs with C++ SCA (#10874)]
+* link:https://www.github.com/ls1intum/Artemis/commit/9e0dd7bd1e8767734c07b5866bb7d520e366fba4/[Development: Update recommended mobile app versions (#10922)]
+* link:https://www.github.com/ls1intum/Artemis/commit/9512ed47fc9d02e893e2c87102499dab9b6f7f0b/[Development: Convert file path service into file path converter (#10900)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/4669e292cc9863a5867a72c371b425eff89562b3/[Iris: Add custom instructions for instructors (#10782)]
+* link:https://www.github.com/ls1intum/Artemis/commit/0a5e2d3eb35e0e44f56a65624883a0f596414665/[Iris: Enable Iris by default and fix variants (#10908)]
+* link:https://www.github.com/ls1intum/Artemis/commit/59ff09fb599323e11265d7bb3494224d1c290143/[Communication: Add Iris Tutor Suggestions (#10666)]
+* link:https://www.github.com/ls1intum/Artemis/commit/89473429608d2abc29b9c62e94360739ac166ed1/[Development: Remove unused database columns in post table]
+* link:https://www.github.com/ls1intum/Artemis/commit/a50be98249ff49c7a4ad3edbf2201d3fb49f4328/[Lectures: Merge attachment and video unit (#10575)]
+* link:https://www.github.com/ls1intum/Artemis/commit/b644f335bc5c14d46124190c2e4759594d84791b/[Adaptive learning: Fix error when accessing no longer available CourseLearnerProfiles (#10877)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/c7beaaf355f6d548912674e5d9c1c8446e8bf425/[Development: Update client dependencies]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/8c1ff82d87c2c55a51c9e69a7d3be5dd5777f5cf/[Programming exercises: Fix C++ build pipeline crashes due to ANSI color codes in runtime error messages (#10888)]
+* link:https://www.github.com/ls1intum/Artemis/commit/b38411e38f93f6ad5ee16612c2215f1ce7b904a1/[Programming exercises: Fix a permission issue in c templates (#10870)]
+* link:https://www.github.com/ls1intum/Artemis/commit/4a6318ec6babff70af18ca791b595c9e31ccfac8/[General: Add notification emails for security related actions (#10770)]

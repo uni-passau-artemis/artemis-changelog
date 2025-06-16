@@ -1,0 +1,17 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.10.3
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.10.3[Full Release Notes]
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/c68324d551a7b1dc6097ca876e6a7982fc029ad1/[Communication: Allow user to forward messages (#10331)]
+* link:https://www.github.com/ls1intum/Artemis/commit/623cea37ca2952064071c7dd74c3f5490c4f90e6/[Athena: Add popup for accepting external LLM usage when requesting feedback (#10187)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/3e1ac9613314240910918b0afd73d7a8c9fd1cfb/[Plagiarism checks: Inform instructors when student replies on a plagiarism case (#10287)]

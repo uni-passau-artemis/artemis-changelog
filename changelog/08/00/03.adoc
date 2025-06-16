@@ -1,0 +1,11 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.0.3
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.0.3[Full Release Notes]
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/6472d60c5219f41120549e212f7845fd8aa1542d/[General: Allow users to rename passkey label (#10734)]

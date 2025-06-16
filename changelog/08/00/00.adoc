@@ -1,0 +1,87 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.0.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.0.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/ae4e1a1a02dbbae19ea995f53426b38e2034acb4/[Integrated code lifecycle: Allow instructors to configure docker performance flags (#10356)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c6eb514f1b59a905cde57df2c5fb0d7cedb6175a/[Development: Update version of SAML2 (#10362)]
+* link:https://www.github.com/ls1intum/Artemis/commit/4f11b1c32b1ffdac9405894fbc8c5ff1632a30db/[Development: Update Artemis setup guide (#10602)]
+* link:https://www.github.com/ls1intum/Artemis/commit/9bce763b2c9203f722ef32603ff0aed3a23e6aa9/[Development: Allow disabling exam module in server and client (#10640)]
+* link:https://www.github.com/ls1intum/Artemis/commit/6ae0e9a427b70b7801d273c28601e82197cceb32/[Programming exercises: Fix declared R dependencies not being installed (#10545)]
+* link:https://www.github.com/ls1intum/Artemis/commit/447871ba2c5113fc4f2a6c76ca251d7e2508d16a/[Development: Autowire modules based on properties instead of profiles (#10376)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8217f75b3a69ed5f3d0855de7309e7faca4a2a55/[Integrated code lifecycle: Unify ssh usage config condition for build agents (#10483)]
+* link:https://www.github.com/ls1intum/Artemis/commit/161f0f1d8e3b3af43234be2a8d9bb69c8edfbcab/[Programming exercises: Provide theia clone information on redirect (#10344)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8f9d42bc1ddc83f932f34e68f0b6df061c0349af/[Programming exercises: Enable static code analysis for C++ with LocalCI (#10453)]
+* link:https://www.github.com/ls1intum/Artemis/commit/de5ce74371849f93eaf9ecca35b1c43e91d5b8e2/[Development: Remove orion plugin integration (#10517)]
+* link:https://www.github.com/ls1intum/Artemis/commit/b3754bfec49c143cb38ae55b5e676650ed6fd877/[Programming exercises: Enable static code analysis for TypeScript with LocalCI (#10373)]
+* link:https://www.github.com/ls1intum/Artemis/commit/13a03a629ec2af590a1f2b67972f01b8c3e71a42/[Development: Remove Gitlab support (#10382)]
+* link:https://www.github.com/ls1intum/Artemis/commit/91466ebd66786ad315620c56935e81156623107e/[Development: Update compatible app versions (#10658)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ffcb382e85563af3dd36591113e0c1cd2b03bdbd/[Programming exercises: Enable static code analysis for R with LocalCI (#10577)]
+* link:https://www.github.com/ls1intum/Artemis/commit/903d5e9467250054cdbf1553b93e4fbdb44da7b1/[Development: Allow disabling text module in server and client (#10633)]
+* link:https://www.github.com/ls1intum/Artemis/commit/62da665c2288357898bb133cd498ea830faaa6f1/[General: Add passkey login option (#10656)]
+* link:https://www.github.com/ls1intum/Artemis/commit/810524c19f1521b349964f3850adc087f461f210/[Programming exercises: Enable static code analysis for JavaScript with LocalCI (#10372)]
+* link:https://www.github.com/ls1intum/Artemis/commit/9ee446acc221457e3ae15571e72283aa72cd85d2/[Development: Update saml2 config properties (#10694)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8ac0845b93fcc5aec3227df3e856003afe4d6b09/[Development: Allow disabling tutorial group module in server and client (#10641)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c86998057c29a37503b3464dc23ead5619c2e30f/[Development: Allow disabling plagiarism module in server and client (#10638)]
+* link:https://www.github.com/ls1intum/Artemis/commit/cca093e9edbeb456157c3b35be42c57b823b2766/[Development: Simplify profile service and remove guided tours (#10663)]
+* link:https://www.github.com/ls1intum/Artemis/commit/4b58506927d30178df545ce6ed58ea17bf013cf6/[Development: Update C# exercise dependencies (#10588)]
+* link:https://www.github.com/ls1intum/Artemis/commit/533fc66d7dd2081701ed1dfc555d047fbf7acf17/[Programming exercises: Speed up Rust builds (#10421)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/6fc669b2839ca3a5797b15b1595d471df959fb57/[Quiz exercises: Allow decimal point values for quiz questions (#10232)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2696734b3334a7edf9825883864b5860032123cd/[Iris: Add lecture transcription storage (#10487)]
+* link:https://www.github.com/ls1intum/Artemis/commit/62da665c2288357898bb133cd498ea830faaa6f1/[General: Add passkey login option (#10656)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ae77631d469530feab1e4517353d94fb6bee14d4/[Development: Remove unused quiz pool code (#10598)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a9d27c1c25551ef1f8675f277705d2626b0afea9/[Development: Add version number to push token registration (#10384)]
+* link:https://www.github.com/ls1intum/Artemis/commit/5c7250b2a6507b96dc671649015cb8ebaa1c45b3/[Development: Combine new initial database scheme]
+* link:https://www.github.com/ls1intum/Artemis/commit/e13082762fa594d1fcb72fbaf0cb6e92207cad1e/[Development: Migrate file URL paths for various entities (#10433)]
+* link:https://www.github.com/ls1intum/Artemis/commit/306491a0d0252a36fab2a7281433d683e728ee0f/[Development: Fix database selection for system-specific database migrations (#10635)]
+* link:https://www.github.com/ls1intum/Artemis/commit/168f4f508a02448e1d4c79b1692220813abe5191/[Lectures: Allow hiding and reordering of Lecture Unit slide pages (#10533)]
+* link:https://www.github.com/ls1intum/Artemis/commit/cca093e9edbeb456157c3b35be42c57b823b2766/[Development: Simplify profile service and remove guided tours (#10663)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f3fa20bce85f4d78afa2c736171aeb619949a545/[Development: Improve database scheme (#10603)]
+* link:https://www.github.com/ls1intum/Artemis/commit/67431c807d27bdf6a108ff2aaa8ecca241c2ca8a/[Development: Fix handling of enum attributes when using PostgreSQL databases (#10637)]
+* link:https://www.github.com/ls1intum/Artemis/commit/bca8ef6d5c13cf21cc1e3fccf305fb93d5cc7ac2/[Development: Add services for course wide notification system (#10439)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a84ff1294a73e1b4dcf651ebe52b5090bbee7cc8/[Exam mode: Allow to participate multiple times in test exams (#10340)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8a96c65e037371276e1c0086a5ab05882a4ed787/[Development: Remove legacy notification data model (#10699)]
+* link:https://www.github.com/ls1intum/Artemis/commit/0753cb5b4abf8b5d8ceb7d3f3e50565fa794b4fd/[General: Add LTI integration for Atlas, Iris, and Lectures (#10338)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2dc839c4c7bb6276c599667b8e497ddd8b528216/[Development: Delete unused modeling database tables]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/1d0212f762bb32e9a366dc9d0f2d1ef318542963/[Development: Improve development docker multinode setup documentation (#10685)]
+* link:https://www.github.com/ls1intum/Artemis/commit/b80b9e6f24142b8487969945b0c3a0c189b2ea7a/[Development: Standardize Dockerfile syntax (#10459)]
+* link:https://www.github.com/ls1intum/Artemis/commit/51205f0cdad732a9a37ae935ec8f359992d0fdaa/[Development: Update docker image versions]
+* link:https://www.github.com/ls1intum/Artemis/commit/13a03a629ec2af590a1f2b67972f01b8c3e71a42/[Development: Remove Gitlab support (#10382)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a3701701473b5eb4ddd35e904d4cc8015fc98e32/[Development: Fix broken pdf preview for lecture attachments and attachment units also for windows (#10703)]
+* link:https://www.github.com/ls1intum/Artemis/commit/cca093e9edbeb456157c3b35be42c57b823b2766/[Development: Simplify profile service and remove guided tours (#10663)]
+* link:https://www.github.com/ls1intum/Artemis/commit/d4223d40b7cb06ede88ade845a3a506d497e2d04/[Development: Remove spring jpa database type configuration for postgres in docker (#10670)]
+* link:https://www.github.com/ls1intum/Artemis/commit/62f3fea6df1c19d805379538180311e87e8c61a3/[Development: Reuse built Docker image for E2E tests (#10541)]
+* link:https://www.github.com/ls1intum/Artemis/commit/e13ef705df985fcd184f3318dbdcd51a42ffc0c2/[Development: Migrate E2E Tests from Bamboo to GitHub Actions (#10452)]
+* link:https://www.github.com/ls1intum/Artemis/commit/86bc5e1900796332315ac12ea1c1bd3ac2855d0a/[General: Prefix REST paths with respective module name (#10416)]
+* link:https://www.github.com/ls1intum/Artemis/commit/9ee446acc221457e3ae15571e72283aa72cd85d2/[Development: Update saml2 config properties (#10694)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/8f9d42bc1ddc83f932f34e68f0b6df061c0349af/[Programming exercises: Enable static code analysis for C++ with LocalCI (#10453)]
+* link:https://www.github.com/ls1intum/Artemis/commit/b3754bfec49c143cb38ae55b5e676650ed6fd877/[Programming exercises: Enable static code analysis for TypeScript with LocalCI (#10373)]
+* link:https://www.github.com/ls1intum/Artemis/commit/bb606bc2a0e6c6ec46c6ef97bdd0e273dd608310/[Programming exercises: Improve DejaGnu template (#10409)]
+* link:https://www.github.com/ls1intum/Artemis/commit/13a03a629ec2af590a1f2b67972f01b8c3e71a42/[Development: Remove Gitlab support (#10382)]
+* link:https://www.github.com/ls1intum/Artemis/commit/07c1d78e59fec8feaa6ca2877bf0519a4895f5f3/[Communication: Add new course wide notifications (#10597)]
+* link:https://www.github.com/ls1intum/Artemis/commit/6ae0e9a427b70b7801d273c28601e82197cceb32/[Programming exercises: Fix declared R dependencies not being installed (#10545)]
+* link:https://www.github.com/ls1intum/Artemis/commit/cca093e9edbeb456157c3b35be42c57b823b2766/[Development: Simplify profile service and remove guided tours (#10663)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f3fa20bce85f4d78afa2c736171aeb619949a545/[Development: Improve database scheme (#10603)]
+* link:https://www.github.com/ls1intum/Artemis/commit/e8c540d8ca4aca5da1a31d81fc868a9c5e8a5094/[Communication: Add notifications for channel management, exercises and tutorials (#10659)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ffcb382e85563af3dd36591113e0c1cd2b03bdbd/[Programming exercises: Enable static code analysis for R with LocalCI (#10577)]
+* link:https://www.github.com/ls1intum/Artemis/commit/4b58506927d30178df545ce6ed58ea17bf013cf6/[Development: Update C# exercise dependencies (#10588)]
+* link:https://www.github.com/ls1intum/Artemis/commit/533fc66d7dd2081701ed1dfc555d047fbf7acf17/[Programming exercises: Speed up Rust builds (#10421)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8a96c65e037371276e1c0086a5ab05882a4ed787/[Development: Remove legacy notification data model (#10699)]
+* link:https://www.github.com/ls1intum/Artemis/commit/810524c19f1521b349964f3850adc087f461f210/[Programming exercises: Enable static code analysis for JavaScript with LocalCI (#10372)]

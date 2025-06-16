@@ -1,0 +1,25 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.10.2
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.10.2[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/b16a4189908d33ef892e402f5bd638436f00573b/[Programming exercises: Enable static code analysis for Rust with LocalCI (#10328)]
+* link:https://www.github.com/ls1intum/Artemis/commit/aef9f65bfd9865cc15066573524dc8c080d7db67/[Development: Add mobile app version compatibility (#10339)]
+* link:https://www.github.com/ls1intum/Artemis/commit/02f5abaec37187a42ad5066ae5cfd167783876c0/[Programming exercises: Enable static code analysis for Dart with LocalCI (#10354)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/78649aa8d0efe3597181f899f8dc3a703366092e/[Development: Add database index to build job buildSubmissionDate]
+* link:https://www.github.com/ls1intum/Artemis/commit/95a2c50242532b377122e47899d2f32f2ec6b3e4/[Development: Add Atlas Profile with optionally autowired Atlas Java API (#9936)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/b16a4189908d33ef892e402f5bd638436f00573b/[Programming exercises: Enable static code analysis for Rust with LocalCI (#10328)]
+* link:https://www.github.com/ls1intum/Artemis/commit/02f5abaec37187a42ad5066ae5cfd167783876c0/[Programming exercises: Enable static code analysis for Dart with LocalCI (#10354)]

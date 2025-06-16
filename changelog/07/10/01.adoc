@@ -1,0 +1,27 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.10.1
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.10.1[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/41909cb013b409f2a09d462bdf63ba0def31cda8/[Programming exercises: Add Dart programming exercise template (#10265)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/cf1ea29a91d4339e834f55fd1105bdb982877140/[Integrated code lifecycle: Save and update build job to database at the start of the process (#10001)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/04f924292f63939cec869c5dd06355646a2ae257/[Development: Update dependencies]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/41909cb013b409f2a09d462bdf63ba0def31cda8/[Programming exercises: Add Dart programming exercise template (#10265)]
+* link:https://www.github.com/ls1intum/Artemis/commit/0da89f8d396406e118109166793f9e462fdb8e70/[Development: Reduce number of flaky server tests (#10302)]

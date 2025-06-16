@@ -1,0 +1,11 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.0.4
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.0.4[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/e722184d8a7d208e5c6bea98dce04813624997ae/[Development: Update config for apple-site-association-file (#10760)]

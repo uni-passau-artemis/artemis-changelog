@@ -1,0 +1,16 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.1.3
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.1.3[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/3150adef6048a7ca31f48e219e3180d48f6407af/[Development: Turn off lazy server initialization until a proper solution is implemented]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/101ef99ebb2bfa5543ca037024cc8c485b27de31/[Development: Make competencies in learning paths transient (#10812)]

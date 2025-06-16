@@ -1,0 +1,11 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.0.6
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.0.6[Full Release Notes]
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/d2435767c44bf019c8b8de125aae440fd4ee0eb9/[Development: Add playwright e2e client coverage (#10539)]

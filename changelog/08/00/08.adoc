@@ -1,0 +1,17 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.0.8
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.0.8[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/407fc5ec39d7b6a231e12675e1317c91055f01d8/[Development: Update server dependencies]
+* link:https://www.github.com/ls1intum/Artemis/commit/9374a67d0b46bec7ad13a2b36653fb3e3ed52f3e/[General: Add ability to sync user's name from SAML2 (#10861)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/419dffc899c5b9b91ba9f10d128cd234a4b83ba1/[Development: Remove outdated profile info value imprint]

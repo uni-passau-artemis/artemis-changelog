@@ -1,0 +1,26 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 7.10.5
+
+link:https://github.com/ls1intum/Artemis/releases/tag/7.10.5[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/67c5f09831e13fb126a004466b7fd19448d6b17c/[Programming exercises: Enable static code analysis for TypeScript with LocalCI (#10373)]
+* link:https://www.github.com/ls1intum/Artemis/commit/9869dc6d9330f337635a5ad48410475bebde1005/[Integrated code lifecycle: Allow instructors to configure docker performance flags (#10356)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a06173f82dac2bd7f1a4fb5b49d762f44c36b80d/[Programming exercises: Enable static code analysis for JavaScript with LocalCI (#10372)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/eec62d3c0df7fa9431b88361461b9a0f6274c636/[Development: Add version number to push token registration (#10384)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2330cd2e6575172c122756289f314289460516b3/[Quiz exercises: Allow decimal point values for quiz questions (#10232)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/67c5f09831e13fb126a004466b7fd19448d6b17c/[Programming exercises: Enable static code analysis for TypeScript with LocalCI (#10373)]
+* link:https://www.github.com/ls1intum/Artemis/commit/7a93f38c4fed1faa4238ca9d7e2c63794a2ead91/[Programming exercises: Improve DejaGnu template (#10409)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a06173f82dac2bd7f1a4fb5b49d762f44c36b80d/[Programming exercises: Enable static code analysis for JavaScript with LocalCI (#10372)]

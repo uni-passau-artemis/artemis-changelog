@@ -1,0 +1,13 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.0.7
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.0.7[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/d9478134b3473684a9e107e3a3f890f815d405e6/[Development: Make passkey setup optional after login for users (#10822)]
+* link:https://www.github.com/ls1intum/Artemis/commit/996666916b5bdda691994ba262b3e97022ae3aaa/[Development: Adjust assetlinks.json for Android passkeys (#10820)]
+* link:https://www.github.com/ls1intum/Artemis/commit/b2079a796315775b791e27a94b4cfded4a7e215f/[Development: Improve ssh config code and avoid config issues during server test (#10836)]
