@@ -9,6 +9,7 @@ import re
 from collections.abc import Generator, Iterable
 from enum import Enum
 from pathlib import Path
+from typing import Final
 
 import git
 import more_itertools
@@ -16,6 +17,8 @@ import semver
 from git.cmd import Git
 from git.objects.commit import Commit
 from jinja2 import Environment, PackageLoader, Template, select_autoescape
+
+_log: Final[logging.Logger] = logging.getLogger(__name__)
 
 
 class Sections(Enum):
@@ -84,8 +87,10 @@ def get_changed_paths(commit: Commit) -> Generator[str, None, None]:
     # Artemis has no merge commits on the `develop` branch which would have multiple
     # parents -> only look at the first (and only) one
     for diff in commit.diff(next(commit.iter_parents())):
-        yield diff.a_path
-        yield diff.b_path
+        if diff.a_path:
+            yield diff.a_path
+        if diff.b_path:
+            yield diff.b_path
 
 
 def collect_changed_paths(
@@ -98,7 +103,7 @@ def collect_changed_paths(
         Sections.TEMPLATE: set(),
     }
 
-    logging.info("Comparing versions %s and %s...", previous_release, latest_release)
+    _log.info("Comparing versions %s and %s...", previous_release, latest_release)
 
     for commit in get_commits(latest_release, previous_release):
         for changed_path in get_changed_paths(commit):
