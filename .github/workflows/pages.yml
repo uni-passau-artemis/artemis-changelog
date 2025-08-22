@@ -53,7 +53,7 @@ jobs:
       - name: Convert to HTML
         run: bundle exec asciidoctor changelog/index.adoc -o _static/index.html
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: '_static/'
       - name: Deploy to GitHub Pages
