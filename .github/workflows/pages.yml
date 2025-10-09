@@ -46,7 +46,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3'
+          ruby-version: '3.0.7'
           bundler-cache: true
       - name: Create static HTML directory
         run: mkdir -p _static/
