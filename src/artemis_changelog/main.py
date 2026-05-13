@@ -55,10 +55,16 @@ def fetch_repo(url: str, target_path: Path) -> git.Repo:
 
 
 def get_release_tags(repo: git.Repo) -> list[tuple[semver.VersionInfo, git.Tag]]:
+    def _to_semver(tag_name: str) -> str:
+        dots_count = tag_name.count(".")
+        if dots_count == 1:
+            return f"{tag_name}.0"
+        return tag_name
+
     return [
-        (semver.VersionInfo.parse(tag.name), tag)
+        (semver.VersionInfo.parse(_to_semver(tag.name)), tag)
         for tag in repo.tags
-        if re.match(r"^\d+\.\d+\.\d+$", tag.name)
+        if re.match(r"^\d+\.\d+(\.\d+)?$", tag.name)
     ]
 
 
