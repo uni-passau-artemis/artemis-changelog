@@ -1,0 +1,31 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.8.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.8.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/668fd09affc1315548cd63d78ce6a623299057a9/[Development: Improve Hazelcast cluster stability with build agent client mode (#12051)]
+* link:https://www.github.com/ls1intum/Artemis/commit/dcff36190456f927e2695b50b333c665010a2cf6/[General: Allow users to choose between Cloud AI, On-Premise AI, and No AI (#11845)]
+* link:https://www.github.com/ls1intum/Artemis/commit/9f0a031f223afc3a7faaa32f6187ffa062bd288a/[Hyperion: Add token usage tracking for consistency check and rewrite features (#11802)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f22511749550c7a4570a82f614742ccf7de77b83/[Iris: Migrate from Spring Profile to YAML configuration (#12007)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/dcff36190456f927e2695b50b333c665010a2cf6/[General: Allow users to choose between Cloud AI, On-Premise AI, and No AI (#11845)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/45192421d91b95457494c6fb6dd50fdffbed9188/[Development: Make database image selectable in docker compose deployment via env variable (#12049)]
+* link:https://www.github.com/ls1intum/Artemis/commit/bddfa8a222f1818e6d7f59a167eb2c9e84633afc/[Development: Update links from old documentation to new documentation (#12041)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2817a8f6dd033625e91a45e4cb7960397619e775/[Development: Optimize e2e execution pipeline (#11977)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/bddfa8a222f1818e6d7f59a167eb2c9e84633afc/[Development: Update links from old documentation to new documentation (#12041)]

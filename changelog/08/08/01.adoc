@@ -1,0 +1,16 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.8.1
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.8.1[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/5c26246d0f93de6feca851b0ee455ffecee176d4/[Development: Add weaviate client configuration (#12028)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/5c26246d0f93de6feca851b0ee455ffecee176d4/[Development: Add weaviate client configuration (#12028)]

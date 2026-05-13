@@ -1,0 +1,26 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 9.2.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/9.2.0[Full Release Notes]
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/f501ab392e1d4b7974fa49604c9e63af687a1f1b/[Iris: Unify chat session types, services, repositories and resources  (#12504)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/545a9d5308ec4372aa699f64cdefb030ebb07126/[Development: Add fast multi-node E2E runner that launches nodes from WAR (#12679)]
+* link:https://www.github.com/ls1intum/Artemis/commit/107ef35575ee64b504211b93c8f684c6a39d08e4/[Development: Speed up build workflow by reusing .war artifact for the PR docker image (#12692)]
+* link:https://www.github.com/ls1intum/Artemis/commit/848fb3df4237b606f33dca3befa8eeb802f82aec/[Development: Stabilize CI pipeline (#12677)]
+* link:https://www.github.com/ls1intum/Artemis/commit/34b675d6697b6b434763a001d4417f23593ad2c7/[Development: Fix local Moodle LTI setup (#12511)]
+* link:https://www.github.com/ls1intum/Artemis/commit/e93d04045ddba211e95f6f0dd5a2f841af61f75d/[Programming exercises: Remove Aeolus (#12536)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/d03a856e3c8488e0c5b78a881186472eaf29a526/[Development: Update dependencies (#12676)]
+* link:https://www.github.com/ls1intum/Artemis/commit/e93d04045ddba211e95f6f0dd5a2f841af61f75d/[Programming exercises: Remove Aeolus (#12536)]

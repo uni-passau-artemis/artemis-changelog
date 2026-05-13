@@ -1,0 +1,29 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.7.4
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.7.4[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/b1a19ee36f54fe8857f2c5d6b17787fb6110897a/[Development: Migrate LTI from profile to yml configuration and fix admin edit screen (#12003)]
+* link:https://www.github.com/ls1intum/Artemis/commit/5b76b5d60fe7016ac923e5d3e54b1b4eec850599/[Development: Add rate limit (#11953)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/10800e07a56ca3c8e9f877a0b7e1869917220ac9/[Exam mode: Fix inconsistencies regarding an exam room's uniqueness (#11827)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a4d0eaf06d6558768c7612281b38572b190d8b82/[Development: Update exercise score setting constraints  (#11779)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/dfd9b6aab7e4087f48d0b02809fdfcbcccba41e9/[Development: Update dependencies]
+* link:https://www.github.com/ls1intum/Artemis/commit/8a98ab552dbb6095f90916429efbc92cd147d80d/[Development: Add Weaviate setup description (#11962)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/9f71472e203ad89716460d685c0c50a3a5ba7121/[General: Fix an issue in data export for exam exercises (#12002)]

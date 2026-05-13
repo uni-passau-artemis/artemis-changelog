@@ -1,0 +1,11 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.7.3
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.7.3[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/19afb6eb93a9732318c13496d97aaae221aa256e/[Development: Use a more reasonable caching policy for plant uml renderings]

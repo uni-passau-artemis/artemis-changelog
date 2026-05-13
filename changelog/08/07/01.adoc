@@ -1,0 +1,33 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.7.1
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.7.1[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/e8c2ba670c575636f1bf464359c0b8525a745f35/[Development: Increase default retention period for vcs access log]
+* link:https://www.github.com/ls1intum/Artemis/commit/d4bc478d580e38f4a8f5ec5493753416d22107e5/[Development: Add feature module toggles for modeling, file upload and lecture modules (#11899)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a2dbd11a33d7e5ebe9f78935a79f9a35354fd276/[Development: Allow admins to customize max feedback lenght]
+* link:https://www.github.com/ls1intum/Artemis/commit/92d388fc7d0d61d09817af7aa78f7f38f22176e0/[Programming exercises: Allow arbitrary docker networks instead of network toggle (#11604)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8cac1449c27e9e8e4f99a6ea2be1c3929f9151aa/[Development: Automatically clean up old build job entries after 365 days]
+* link:https://www.github.com/ls1intum/Artemis/commit/cd545d0a6697293d3d2f19bc65790a7b5d51ed67/[Development: Fix an architecture test]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/dead6e572d4d7e665e9e4ca6c6c163ee0e73a75d/[Development: Drop old iris settings tables]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/1ee7c879ceced80ad684fc14e4a6ea0e01385944/[General: Add course import and implement reset, delete and data export improvements (#11885)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2bc455b1fdea0983c13d033e61f1b8335a7d0f05/[Development: Allow to run e2e tests locally with postgres]
+* link:https://www.github.com/ls1intum/Artemis/commit/795990c5e3539c3e8596c1ae64c2014f49a9a2ca/[Development: Fix failing e2e tests (#11880)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/1ee7c879ceced80ad684fc14e4a6ea0e01385944/[General: Add course import and implement reset, delete and data export improvements (#11885)]

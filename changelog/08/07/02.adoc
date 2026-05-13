@@ -1,0 +1,31 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.7.2
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.7.2[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/8d7958c8c2bf5321629247ca77294da9a3d48547/[Programming exercises: Upgrade Java Blackbox template to Java 25 (#11835)]
+* link:https://www.github.com/ls1intum/Artemis/commit/1e23f06da0f9edacc92df59e1ea68d5e5e841610/[General: Add super admin role and allow super admin to approve passkeys (#11859)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8dd51cbbab796d40080058e3e4bdc76c29e5a51b/[Adaptive learning: Allow instructors to improve competency creation through companion interaction (#11944)]
+* link:https://www.github.com/ls1intum/Artemis/commit/41ce9b24db8f5a82ef48677ec35c9c73eaf19c3e/[General: Show dependencies and vulnerabilities in an admin page (#11982)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/1e23f06da0f9edacc92df59e1ea68d5e5e841610/[General: Add super admin role and allow super admin to approve passkeys (#11859)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/91e9b5e323dbd1ae2403b15d6cc037422a5ad843/[Infrastructure: Upgrade Nginx healthcheck to HTTP-based probing (#11955)]
+* link:https://www.github.com/ls1intum/Artemis/commit/41ce9b24db8f5a82ef48677ec35c9c73eaf19c3e/[General: Show dependencies and vulnerabilities in an admin page (#11982)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/8d7958c8c2bf5321629247ca77294da9a3d48547/[Programming exercises: Upgrade Java Blackbox template to Java 25 (#11835)]
+* link:https://www.github.com/ls1intum/Artemis/commit/41ce9b24db8f5a82ef48677ec35c9c73eaf19c3e/[General: Show dependencies and vulnerabilities in an admin page (#11982)]

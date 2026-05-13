@@ -1,0 +1,16 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.8.3
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.8.3[Full Release Notes]
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/3a9e94b3cf2b4bd580c6114f092288d7311b4cf6/[General: Format maintenance email dates in server timezone with locale awareness (#12178)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/3a9e94b3cf2b4bd580c6114f092288d7311b4cf6/[General: Format maintenance email dates in server timezone with locale awareness (#12178)]

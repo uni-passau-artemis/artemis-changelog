@@ -1,0 +1,18 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 9.1.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/9.1.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/25d489be41f517e59b8ca983d9e98a0d528dcf6e/[General: Remove Nebula package and relocate TUM Live integration (#12537)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8e35855c947192cd9bdb631a6592ccf63f8170ef/[Communication: Update Hermes push notification relay URLs (#12525)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/7f53841d9ca8d815d58315f1a143375bf0d8d25e/[Development: Update client dependencies (#12490)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c5ebf6889563a8485afa5a7d0a6c793e667d0139/[Development: Update rand and python-dotenv dependencies (#12573)]

@@ -1,0 +1,20 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.7.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.7.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/47b9d301f8da419b247d0e061812ab50ea883b20/[Hyperion: Add AI code generation assistance for template, solution, and tests repositories (#11405)]
+* link:https://www.github.com/ls1intum/Artemis/commit/73c176e3f0c2bafbddb7d96118ca0b4b0313d955/[Development: Remove trace field from console log output]
+* link:https://www.github.com/ls1intum/Artemis/commit/5bb9f7113e6744aac8a4d4422e14233c9bbb88b0/[Iris: Replace complex multi-tier settings system with simple course settings (#11830)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/5bb9f7113e6744aac8a4d4422e14233c9bbb88b0/[Iris: Replace complex multi-tier settings system with simple course settings (#11830)]
+* link:https://www.github.com/ls1intum/Artemis/commit/eacc9919dc87bc75e0684310d139443745a7e6c5/[Quiz exercises: Open all quizzes for practice after due date (#11709)]
+* link:https://www.github.com/ls1intum/Artemis/commit/b1be594db5d4cb2d83e41cd31eceed185113c469/[Lectures: Process videos automatically with retry and status tracking (#11824)]

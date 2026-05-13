@@ -1,0 +1,18 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 9.1.2
+
+link:https://github.com/ls1intum/Artemis/releases/tag/9.1.2[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/b482922c384ff5b20ed3add9b232e71d8e2de08c/[Development: Replace string based delegation markers with Spring AI tool calls (#12373)]
+* link:https://www.github.com/ls1intum/Artemis/commit/79d76d111a0994e199ca13e76b89a05b0149a477/[Development: Remove Hibernate L2 entity caches and disable second-level cache (#12594)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/5aeb9373e6b4a6d75d92fc4b4fc43731744e2a14/[Development: Update pmd to 7.22.0 in Java exercise templates (#12593)]
+* link:https://www.github.com/ls1intum/Artemis/commit/334ae97137cc13b854332b971210384056841962/[Development: Update documentation dependencies]

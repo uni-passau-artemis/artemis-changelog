@@ -1,0 +1,30 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.8.2
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.8.2[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/dadbe3cd1dcc83da699610fde91adac32c1f98b8/[Development: Migrate Theia from Spring Profile to YAML configuration (#12017)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/896746b14627aa53612616b2a6410bc79a34a21b/[Development: Add domain model, database schema, service and resource for exercise review (#11967)]
+* link:https://www.github.com/ls1intum/Artemis/commit/647d68985f3cbf587b6f1d26b218b8667e2093f0/[General: Allow admins to send maintenance announcement emails to instructors (#12168)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/7394196e1fc9766685e4f579550fe7a98aba5599/[Development: Fix Phase 2 of E2E Pipeline (#12133)]
+* link:https://www.github.com/ls1intum/Artemis/commit/7c96a78fe06abc7741462571564851d3cf7e10b5/[Development: Ensure language guidelines adherence (#12159)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/a6e583d84e865648c482497cf69a86e93dde735f/[General: Fix email not sent for course requests (#12142)]
+* link:https://www.github.com/ls1intum/Artemis/commit/7c96a78fe06abc7741462571564851d3cf7e10b5/[Development: Ensure language guidelines adherence (#12159)]
+* link:https://www.github.com/ls1intum/Artemis/commit/647d68985f3cbf587b6f1d26b218b8667e2093f0/[General: Allow admins to send maintenance announcement emails to instructors (#12168)]

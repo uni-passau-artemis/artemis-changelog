@@ -1,0 +1,51 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 9.0.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/9.0.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/0e32dd92b667c78b4b451745f6bab9c011a50028/[Development: Add weaviate OpenAI API support (#12324)]
+* link:https://www.github.com/ls1intum/Artemis/commit/90899061e3410693577108aef9ac0e92304af8c3/[Development: Improve Sentry privacy compliance (#12357)]
+* link:https://www.github.com/ls1intum/Artemis/commit/df4d07230a0deec7011bb644216fdea76497c948/[Integrated code lifecycle: Prioritize token authentication as default repository auth method (#12456)]
+* link:https://www.github.com/ls1intum/Artemis/commit/804482a29117138508d19a61066eba9bc9f9684e/[Development: Write exercise metadata to Weaviate (#12127)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a4236f9a24ae6cf032a752174194ab9076b575e6/[Iris: Add MCQ carousel, response persistence, and content-aware quiz generation (#12355)]
+* link:https://www.github.com/ls1intum/Artemis/commit/7898a814d0ff98c663370bb982e347845385a1e2/[Development: Fix lazy initialization exception on account endpoint (#12477)]
+* link:https://www.github.com/ls1intum/Artemis/commit/d886ff7819434ececae25b3ade1a9dd9b0e9d0b6/[Learning analytics: Fix AtlasML health indicator and configuration defaults (#12197)]
+* link:https://www.github.com/ls1intum/Artemis/commit/4498bd0b103d6466f80a9dda05a9022addadb69e/[Development: Upgrade to Spring Boot 4, Spring Framework 7, and Spring AI 2.0.0-M4 (#12381)]
+* link:https://www.github.com/ls1intum/Artemis/commit/157c4b5f84683828942df62d0cb9b274ccebbd1b/[Development: Add embedding model to Weaviate setup (#12021)]
+* link:https://www.github.com/ls1intum/Artemis/commit/6de5378e9061449de14abe724d4deb65a20067d6/[Programming exercises: Update fact docker image (#12266)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/8c1cdcd7e5abc499a92cbef4d2c1132e74ea2ca8/[Development: Speed up e2e tests by switching to C and fixing flaky tests (#12240)]
+* link:https://www.github.com/ls1intum/Artemis/commit/e24305b3186562e6edb91656a785bfb007a4de55/[General: Add course onboarding wizard and improve course overview page (#12285)]
+* link:https://www.github.com/ls1intum/Artemis/commit/b6b0e03e07c4853568a833395d2ab3ca16b361d3/[Adaptive learning: Remove Judgement of Learning (JOL) feature (#12288)]
+* link:https://www.github.com/ls1intum/Artemis/commit/55663e6936759e4eeac89ca2c16e32f11aaefd6a/[Development: Speedup count students in group for postgres (#12374)]
+* link:https://www.github.com/ls1intum/Artemis/commit/4498bd0b103d6466f80a9dda05a9022addadb69e/[Development: Upgrade to Spring Boot 4, Spring Framework 7, and Spring AI 2.0.0-M4 (#12381)]
+* link:https://www.github.com/ls1intum/Artemis/commit/15e2f9f3e118991ac30638b044bfe539c0a1b087/[Development: Consolidate database schema for 9.0 release (#12401)]
+* link:https://www.github.com/ls1intum/Artemis/commit/be5a42d596635414d09bda517cc0d9b432f2904f/[Tutorial groups: Improve tutorial group management (#12096)]
+* link:https://www.github.com/ls1intum/Artemis/commit/e2ee1d1f1ca881a32965f2ade641a85d0324000a/[Iris: Enable Memiris by default (#12232)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/48224614354597d860ed0fd08e4f9b8a815973a1/[Development: Improve local development setup and fix passkey saml2 conflict (#12241)]
+* link:https://www.github.com/ls1intum/Artemis/commit/0e32dd92b667c78b4b451745f6bab9c011a50028/[Development: Add weaviate OpenAI API support (#12324)]
+* link:https://www.github.com/ls1intum/Artemis/commit/18537dd39b1a8d676ea8645b165d54c7d1bcaf2b/[Development: Switch e2e tests from mysql to postgres (#12313)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8c1cdcd7e5abc499a92cbef4d2c1132e74ea2ca8/[Development: Speed up e2e tests by switching to C and fixing flaky tests (#12240)]
+* link:https://www.github.com/ls1intum/Artemis/commit/bc751eac9a28c2df2cdd08cafb257d59ca6a259f/[Development: Stabilize all e2e tests execution modes (#12316)]
+* link:https://www.github.com/ls1intum/Artemis/commit/157c4b5f84683828942df62d0cb9b274ccebbd1b/[Development: Add embedding model to Weaviate setup (#12021)]
+* link:https://www.github.com/ls1intum/Artemis/commit/acc8f67be0451a263a42319681f64c620bdc4d72/[Development: Integrate custom E2E reports dashboard for test reporting (#12202)]
+* link:https://www.github.com/ls1intum/Artemis/commit/99d6e768eab4b76ffbe855c7c4d950e671724edc/[Development: Fix flaky and broken E2E tests (#12340)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/c69aad865159562a3f3b0e2c1d975c4ee735d0fd/[General: Improve participation user experience (#12335)]
+* link:https://www.github.com/ls1intum/Artemis/commit/e24305b3186562e6edb91656a785bfb007a4de55/[General: Add course onboarding wizard and improve course overview page (#12285)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8c1cdcd7e5abc499a92cbef4d2c1132e74ea2ca8/[Development: Speed up e2e tests by switching to C and fixing flaky tests (#12240)]
