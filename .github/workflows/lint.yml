@@ -25,9 +25,6 @@ jobs:
       - name: Install the project
         run: uv sync --all-extras --dev
 
-      - name: Check imports with isort
-        run: uv run isort --check-only . --profile black
-
       - name: Check formatting
         run: uv run ruff format --diff --check .
 

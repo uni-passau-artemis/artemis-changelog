@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2024 Artemis Changelog Contributors
+# SPDX-FileCopyrightText: 2024-2026 Artemis Changelog Contributors
 #
 # SPDX-License-Identifier: EUPL-1.2
 
@@ -20,17 +20,12 @@ dependencies = [
 
 [dependency-groups]
 dev = [
-    "isort>=6.0.0",
-    "mypy>=1.14.1",
+    "mypy>=2.0.0",
     "pre-commit>=4.0.1",
     "pyupgrade>=3.19.1",
     "reuse>=5.0.2",
-    "ruff>=0.11.0",
+    "ruff>=0.15.0",
 ]
-
-
-[tool.isort]
-profile = "black"
 
 
 [tool.mypy]
@@ -49,8 +44,6 @@ output-format = "full"
 select = ["ALL"]
 ignore = [
     "D",
-    "E501", # line length managed by formatter
-    "ISC001", # conflict with formatter
     "COM812" # trailing comma managed by formatter
 ]
 exclude = [
@@ -67,5 +60,5 @@ max-complexity = 10
 
 
 [build-system]
-requires = ["setuptools >= 61.0"]
-build-backend = "setuptools.build_meta"
+requires = ["uv_build>=0.11.14,<0.12"]
+build-backend = "uv_build"

@@ -1,12 +1,13 @@
-# SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+# SPDX-FileCopyrightText: 2023-2026 Artemis Changelog Contributors
 #
 # SPDX-License-Identifier: EUPL-1.2
 
+---
 # See https://pre-commit.com for more information
 # See https://pre-commit.com/hooks.html for more hooks
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v5.0.0
+    rev: v6.0.0
     hooks:
       - id: check-ast
       - id: check-builtin-literals
@@ -16,33 +17,21 @@ repos:
       - id: check-yaml
       - id: check-added-large-files
       - id: mixed-line-ending
-        args: [ --fix=lf ]
+        args: [--fix=lf]
 
   - repo: https://github.com/asottile/pyupgrade
-    rev: v3.19.1
+    rev: v3.21.2
     hooks:
       - id: pyupgrade
-        args: [ --py312-plus ]
-
-  - repo: https://github.com/PyCQA/isort
-    rev: 5.13.2
-    hooks:
-      - id: isort
-        args: [ --profile, black ]
-
-  - repo: https://github.com/psf/black
-    rev: 24.10.0
-    hooks:
-      - id: black
-        args: [ --config, ./pyproject.toml ]
+        args: [--py313-plus]
 
   - repo: https://github.com/charliermarsh/ruff-pre-commit
-    rev: v0.8.4
+    rev: v0.15.12
     hooks:
-      - id: ruff
-        args: []
+      - id: ruff-check
+      - id: ruff-format
 
   - repo: https://github.com/fsfe/reuse-tool
-    rev: v5.0.2
+    rev: v6.2.0
     hooks:
       - id: reuse
