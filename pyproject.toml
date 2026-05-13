@@ -4,15 +4,13 @@
 
 [project]
 name = "artemis-changelog"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 requires-python = ">=3.13"
 authors = [
     { name = "Benedikt Fein", email = "fein@fim.uni-passau.de" }
 ]
-classifiers = [
-    "License :: OSI Approved :: European Union Public Licence 1.2 (EUPL 1.2)",
-]
+license = "EUPL-1.2"
 dependencies = [
     "gitpython>=3.1.43",
     "jinja2>=3.1.5",

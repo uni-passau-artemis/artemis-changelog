@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+# SPDX-FileCopyrightText: 2023-2026 Artemis Changelog Contributors
 #
 # SPDX-License-Identifier: EUPL-1.2
 
