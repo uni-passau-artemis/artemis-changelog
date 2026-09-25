@@ -1,0 +1,11 @@
+// SPDX-FileCopyrightText: 2023-2026 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 9.9.3
+
+link:https://github.com/ls1intum/Artemis/releases/tag/9.9.3[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/0a088577d6f5419f262598a2a79f4bced8f59b8f/[Development: Improve authentication and validation]

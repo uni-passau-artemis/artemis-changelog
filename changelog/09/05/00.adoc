@@ -1,0 +1,34 @@
+// SPDX-FileCopyrightText: 2023-2026 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 9.5.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/9.5.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/4cb03ec749c6e0a367096e051baa85cd26f58746/[Development: Upgrade Spring AI to 2.0.0-RC2 and replace the xlsx dependency (#12895)]
+* link:https://www.github.com/ls1intum/Artemis/commit/6962b2cc2094bb203c79b7599a89abe1bc3833fb/[Adaptive learning: Strip flavor text from exercise content via LLM (#12885)]
+* link:https://www.github.com/ls1intum/Artemis/commit/4d4d4d2efc65da02080d19980853630769b425c3/[Development: Track LLM token usage and cost for atlas (#12883)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8bbd6c4bf8bc012cd0773305e41e35ed63cc2d7b/[Iris: Add admin monitoring dashboard with metrics, breakdowns, and email alerts (#12812)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/4cb03ec749c6e0a367096e051baa85cd26f58746/[Development: Upgrade Spring AI to 2.0.0-RC2 and replace the xlsx dependency (#12895)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8bbd6c4bf8bc012cd0773305e41e35ed63cc2d7b/[Iris: Add admin monitoring dashboard with metrics, breakdowns, and email alerts (#12812)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/7802a12237699d965ee1025cbd5eacb180b2a34b/[Development: Align weaviate server version (#12984)]
+* link:https://www.github.com/ls1intum/Artemis/commit/4afa669231f7774ccd60782a2938d17e683efe91/[Development: Upgrade to Spring Boot 4.1.0 and Spring Cloud 2025.1.2 (#12909)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/ff95ae46431c51da1b264e14cebc8324d86d44a2/[Development: Update transitive client and test dependencies (#12960)]
+* link:https://www.github.com/ls1intum/Artemis/commit/85c56efe9195b3f8ae552dbb8d44d736813c7480/[Development: Use DTOs for mail data handling (#12877)]
+* link:https://www.github.com/ls1intum/Artemis/commit/dc78d0f659db10c41e2109504f1e70841d728813/[Development: Update client dependencies (#12920)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8bbd6c4bf8bc012cd0773305e41e35ed63cc2d7b/[Iris: Add admin monitoring dashboard with metrics, breakdowns, and email alerts (#12812)]

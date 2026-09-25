@@ -1,0 +1,36 @@
+// SPDX-FileCopyrightText: 2023-2026 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 9.8.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/9.8.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/9521438e0e3326b4011edad9bf2713fee6edaa7e/[Development: Integrate OIDC authentication method (#13169)]
+* link:https://www.github.com/ls1intum/Artemis/commit/b1e27eeaaa03e4b41d72cbfe7f503e648dd544a6/[Development: Add AtlasML as Orchestrator Input (#13042)]
+* link:https://www.github.com/ls1intum/Artemis/commit/1b8646b31088791c9604f0732545d206bdcadb7d/[Development: Resolve LLM model-cost keys for dotted model names (#13033)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/9d268029763ec8f8e0cfd9324dad3ca21dbae591/[Lectures: Use SHA 256 for attachment versioning (#13210)]
+* link:https://www.github.com/ls1intum/Artemis/commit/0b3b8139867728fd4877bc30e979669fe5ee3932/[Performance: Speed up slow statistics, dashboard, and grade-score database queries (#13274)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f23cb73bb92c0471ab2f74069c0efb98d17f775a/[Lectures: Add retryable Iris and Pyris synchronization (#13211)]
+* link:https://www.github.com/ls1intum/Artemis/commit/131f26ef678c0baffb92f98e6c24631e2a0cae06/[Integrated code lifecycle: Add a user setting to view and revoke VCS access tokens (#13278)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8c31027a420c4d2565c733c47bf41a12a941abd2/[Iris: Tutor verification dashboard for autonomous tutor responses (#13213)]
+* link:https://www.github.com/ls1intum/Artemis/commit/bc494dc8a4ae4ec6414adf7b550264cae8f216b7/[Exam mode: Allow instructors to delay when the exam submission overview becomes visible to students (#13293)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a67783580bf059f0f9f045e05c1e16cdc68e9e7b/[Learning analytics: Remove the unused student course analytics dashboard (#13280)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/9521438e0e3326b4011edad9bf2713fee6edaa7e/[Development: Integrate OIDC authentication method (#13169)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/d8ca96ee0b4076114adf0095c840496d9b426f8b/[Development: Update dependencies (#13300)]
+* link:https://www.github.com/ls1intum/Artemis/commit/5aad0d0d1a66cf5b9346e8c5bd2881d85876a851/[Programming exercises: Stop AddressSanitizer stalling on its exit-time leak scan (#13321)]
+* link:https://www.github.com/ls1intum/Artemis/commit/63992cf99e53809a64dcd0dc0089aee97b38cfcc/[Development: Resolve dependabot alerts (#13320)]

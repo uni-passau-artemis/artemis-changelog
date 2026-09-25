@@ -1,0 +1,11 @@
+// SPDX-FileCopyrightText: 2023-2026 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 9.7.1
+
+link:https://github.com/ls1intum/Artemis/releases/tag/9.7.1[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/2adb4bbe2a6f27c1d6bd8d0984930347865c3585/[Development: Resolve LLM model-cost keys for dotted model names (#13033)]

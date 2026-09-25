@@ -1,0 +1,23 @@
+// SPDX-FileCopyrightText: 2023-2026 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 9.8.1
+
+link:https://github.com/ls1intum/Artemis/releases/tag/9.8.1[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/8b1a8aa6b406c3a05c13167446f92dd6edb616f2/[Development: Raise the metrics URI tag limit so endpoint metrics stop being dropped (#13367)]
+* link:https://www.github.com/ls1intum/Artemis/commit/5c7f279230b8c8b4337c5ef6822fda6898d37958/[Development: Prune the audit event table on two retention schedules (#13397) # Conflicts: #	documentation/docs/admin/cleanup-service.mdx #	src/main/java/de/tum/cit/aet/artemis/core/config/audit/AuditEventConstants.java]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/5c7f279230b8c8b4337c5ef6822fda6898d37958/[Development: Prune the audit event table on two retention schedules (#13397) # Conflicts: #	documentation/docs/admin/cleanup-service.mdx #	src/main/java/de/tum/cit/aet/artemis/core/config/audit/AuditEventConstants.java]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/6b9c99d069daf1a9b45e76c38ccf517890bade8e/[Development: Exempt the e2e stacks from the nginx request rate limits (#13412)]
+* link:https://www.github.com/ls1intum/Artemis/commit/de8323ac78a9f30a88e66072a65658c20e511bfc/[Development: Point nginx auth rate limits at the endpoints actually served (#13387)]

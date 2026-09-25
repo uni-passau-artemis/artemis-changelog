@@ -1,0 +1,30 @@
+// SPDX-FileCopyrightText: 2023-2026 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 9.4.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/9.4.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/18592374aeb89cfdba984f41b090ba5d92e0fc05/[Development: Split shared client module into foundation, shared-ui, editor (#12814)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2d55b12827704c4e69cd058fcd308eb7d7e3ff88/[Development: Add e2e tests for passkeys (#12761)]
+* link:https://www.github.com/ls1intum/Artemis/commit/84c12f32b8d19721fa5373c167ec612ea70dccb6/[Development: Remove faqEnabled property from course (#12841)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/5bd8f436489f5c89c63acf94264bd0d2a7c48446/[Iris: Detect and save slidepages (#12682)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/2d55b12827704c4e69cd058fcd308eb7d7e3ff88/[Development: Add e2e tests for passkeys (#12761)]
+* link:https://www.github.com/ls1intum/Artemis/commit/891a83d6340a378accc992e2a2c3bd2195260f47/[Development: Update dependencies]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/8deb12971ee8f43e657c329e46b27148cb0c3275/[Development: Stabilize flaky multi-node fast e2e tests (#12724)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a716c880cd5ea017d913afddef3533424b112e3c/[Programming exercises: Split build templates into compile and test phase for LocalCI (#12725)]

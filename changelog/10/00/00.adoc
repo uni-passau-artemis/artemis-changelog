@@ -1,0 +1,113 @@
+// SPDX-FileCopyrightText: 2023-2026 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 10.0.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/10.0.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/5ab95a195d0c7cf06ad05d16b5bfa0f4cafebb19/[Development: Require mobile app users to update to version 3.0.0 (#13903)]
+* link:https://www.github.com/ls1intum/Artemis/commit/0f2f368ecb48bcacc2fb22ab36c4d30acc6f10b5/[Integrated code lifecycle: Stop offering build agent password authentication when build agents use SSH (#13503)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f4928eea3e491cba6e7dad14671ac67ff6f6ec8f/[Infrastructure: Introduce a distributed data provider abstraction (#13352)]
+* link:https://www.github.com/ls1intum/Artemis/commit/baae34047abe39f68f1142ef3aa549252b1a3794/[Development: Make the LLM-backed Atlas features opt-in (#13910)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a0327061ecdc7ad7f3178411f55df10d9f3e7f64/[Development: Move Athena's feedback configuration from per-exercise to course level (#12921)]
+* link:https://www.github.com/ls1intum/Artemis/commit/de73e5e15104a46189a045b52c19679977ba9014/[Programming exercises: Make the build-agent SSH clone timeout configurable (#13713)]
+* link:https://www.github.com/ls1intum/Artemis/commit/78903b4b6b1f0f303d1780ea0ec6d8cb119bd724/[Integrated code lifecycle: Restrict build agent repository access to their current build jobs (#13515)]
+* link:https://www.github.com/ls1intum/Artemis/commit/cbdedcfda1368bc203dea2d63725de4b23456266/[Performance: Reduce redundant database work on the exam and git request paths (#13554)]
+* link:https://www.github.com/ls1intum/Artemis/commit/efa28f173e05a666eabb464dac6846e78c754319/[Infrastructure: Add Kubernetes-native LocalCI execution (#13375)]
+* link:https://www.github.com/ls1intum/Artemis/commit/4e8bb9333390a7024351b2f3fde5462875999112/[Development: Add luna responses support and shared tool budget for Atlas (#13794)]
+* link:https://www.github.com/ls1intum/Artemis/commit/7902a4043ce00d6345799946fd7d06229863fedb/[Development: Update dependencies (#13824)]
+* link:https://www.github.com/ls1intum/Artemis/commit/d9494f7c34d59a759d0bd1bde01d4a2308ed3449/[Development: Stop extending a passkey session once its passkey is gone (#13406)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2174c157d9ad21bf0c1510797da5cc387a05cc9c/[Development: Replace the terms frontend and backend (#13734)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c4ad32169fce9756c1298e31e992f3aa3e308ce2/[Development: Cache the client bundle for 30 days instead of 19 years (#13601)]
+* link:https://www.github.com/ls1intum/Artemis/commit/6c166fe3456a85f7f7bce32c4e59a513e1c07a39/[General: Add deimos malicious participation analysis (#13140)]
+* link:https://www.github.com/ls1intum/Artemis/commit/77e6fb400c0c2d8a4f8ac72f986c6c7f54593f0e/[Administration: Allow specific addresses to be exempt from the rate limits (#13552)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2e96c59faad8c3feb744dfddcc21c86069a50b51/[General: Require account activation only where a user can activate their own account (#13541)]
+* link:https://www.github.com/ls1intum/Artemis/commit/1bbe196396d620c1d0cadc1512bb4b04d9079b9b/[Administration: Add a built-in feature usage analysis page (#13497)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f22c7b97090011aaeaa5e80de7e06730248fa4fd/[Development: Fix SonarQube security and null findings, and forbid requireNonNull (#13739)]
+* link:https://www.github.com/ls1intum/Artemis/commit/e0a5c45ad66cb930e16676003b94fb112ff2c401/[Development: Split the audit log into three tables with separate retention (#13388)]
+* link:https://www.github.com/ls1intum/Artemis/commit/794a3a4dcdacf2233179a0f1a931482272856dfb/[Administration: Require passkeys for elevated administrator access (#13632)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ed955df5a4440fd804b8e13b1c95d47e99a5696e/[Iris: Add proactive struggle intervention (#13023)]
+* link:https://www.github.com/ls1intum/Artemis/commit/d5dffe60b4c4aa7984a7459959f3ebc90f861328/[Development: Trim the exam submission read path (#13782)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8b43ed141befe45daa3efb6dc120ea65120f73e6/[Development: Migrate the server from Jackson 2 to Jackson 3 (#13707)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/19a5ec79f52cf20a2551f23e0124a6a68f645061/[Development: Require the parent to be set for nine database relations (#13581)]
+* link:https://www.github.com/ls1intum/Artemis/commit/713f7ba507c0151f61eae250e9ddb1bd19908aae/[Development: Split automatic feedback into compact deduplicated tables (#13517)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a0327061ecdc7ad7f3178411f55df10d9f3e7f64/[Development: Move Athena's feedback configuration from per-exercise to course level (#12921)]
+* link:https://www.github.com/ls1intum/Artemis/commit/17f577dd2c2b4cc6680ad48b7fba32ade5ea86b4/[Development: Drop the unused reference index on the feedback table (#13513)]
+* link:https://www.github.com/ls1intum/Artemis/commit/bb5ce90c2a4d47f50e64df5d53f5b0623c1fb4e6/[Development: Require a parent for seventeen more entities (#13858)]
+* link:https://www.github.com/ls1intum/Artemis/commit/78903b4b6b1f0f303d1780ea0ec6d8cb119bd724/[Integrated code lifecycle: Restrict build agent repository access to their current build jobs (#13515)]
+* link:https://www.github.com/ls1intum/Artemis/commit/cad98cdd8bf73940232a3866f6d0bc323f4a42a7/[Development: Drop the obsolete quiz statistics tables and columns (#13777)]
+* link:https://www.github.com/ls1intum/Artemis/commit/753cc5d2ff75568c0b1bea3734f8d6a23f6187c8/[Development: Let a skipped not-null constraint be tried again on the next start (#13599)]
+* link:https://www.github.com/ls1intum/Artemis/commit/d9494f7c34d59a759d0bd1bde01d4a2308ed3449/[Development: Stop extending a passkey session once its passkey is gone (#13406)]
+* link:https://www.github.com/ls1intum/Artemis/commit/192be6dfe913007e63761b44eaaf99c2e7cb9656/[Development: Require an exercise to have exactly one owner (#13853)]
+* link:https://www.github.com/ls1intum/Artemis/commit/990cfedf1a084d389a6240a8fb6657b5870b3d5f/[Development: Drop ten redundant and unused database indexes (#13860)]
+* link:https://www.github.com/ls1intum/Artemis/commit/24a062759c2d1dcc920329333c88bd0b179e85ae/[Quiz exercises: Calculate statistics on demand (#13551)]
+* link:https://www.github.com/ls1intum/Artemis/commit/bc7a02da19f81606aa77f70bdf38104c413ae254/[Development: Require a parent for six more entities (#13864)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c5f03d63e97a79a1e5e0ecc64da74d587a6a3d06/[Development: Consolidate Liquibase changelogs into a generated baseline (#13859)]
+* link:https://www.github.com/ls1intum/Artemis/commit/621c76751325cc99f4d4dd0a1de7b1fe0abbbab6/[Development: Drop the unused result and build log order columns (#13571)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2292cc36b51b7871f3de6a43a089b8dd7f0e5b58/[Development: Drop the jhi_user columns whose values moved into their own tables (#13568)]
+* link:https://www.github.com/ls1intum/Artemis/commit/bd336a4223354d61a38fc5d0b8da7f2b4a01bcb2/[Development: Add the forwarded message destination constraint to Liquibase (#13783)]
+* link:https://www.github.com/ls1intum/Artemis/commit/9ef5bb56b38e6fa9be00cf79f49013e941f8bf71/[Development: Add per-course auto-orchestration configuration (#13032)]
+* link:https://www.github.com/ls1intum/Artemis/commit/fc8e5c46c23bf2b00b2242760ebfdbdbec153ab6/[Development: Move rarely-populated special-case columns out of jhi_user (#13546)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ee6b5d3d74014c1259cf9b50315bb0c61b1fe1f5/[Development: Require a parent for posts, feedback and quiz questions (#13874)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2e96c59faad8c3feb744dfddcc21c86069a50b51/[General: Require account activation only where a user can activate their own account (#13541)]
+* link:https://www.github.com/ls1intum/Artemis/commit/dec7abf8f228a9b9e592c89e17c6c6ebf4a86835/[Development: Require the parent to be set for 22 more database relations (#13589)]
+* link:https://www.github.com/ls1intum/Artemis/commit/1bbe196396d620c1d0cadc1512bb4b04d9079b9b/[Administration: Add a built-in feature usage analysis page (#13497)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a03dc411371829fe5acadbe34691258dea48a49f/[Plagiarism checks: Highlight a match to the end JPlag reports (#13683)]
+* link:https://www.github.com/ls1intum/Artemis/commit/e0a5c45ad66cb930e16676003b94fb112ff2c401/[Development: Split the audit log into three tables with separate retention (#13388)]
+* link:https://www.github.com/ls1intum/Artemis/commit/7a5f999a717355446f628da1ddbaba70ae68fdfa/[Lectures: Retire attachments attached directly to a lecture (#13686)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c5584b37831a13b5ab70a28d8737353ea3d153a6/[Development: Bring Liquibase changelogs into the terminology check (#13847)]
+* link:https://www.github.com/ls1intum/Artemis/commit/fc9a89cd6e096fb279bba4cd5d4e00ed56a5e6c8/[Development: Retire the legacy API prefixes no client calls (#13685)]
+* link:https://www.github.com/ls1intum/Artemis/commit/84b0566c8368f8a67b67c619d732b3bdc0da8846/[Development: Store an Iris message tool trail as text rather than a large object (#13920)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a020923c73b8a8e931b6b3da13c6c8766379639e/[Development: Let the build configuration own its exercise key (#13877)]
+* link:https://www.github.com/ls1intum/Artemis/commit/b1451d699ba9dfe29d876cda65ba1cdabe22b262/[Development: Minimize data transfer when processing a build result (#13570)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ed955df5a4440fd804b8e13b1c95d47e99a5696e/[Iris: Add proactive struggle intervention (#13023)]
+* link:https://www.github.com/ls1intum/Artemis/commit/97f8e16c26229f2733168ec4d9f9e69adbe55f14/[General: Require the start date, end date and semester of a course (#13681)]
+* link:https://www.github.com/ls1intum/Artemis/commit/91721bebeef14a859a0416d8e7ca96b42fb43758/[Development: Fix the MySQL to PostgreSQL migration procedure (#13868)]
+* link:https://www.github.com/ls1intum/Artemis/commit/98a415f60617ed25214a6c468a41934fdf2caba6/[Development: Speed up the slowest production database queries (#13526)]
+* link:https://www.github.com/ls1intum/Artemis/commit/75fe5eec737440788a88a827e00b13c03cb8063a/[Development: Fix password reset token stored on server side (#13439)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/78903b4b6b1f0f303d1780ea0ec6d8cb119bd724/[Integrated code lifecycle: Restrict build agent repository access to their current build jobs (#13515)]
+* link:https://www.github.com/ls1intum/Artemis/commit/7f26f2d61969001efa7a3c6bcc7ed3d6a548c38c/[Development: Read saml2 attributes from the assertion accessor (#13682)]
+* link:https://www.github.com/ls1intum/Artemis/commit/b3c935968da32b2da8c59c26073a9797c7f5bfca/[Development: Pin Valkey 9.1.2 as the distributed data image (#13730)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f4928eea3e491cba6e7dad14671ac67ff6f6ec8f/[Infrastructure: Introduce a distributed data provider abstraction (#13352)]
+* link:https://www.github.com/ls1intum/Artemis/commit/efa28f173e05a666eabb464dac6846e78c754319/[Infrastructure: Add Kubernetes-native LocalCI execution (#13375)]
+* link:https://www.github.com/ls1intum/Artemis/commit/88536cb36f14510c4e012b2c2af9e6eeb12eb32a/[Development: Serve the client bundle from the nginx cache (#13746)]
+* link:https://www.github.com/ls1intum/Artemis/commit/6200aba2ffc2b71f29910475b366fc3fa3923a3b/[General: Improve documentation, add one-command trial setup, and signed releases (#13539)]
+* link:https://www.github.com/ls1intum/Artemis/commit/854e4313ea5eea626a0e6c76ed90863e9703353d/[Development: Improve input validation and CI supply chain hardening (#13549)]
+* link:https://www.github.com/ls1intum/Artemis/commit/d13c47d8b9089d9e35ab52deb19867db062471b5/[Development: Remove the unread SAML2 configuration keys (#13735)]
+* link:https://www.github.com/ls1intum/Artemis/commit/046360c1c2b832550dfebd3cd61328d22a3f3aea/[Development: Improve documentation (#13654)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c19798b53b0f4cad384f6e5bba2aa8415127f7ad/[Development: Send connection only for websocket handshakes (#13759)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2e96c59faad8c3feb744dfddcc21c86069a50b51/[General: Require account activation only where a user can activate their own account (#13541)]
+* link:https://www.github.com/ls1intum/Artemis/commit/1bbe196396d620c1d0cadc1512bb4b04d9079b9b/[Administration: Add a built-in feature usage analysis page (#13497)]
+* link:https://www.github.com/ls1intum/Artemis/commit/1e9d816bfec51932224b340672daf110491e990b/[Development: Install the repository dependencies for e2e runs (#13505)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2174c157d9ad21bf0c1510797da5cc387a05cc9c/[Development: Replace the terms frontend and backend (#13734)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/e62c69b098fb4cbd542582cbe054d94163bb7e8a/[Development: Apply the non-PIE sanitizer flags only on Linux (#13597)]
+* link:https://www.github.com/ls1intum/Artemis/commit/e0a5c45ad66cb930e16676003b94fb112ff2c401/[Development: Split the audit log into three tables with separate retention (#13388)]
+* link:https://www.github.com/ls1intum/Artemis/commit/997e077cbd6eac96983cdcbb84d85a0621ca6f7f/[Development: Implement OIDC redirects to vs code extension (#13475)]
+* link:https://www.github.com/ls1intum/Artemis/commit/6c166fe3456a85f7f7bce32c4e59a513e1c07a39/[General: Add deimos malicious participation analysis (#13140)]
+* link:https://www.github.com/ls1intum/Artemis/commit/e2017f856f8e5c61f50b0fc87a10190e19c811e9/[Development: Prepare unique user email enforcement (#13611)]
+* link:https://www.github.com/ls1intum/Artemis/commit/46ff90c14809aecbeaf007113c1df56ee9aae588/[Development: Update dependencies (#13641)]
+* link:https://www.github.com/ls1intum/Artemis/commit/d13c47d8b9089d9e35ab52deb19867db062471b5/[Development: Remove the unread SAML2 configuration keys (#13735)]
+* link:https://www.github.com/ls1intum/Artemis/commit/1cdb4c8a7c30d5d65451a6c53838d473f04f41f7/[Programming exercises: Send email notification if https authentication option is used (#13555)]
+* link:https://www.github.com/ls1intum/Artemis/commit/9f51541b785fbabf1c6bfb2ab3a591c5bcffeee3/[Programming exercises: Restructure and update the instructor documentation (#13731)]
+* link:https://www.github.com/ls1intum/Artemis/commit/34629b5486a192131acbe25124b972e84c4e423a/[Development: Fix vulnerabilities reported by openssf scorecard (#13602)]
+* link:https://www.github.com/ls1intum/Artemis/commit/7902a4043ce00d6345799946fd7d06229863fedb/[Development: Update dependencies (#13824)]
+* link:https://www.github.com/ls1intum/Artemis/commit/fdcbbe86eb6e7457f2866f266800d30a7897cea7/[Development: Fix flaky server tests (#13488)]
+* link:https://www.github.com/ls1intum/Artemis/commit/1b805fcced8c6c15dcf2a56bf42267bc8fb3e9ec/[Programming exercises: Add run configurations for the online IDE (#13636)]
+* link:https://www.github.com/ls1intum/Artemis/commit/1bbe196396d620c1d0cadc1512bb4b04d9079b9b/[Administration: Add a built-in feature usage analysis page (#13497)]
+* link:https://www.github.com/ls1intum/Artemis/commit/518d4c9380f5e177af7577f698d3efcd0c091766/[Development: Link the C sanitizer binaries non-PIE (#13594)]
+* link:https://www.github.com/ls1intum/Artemis/commit/75fe5eec737440788a88a827e00b13c03cb8063a/[Development: Fix password reset token stored on server side (#13439)]

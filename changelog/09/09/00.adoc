@@ -1,0 +1,52 @@
+// SPDX-FileCopyrightText: 2023-2026 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 9.9.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/9.9.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/05991ba912e2f8d81525374079928b6b45bbb646/[Programming exercises: Configure the maven central mirror centrally (#13331)]
+* link:https://www.github.com/ls1intum/Artemis/commit/1888867ae409cc00ab2d69da1621ffba7aeff194/[Programming exercises: Stop cancelling build jobs during docker image pulls (#13311)]
+* link:https://www.github.com/ls1intum/Artemis/commit/0bf7ced97387cc325124653067391e3f095f546a/[Development: Prune the audit event table on two retention schedules (#13397)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f4428ab20bab3595d4c51a420c2004bf0a6afbe3/[Development: Raise the metrics URI tag limit so endpoint metrics stop being dropped (#13367)]
+* link:https://www.github.com/ls1intum/Artemis/commit/9d78c4512523bd6c4e23ee0709a0a3132e347dce/[General: Add configurable data privacy cleanup for old courses, feedback, and inactive users (#13267)]
+* link:https://www.github.com/ls1intum/Artemis/commit/5eee99d5d62ee667026ae371be0045c0dd208ed1/[Development: Deduplicate keys in the management info endpoint (#12993)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/1ea2c1eda8047a551a1e6a5eea75ab47794eee9c/[General: Allow users to revoke their credentials (#13482)]
+* link:https://www.github.com/ls1intum/Artemis/commit/bef6b986573f279741fda48df7df4a9deafcaa81/[Development: Reconcile long-lived databases with the consolidated schema (#13329)]
+* link:https://www.github.com/ls1intum/Artemis/commit/eb951740efa02c0f53518f696f75e94a9fbfba25/[Development: Drop the legacy course group table and columns (#13493)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f3463b7540879c6520dd585454f7e865288863a0/[Development: Fold quiz question, submission, and statistics data into JSON columns (#13181)]
+* link:https://www.github.com/ls1intum/Artemis/commit/e748f644caed1b104afde0d6627c3c2aff2302ba/[Development: Drop dead database columns and tables (#13334)]
+* link:https://www.github.com/ls1intum/Artemis/commit/0bf7ced97387cc325124653067391e3f095f546a/[Development: Prune the audit event table on two retention schedules (#13397)]
+* link:https://www.github.com/ls1intum/Artemis/commit/9d78c4512523bd6c4e23ee0709a0a3132e347dce/[General: Add configurable data privacy cleanup for old courses, feedback, and inactive users (#13267)]
+* link:https://www.github.com/ls1intum/Artemis/commit/623718992f9fe94bfb6de2add43ef64129c07aab/[Development: Replace course group strings with user course role for membership checks (#12788)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ee031b9f724ffaffa9737a21d162a494a56cd36b/[Exercises: Add support for exercise variants (#12974)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/6c86a5f3486f25c172ce58a6856d33dcc1fc86a5/[Development: Fix the Docker image build and its missing client styles (#13430)]
+* link:https://www.github.com/ls1intum/Artemis/commit/5eb72c4a8c3a68b25e901e88f0898bb68b575833/[Development: Run the docker image from an extracted war for faster startup (#13073)]
+* link:https://www.github.com/ls1intum/Artemis/commit/eb951740efa02c0f53518f696f75e94a9fbfba25/[Development: Drop the legacy course group table and columns (#13493)]
+* link:https://www.github.com/ls1intum/Artemis/commit/5f1787625c0443b67e14882318a298f09f29fcda/[Development: Validate credential and rendering configuration at startup (#13386)]
+* link:https://www.github.com/ls1intum/Artemis/commit/93e0fc82cee8264c950eef027094a929ce0d3e14/[Development: Update docker images and upgrade the monitoring stack (#13436)]
+* link:https://www.github.com/ls1intum/Artemis/commit/49d4ead9b4359aeff9109b68e590463667f5a5b9/[Development: Point nginx auth rate limits at the endpoints actually served (#13387)]
+* link:https://www.github.com/ls1intum/Artemis/commit/5eee99d5d62ee667026ae371be0045c0dd208ed1/[Development: Deduplicate keys in the management info endpoint (#12993)]
+* link:https://www.github.com/ls1intum/Artemis/commit/40474d9fab1ccfda9b505fa52b9ffb5238683364/[Development: Exempt the e2e stacks from the nginx request rate limits (#13412)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/3626ff0e2c3c71205f080037689f88383d2c3b0a/[Development: Bump json to 2.21.2 in the Ruby SCA exercise templates (#13457)]
+* link:https://www.github.com/ls1intum/Artemis/commit/1ea2c1eda8047a551a1e6a5eea75ab47794eee9c/[General: Allow users to revoke their credentials (#13482)]
+* link:https://www.github.com/ls1intum/Artemis/commit/05991ba912e2f8d81525374079928b6b45bbb646/[Programming exercises: Configure the maven central mirror centrally (#13331)]
+* link:https://www.github.com/ls1intum/Artemis/commit/727336fed79d8a56de9b47af8f162da7fb4e7024/[Development: Stop the c kill shadow recursing until the stack overflows (#13481)]
+* link:https://www.github.com/ls1intum/Artemis/commit/d99e21b46d385dae6ba7847ec85cf109c9292421/[General: Keep checkboxes square when zooming and style the password reset email (#13487)]
+* link:https://www.github.com/ls1intum/Artemis/commit/9d78c4512523bd6c4e23ee0709a0a3132e347dce/[General: Add configurable data privacy cleanup for old courses, feedback, and inactive users (#13267)]
+* link:https://www.github.com/ls1intum/Artemis/commit/fb13720f32cff6be66d8c0ac68e1bf9c8cfa6db0/[Development: Bump the js-yaml override to 4.3.1 in programming exercise templates (#13462)]

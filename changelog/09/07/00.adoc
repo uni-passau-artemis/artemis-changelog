@@ -1,0 +1,32 @@
+// SPDX-FileCopyrightText: 2023-2026 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 9.7.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/9.7.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/686f99ca2f4742dc4eee3bba7f570924dced5fb5/[Global search: Document Weaviate setup and relocate Pyris guidance (#13006)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/ec83de60cba16d9b4d75296060521a553721f98e/[Development: Harden shell scripts and docker files (#13225)]
+* link:https://www.github.com/ls1intum/Artemis/commit/e7d1402f4978d4a2a12d26f286723b4232ba75e9/[Exam mode: Include exam start and end date changes in update events (#13088)]
+* link:https://www.github.com/ls1intum/Artemis/commit/5ea5ffd646f464fb02f47224d7c0a01d6208a6f4/[Programming exercises: Notify instructors about maven central rate limit build failures (#13240)]
+* link:https://www.github.com/ls1intum/Artemis/commit/b47cf8ff8d54adca4b023c4250e8600e84dd72b6/[Programming exercises: Fix an intermittent edge case error when deleting an exercise while a result arrives (#13216)]
+* link:https://www.github.com/ls1intum/Artemis/commit/60d06c84395b77c277e9c02556c04bba77b88eb2/[Development: Stabilize flaky e2e and server tests (#13168)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/2a139f0fa62c892a7b5401fdf78c159d32184bd1/[Development: Improve github action build pipelines (#13155)]
+* link:https://www.github.com/ls1intum/Artemis/commit/66a158d920aa2ff72996d02567060dcbbebb1a6b/[Development: Silence false positive hadolint warning on the war file stage (#13234)]
+* link:https://www.github.com/ls1intum/Artemis/commit/ec83de60cba16d9b4d75296060521a553721f98e/[Development: Harden shell scripts and docker files (#13225)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/5ea5ffd646f464fb02f47224d7c0a01d6208a6f4/[Programming exercises: Notify instructors about maven central rate limit build failures (#13240)]

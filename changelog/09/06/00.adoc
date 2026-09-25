@@ -1,0 +1,29 @@
+// SPDX-FileCopyrightText: 2023-2026 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 9.6.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/9.6.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/1dbe70b806f1d95c3acd60d6ecf1252ad7f502f6/[Development: Disable theia module feature on build agents (#13160)]
+* link:https://www.github.com/ls1intum/Artemis/commit/4adfc1e7c2fd4281a3f7729c7b625314413fcf75/[Iris: Stream responses to the browser while the answer generates (#13099)]
+* link:https://www.github.com/ls1intum/Artemis/commit/449532565c35e4528a83d5e48520ed0782444c42/[Development: Automate Atlas orchestration trigger (#12749)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f159eb7b90e7c8be261ce8ad6e4e71d8ebbf518a/[Development: Fix startup with disabled optional modules and speed up production startup (#13013)]
+* link:https://www.github.com/ls1intum/Artemis/commit/abe7225f453c00ffcd6b8573feed7e0545b151e8/[Development: Migrate the lecture PDF stack to EmbedPDF (#13045)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/e708d413fc0aa495349960a056d2d4bbaed31674/[Integrated code lifecycle: Provide repository scoped git access tokens for course staff (#12989)]
+* link:https://www.github.com/ls1intum/Artemis/commit/12defc722e585bdc101c96d4bdeffaba2520707e/[Development: Migrate database completelely to new phases format for LocalCI (#12911)]
+* link:https://www.github.com/ls1intum/Artemis/commit/cf8e87111945e20b8159e89674b21faeeeb3ca85/[Iris: Replace stage status system with run-state and activity visibility (#13134)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/463a4d4c11dcc4cc5c26f217ed74f236e5123513/[Development: Fix the angular client being wiped from the release war before packaging (#13142)]
+* link:https://www.github.com/ls1intum/Artemis/commit/abe7225f453c00ffcd6b8573feed7e0545b151e8/[Development: Migrate the lecture PDF stack to EmbedPDF (#13045)]
+* link:https://www.github.com/ls1intum/Artemis/commit/28ee28c97f46d45e8e57aa4b99591b0a8bb3beb6/[Development: Fix multi-node e2e tests failing to start node-2 (#13106)]

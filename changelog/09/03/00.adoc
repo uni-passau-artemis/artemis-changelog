@@ -1,0 +1,32 @@
+// SPDX-FileCopyrightText: 2023-2026 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 9.3.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/9.3.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/1258484214d47fe42b9a370b1dc860a6aba836fd/[Development: Migrate Athena, Apollon, LDAP, and SAML2 from Spring profiles to module-feature toggles (#12711)]
+* link:https://www.github.com/ls1intum/Artemis/commit/bc5e149070e478b47824025f89629ed044b0efae/[Development: Add Docker readiness and liveness probes (#12760)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8b8ae77f9307b6e77ba6e83071f4ff595c13e1a0/[Adaptive learning: Add advisory competency orchestrator for programming exercises (#12606)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/e65ccf469447d44c4b922da3f6d969b169945580/[File upload exercises: Show assessment dashboard button by defaulting assessment type to manual (#12705)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/bc5e149070e478b47824025f89629ed044b0efae/[Development: Add Docker readiness and liveness probes (#12760)]
+* link:https://www.github.com/ls1intum/Artemis/commit/5117ca5c6e5e951395f227071542c4d442a70a19/[Development: Switch the client package manager from npm to pnpm (#12699)]
+* link:https://www.github.com/ls1intum/Artemis/commit/163b930ffe0d2c6e670a00ba085d515aacbda99b/[Development: Upgrade dependencies (#12716)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a966e5bc481cec10edf22b68b9c2973bf550a84d/[Development: Only generate sbom for production builds (#12735)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/2ec475220eb3e6ad6164c2ae26e38bca8e51147a/[Development: Fix flaky LocalCIDockerImageIntegrationTest (#12672)]
+* link:https://www.github.com/ls1intum/Artemis/commit/6724240cb4794b65699b900c79c7935ee6ebb932/[Programming exercises: Replace non-printable characters in automatic feedback of Java blackbox template (#12661)]
